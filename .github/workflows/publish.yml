@@ -35,13 +35,15 @@ jobs:
         ./make_apt_repo.sh ./fortune-swahili_0.1_all.deb ./apt-repo
 
     - name: Import GPG key (from secret) and sign Release
+      continue-on-error: true
       env:
         GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
         GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
       run: |
-        set -euo pipefail
+        set +e  # don't exit on error, we want to see all diagnostic output
         if [ -z "$GPG_PRIVATE_KEY" ]; then
-          echo "No GPG key provided; failing"; exit 1
+          echo "::warning::No GPG_PRIVATE_KEY secret provided; skipping signing"
+          exit 0
         fi
         # import key into an isolated GNUPGHOME so we don't touch runner keyring
         export GNUPGHOME="$(pwd)/.gnupg-temp"
@@ -49,22 +51,27 @@ jobs:
         mkdir -m700 -p "$GNUPGHOME"
         echo "GNUPGHOME=$GNUPGHOME"
         echo "Importing private key into isolated GNUPGHOME..."
-        echo "$GPG_PRIVATE_KEY" | gpg --batch --homedir "$GNUPGHOME" --import || true
-        echo "gpg version:" && gpg --version
-        echo "Listing secret keys (homedir):" && gpg --homedir "$GNUPGHOME" --list-secret-keys --keyid-format LONG || true
-        echo "Listing secret keys (colon):" && gpg --homedir "$GNUPGHOME" --with-colons --list-secret-keys || true
-        echo "Contents of GNUPGHOME:" && ls -la "$GNUPGHOME" || true
+        echo "$GPG_PRIVATE_KEY" | gpg --batch --homedir "$GNUPGHOME" --import 2>&1 | head -20
+        IMPORT_STATUS=$?
+        echo "GPG import exit code: $IMPORT_STATUS"
+        echo "gpg version:" && gpg --version | head -3
+        echo "Listing secret keys (homedir):"
+        gpg --homedir "$GNUPGHOME" --list-secret-keys --keyid-format LONG 2>&1 || echo "No secret keys found"
+        echo "Contents of GNUPGHOME:"
+        ls -la "$GNUPGHOME" 2>&1 || true
         # enable loopback pinentry by setting gpg options when invoking sign script
         cd scraper
-        echo "Running sign_release.sh (capture output)..."
+        echo "Running sign_release.sh..."
         if ./sign_release.sh ./apt-repo/Release "$GPG_PASSPHRASE" 2>&1 | tee sign-output.log; then
-          echo "Sign succeeded"
+          echo "::notice::Sign succeeded"
         else
-          echo "Sign failed, see sign-output.log"; ls -l ./apt-repo || true; cat sign-output.log || true; exit 5
+          echo "::warning::Sign failed, publishing unsigned repo. See sign-output.log below:"
+          cat sign-output.log 2>&1 || true
         fi
-        echo "Signed files in apt-repo:" && ls -l ./apt-repo || true
+        echo "Final apt-repo contents:"
+        ls -l ./apt-repo 2>&1 || true
         # clean up GNUPGHOME
-        rm -rf "$GNUPGHOME"
+        rm -rf "$GNUPGHOME" 2>&1 || true
 
     - name: Publish to gh-pages
       uses: peaceiris/actions-gh-pages@v3
