@@ -47,10 +47,21 @@ jobs:
         export GNUPGHOME="$(pwd)/.gnupg-temp"
         rm -rf "$GNUPGHOME"
         mkdir -m700 -p "$GNUPGHOME"
-        echo "$GPG_PRIVATE_KEY" | gpg --batch --import
+        echo "GNUPGHOME=$GNUPGHOME"
+        echo "Importing private key into isolated GNUPGHOME..."
+        echo "$GPG_PRIVATE_KEY" | gpg --batch --homedir "$GNUPGHOME" --import || true
+        echo "gpg version:" && gpg --version
+        echo "Listing secret keys (homedir):" && gpg --homedir "$GNUPGHOME" --list-secret-keys --keyid-format LONG || true
+        echo "Listing secret keys (colon):" && gpg --homedir "$GNUPGHOME" --with-colons --list-secret-keys || true
+        echo "Contents of GNUPGHOME:" && ls -la "$GNUPGHOME" || true
         # enable loopback pinentry by setting gpg options when invoking sign script
         cd scraper
-        ./sign_release.sh ./apt-repo/Release "$GPG_PASSPHRASE"
+        echo "Running sign_release.sh (capture output)..."
+        if ./sign_release.sh ./apt-repo/Release "$GPG_PASSPHRASE" 2>&1 | tee sign-output.log; then
+          echo "Sign succeeded"
+        else
+          echo "Sign failed, see sign-output.log"; ls -l ./apt-repo || true; cat sign-output.log || true; exit 5
+        fi
         echo "Signed files in apt-repo:" && ls -l ./apt-repo || true
         # clean up GNUPGHOME
         rm -rf "$GNUPGHOME"
