@@ -5,24 +5,24 @@ Origin: fortune-swahili
 Label: fortune-swahili
 Suite: stable
 Codename: stable
-Date: Tue, 14 Oct 2025 18:29:46 UTC
+Date: Tue, 14 Oct 2025 18:33:53 UTC
 Architectures: all
 Components: main
 Description: Swahili proverbs fortune package repository
 
 MD5Sum:
- 26275ad57b138fe5edd6e2c45f1efdf5 492 main/binary-all/Packages
- fe7e6c73ffdbd76f4e2e1076a49e160d 351 main/binary-all/Packages.gz
+ 9263e098950ac28cfd0fa4786fe0b8e6 492 main/binary-all/Packages
+ 4d4b740c1207cbbcaeda6e0e7c1d8e1f 357 main/binary-all/Packages.gz
 SHA1:
- 297ebd2ceab8bb55a34f4fdaf8d81a2528b7d9cc 492 main/binary-all/Packages
- f33ec0fe8ba8960da145650a2b3d8c006d71eef0 351 main/binary-all/Packages.gz
+ bec4baa4581b1df653c3ca901028d2202bda595d 492 main/binary-all/Packages
+ a40692c15ca722a35496c8ca4023b88290f71522 357 main/binary-all/Packages.gz
 SHA256:
- 5123b6a1369d17ad15d0236a341993c7db24f2218da427511aa964afaadcedfd 492 main/binary-all/Packages
- 84fe72f4577daee17f9fe361734e6fdf4cc1684103e7db05a90dc747d2692428 351 main/binary-all/Packages.gz
+ 26b1b7781303747e65953cfd61935a6baa7767be5eb1e1a530161dc348fbb98e 492 main/binary-all/Packages
+ 8faf6e228bc8019860d7fbdb06e0535b8142a16e3286c3d5057eaf1afd42800b 357 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSozgWbRNC677tjBypsNlqq3sXSYQUCaO6WnAAKCRBsNlqq3sXS
-YeP4AP9/MM9gUlrIcC5tjMomPXC9PID+D+gfADUf0gfdS/OnSgD9FWhjHTLKpNcu
-v/Ez+vF+Vlza2/+gJE+TeHm0RpBRFgI=
-=o/ax
+iHUEARYKAB0WIQSozgWbRNC677tjBypsNlqq3sXSYQUCaO6XkgAKCRBsNlqq3sXS
+Yb5pAP9M5+12cQ5vYdmlR4D2V81jZxlxerxpmDmaHNjQzwa1ZwD9GzBz/DSApaVc
+DSmEf+nFGh/iX4LGMv7qdp8vckMzqQQ=
+=4zyC
 -----END PGP SIGNATURE-----
