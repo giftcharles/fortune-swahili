@@ -1,0 +1,18 @@
+Origin: fortune-swahili
+Label: fortune-swahili
+Suite: stable
+Codename: stable
+Date: Tue, 14 Oct 2025 18:27:31 UTC
+Architectures: all
+Components: main
+Description: Swahili proverbs fortune package repository
+
+MD5Sum:
+ 8b2dcb1eb8558f2020f7637162ceb63a 492 main/binary-all/Packages
+ 2e87ecc416174333da62b0d4f342e37e 354 main/binary-all/Packages.gz
+SHA1:
+ 998dd138ff902837872968e26b44962e192e3459 492 main/binary-all/Packages
+ 85ef0edb50787c62e6d21089fcf4dc3165d47a5e 354 main/binary-all/Packages.gz
+SHA256:
+ 953427cf775b8529036d45c64241f17a142c084a2039eb240ae01213450edd9c 492 main/binary-all/Packages
+ 89321b1f4e2905c3fba94ac0e0677d570c51f1a381a352dc3db166a2e347e920 354 main/binary-all/Packages.gz

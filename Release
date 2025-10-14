@@ -1,8 +1,0 @@
-Origin: fortune-swahili
-Label: fortune-swahili
-Suite: stable
-Codename: stable
-Date: Tue, 14 Oct 2025 18:21:18 UTC
-Architectures: all
-Components: main
-Description: A small apt repo with fortune-swahili package
