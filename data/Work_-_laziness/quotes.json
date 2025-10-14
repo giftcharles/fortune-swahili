@@ -1,0 +1,982 @@
+[
+  {
+    "quote": "Achae  asende; akweae ale.",
+    "person": "",
+    "tail": "JKP. One who is afraid should not go; the one who climbs in the tree let that one eat. Said when going hunting or fishing. 4634. Achanikaye kwenye mpini hafi njaa. EM.8.1. The person who gets blisters from the hoe-handle will not die of hunger. A diligent worker will reap the fruits of his industry. 4635. Ah! Haifai maishani. KER. Shouts of disgust are useless in life"
+  },
+  {
+    "quote": "Aingiaye mwituni, atarejea na kuni.",
+    "person": "",
+    "tail": "RSP.20. The person who goes to the forest will come back with firewood."
+  },
+  {
+    "quote": "Alalamikaye kwa wingi hufanya machache.",
+    "person": "",
+    "tail": "SAM. 2.10. One who complains much does little. Not only does that person do little, but also prevents others from achieving."
+  },
+  {
+    "quote": "Ana [yuna] usingizi kama  pono.",
+    "person": "",
+    "tail": "RECH.444; SACL. 757; V. 129; T.597; KS, lala. So and So sleeps like a pono [fish]. Is lazy. V. Students are afraid of eating the pono, because it would make them lazy or stupid. V., pono. Umekula pono? Have you eaten the pono? Are you sleepy? Lazy? Pono: a kind of sluggish fish that lives among the coral."
+  },
+  {
+    "quote": "Ana  usingizi kama pili.",
+    "person": "",
+    "tail": "ED.78. So and So sleeps like a puff adder."
+  },
+  {
+    "quote": "Yu  mrefu kama shetani",
+    "person": "",
+    "tail": ". V.130. A person as tall as the devil."
+  },
+  {
+    "quote": "Mrefu  kama mlingoti.",
+    "person": "",
+    "tail": "KS, mlingoti. Someone tall like a (ship's) mast."
+  },
+  {
+    "quote": "Mrefu  kama unju",
+    "person": "",
+    "tail": ". KS,unju. Tall like Unju. Unju: an extremely tall person."
+  },
+  {
+    "quote": "Anayetegemea cha bure, huishi maskini.",
+    "person": "",
+    "tail": "REK. One who expects to live for free will live in poverty."
+  },
+  {
+    "quote": "Avunjaye nazi ni lazima ale tui yake.",
+    "person": "",
+    "tail": "MEM.110. The one who cracks the coconut should consume the cream. The person who does the hard work should enjoy the fruits of that work. MEM."
+  },
+  {
+    "quote": "Aweza kugeuza yalala kuwa utajiri.",
+    "person": "",
+    "tail": "KB.30; TS 40,12. That person can change a garbage dump into wealth. KB. By continual effort the poor can become rich. But TS puts it under vanity: someone is bragging."
+  },
+  {
+    "quote": "Biashara ya pembe hapana cha kuambulia.",
+    "person": "",
+    "tail": "KA. At the ivory market there is no profit. The ivory market is expensive. Used when people waste time in looking and admiring. Kuambulia or faida: profit."
+  },
+  {
+    "quote": "Bilashi, bilashi, katu haitoshi.",
+    "person": "",
+    "tail": "JKP. For nothing, for nothing, never satisfies. \"A beggar is never satisfied. Once you give something away, the receiver will expect the same gift again.\" JKP. Doing work without remuneration does not satisfy."
+  },
+  {
+    "quote": "Binadamu lazima ajitahidi.",
+    "person": "",
+    "tail": "NGU. A human being must make an effort."
+  },
+  {
+    "quote": "Bonde mwanzowe kilima.",
+    "person": "",
+    "tail": "SAM.5.5. A valley's beginning is a hill. Before obtaining a state of well-being, we must work for it: Climbing up before we can go down. SAM."
+  },
+  {
+    "quote": "Bora kidogo kwa haki.",
+    "person": "",
+    "tail": "KB.33. A little, but earned, is the best."
+  },
+  {
+    "quote": "Bora  kidogo kwa haki kuliko mali  nyingi kwa wovu.",
+    "person": "",
+    "tail": "KB.33. The little acquired honestly is better than much but ill acquired."
+  },
+  {
+    "quote": "Cha bure hakipatikani.",
+    "person": "",
+    "tail": "L. p.ll2. A thing for nothing is not obtainable."
+  },
+  {
+    "quote": "Chimbani, chimbani, kwa uthabiti",
+    "person": "",
+    "tail": "mwema na mwovu, hawajulikani. mwenye nia mbovu, ingia kisimani. JKP #603. Dig, dig with perseverance The good and the wicked cannot be distinguished Anyone with a bad intention falls in this well. \"A well-diggers' song.\" JKP."
+  },
+  {
+    "quote": "Fumbe na mleli wake, haulali ndora.",
+    "person": "",
+    "tail": "SACL. 230; JKP. The widow bird with its long tail never sleeps. This is used as an invitation to workers to work harder. \"Be active, for the black bird is a memento of dying, since it is associated with the grave\". JKP. Fumbe or fumbwe: a wydah, a sparrow with a long tai1. Mleli: feather, for tail. Ndora: name of a field."
+  },
+  {
+    "quote": "Fundi hana njaa.",
+    "person": "",
+    "tail": "JKP. A craftsman is not hungry. \"A skilled worker will always find work\". JKP."
+  },
+  {
+    "quote": "Fundi mbaya huteta na ala zake.",
+    "person": "",
+    "tail": "JK.144. The bad craftsman quarrels with the tools. Cf. #1990."
+  },
+  {
+    "quote": "Gari haimwendeshi mwenyewe.",
+    "person": "",
+    "tail": "REK. The car does not move the owner. Because one has a car it does not absolve the owner from making efforts to be accepted in society."
+  },
+  {
+    "quote": "Hakuna cha bure.",
+    "person": "",
+    "tail": "NGU. Nothing is free."
+  },
+  {
+    "quote": "Hakuna kitu kigumu kwa mtu mwenye bidii.",
+    "person": "",
+    "tail": "NGU. Nothing is hard for an energetic person."
+  },
+  {
+    "quote": "Hatua ndefu hufupisha mwendo.",
+    "person": "",
+    "tail": "MARA 2; KA. Big steps shortens a walk. Used to encourage effort."
+  },
+  {
+    "quote": "Heri kwenda bure kama kukaa bure.",
+    "person": "",
+    "tail": "JKP. It is better to go in vain than to stay in vain. \"You regret more what you did not do than what you did.\" JKP. Cf.#1994; #1999; #2024."
+  },
+  {
+    "quote": "Hufanya kazi punda, matai humpenda.",
+    "person": "",
+    "tail": "RSP.70. The donkey works all his life, [and only] the vultures like it [after its death]. RSP."
+  },
+  {
+    "quote": "Hujikata kujiunga.",
+    "person": "",
+    "tail": "JK.118. One cuts oneself, to put oneself together. JK. You almost destroy oneself working, then you have to restore your strength and start again. JK."
+  },
+  {
+    "quote": "Ibilisi hunea wavivu.",
+    "person": "",
+    "tail": "EM i8. The devil oppresses the lazy. The devil looks for people who have plenty of idle time. EM."
+  },
+  {
+    "quote": "Imani hufa kwa sumu ya ujira mbaya.",
+    "person": "",
+    "tail": "EM I4. Trust dies because bad pay poisons it Trust needs a good satisfying reponse. EM."
+  },
+  {
+    "quote": "Inama upate.",
+    "person": "",
+    "tail": "NGU. Bow down so that you may get it. Refers to effort in order to obtain what you want and need. But of course can also be used as \"Courtesy opens all doors\". Cf. #159."
+  },
+  {
+    "quote": "Jasho la mtu haliliki.",
+    "person": "",
+    "tail": "NGU. A person's sweat is not eaten. Do not exploit or depend on another's work. Kula jasho la mwenzako: to depend on the work of another. (idiom)."
+  },
+  {
+    "quote": "Jasho la mtu mungu halitupi.",
+    "person": "",
+    "tail": "EM j4. God does not ignore a person's sweat. Work is rewarded."
+  },
+  {
+    "quote": "Jembe ardhini, afya mwilini.",
+    "person": "",
+    "tail": "REK. The hoe in the soil [brings] health to the body. Work brings food on the table."
+  },
+  {
+    "quote": "Jembe halimwongozi mlimaji.",
+    "person": "",
+    "tail": "AL,ongoza; AL 1563. The hoe does not lead the farmer. The inferior (hoe) must not give orders to the higher up."
+  },
+  {
+    "quote": "Jembe mkononi, chakula mdomoni.",
+    "person": "",
+    "tail": "AL 164. With the hoe in the hand, there will be food to eat. Cf.#1971f."
+  },
+  {
+    "quote": "Jikune unapofikia.",
+    "person": "",
+    "tail": "NGU. Scratch yourself where you can reach. Do your own scratching. Help yourself. Do what you can."
+  },
+  {
+    "quote": "Jogoo ndio saa la shamba.",
+    "person": "",
+    "tail": "V.,jogoo. The rooster is the village's clock."
+  },
+  {
+    "quote": "Kalia damani na kushika mkononi.",
+    "person": "",
+    "tail": "JKP. Sit near [your own] rope [of the main sail] and hold it in your hand. \"Don't be a back-seat driver, stick to your job.\" JKP. Damani or demani: rope of mainsail."
+  },
+  {
+    "quote": "Kaukumbatie mnazi ukaupande, kazi uanze.",
+    "person": "",
+    "tail": "JKP. Embraze the coconut tree and climb it, start work. \"Many Swahili workers used to be employed as coconut pickers. They were paid by the number of trees they had climbed.\" JKP."
+  },
+  {
+    "quote": "Kazi bila mchezo hayendi.",
+    "person": "",
+    "tail": "NGU. Work without play does not go well. Mix work with leisure and you will never go mad (Russian proverb)."
+  },
+  {
+    "quote": "Kazi hayendi, ila kwa kunga.",
+    "person": "",
+    "tail": "JKP. The work will not progress if one does not know the rules [for the initiated]. The work cannot be satisfactory until you are accepted and know all the tricks. \"A specialized knowledge for every job.\" JKP. Cf.#1258A."
+  },
+  {
+    "quote": "Kazi isiyo faida kutenda si ada.",
+    "person": "",
+    "tail": "A.206; T.132. Work without profit, it is not fit for reward. Uselessness is damaging. V."
+  },
+  {
+    "quote": "Kazi,  isiyokuwa na manufaa, kutenda si ada.",
+    "person": "",
+    "tail": "V.103. Useless work is worthless."
+  },
+  {
+    "quote": "Kazi isiyo  kipimo mwishowe watu hutetana.",
+    "person": "",
+    "tail": "A.206; T.133; L.110; SAM.9.4; KB.91. Work that has no measure, at the end of it people quarrel. Do not overburden a fellow human being. SAM. Cf. #2019, #1984."
+  },
+  {
+    "quote": "Kazi lazima ifanywe.",
+    "person": "",
+    "tail": "NGU. Work must be done."
+  },
+  {
+    "quote": "Kazi mbi  si mchezo mwema.",
+    "person": "",
+    "tail": "A.202; T.134; J, wi; MARA.24; SACL..338; V.,kazi; F.14.7, kazi mbaya; KB.92; STEERE, p.192; KS, kazi. Bad work is better than good play. A laborious work cannot be compared with the attraction of play: one has profit, the other leads to starvation. Sacl. Poor-at-work is better than good-at-games. Hurry the crossing, p.117. A take-off: Kazi mbili si mchezo mwema. NGU. Working two jobs is not nice play."
+  },
+  {
+    "quote": "Kazi ngumu mpe mwenyezi.",
+    "person": "",
+    "tail": "REK. Hard work give it to the Almighty. Do not do the impossible."
+  },
+  {
+    "quote": "Kazi ni kanzi.",
+    "person": "",
+    "tail": "MA.158. Work is a treasure. Work is a source of prosperity and happiness."
+  },
+  {
+    "quote": "Kazi ni pato.",
+    "person": "",
+    "tail": "EM k4. Work is income. \"In order to gain something you must work for it. To desire a thing without work is to fall into the Devil's trap.\" EM."
+  },
+  {
+    "quote": "Kazi ya kijungu jiko mekoni.",
+    "person": "",
+    "tail": "SEMI.12. Work for the little pot on the stove. To work for food or daily need only, not for a salary."
+  },
+  {
+    "quote": "Kazi  ya kijungu meko.",
+    "person": "",
+    "tail": "KS,meko. To work just for food."
+  },
+  {
+    "quote": "Kazi ya msira huisirasira.",
+    "person": "",
+    "tail": "KS,msira. Work for a miser does not pay. Sira: dreg, leftover pulp."
+  },
+  {
+    "quote": "Kazi ya  shikazi, niwachia kazi!  Kazi ya msira huisira-sira.",
+    "person": "",
+    "tail": "T.135; SACL. 597. Work for money, leave that to me. The work for a miser I usually scamp. Msira for bahili: miser. Shikazi: old word for dollar."
+  },
+  {
+    "quote": "Kazi yoyote ina faida.",
+    "person": "",
+    "tail": "NGU. All work is useful."
+  },
+  {
+    "quote": "Kibarua  hulima juani, tajiri hulia kivulini.",
+    "person": "",
+    "tail": "EM k6. A day-worker cultivates in the sun, the master eats in the shade. One toils, the other munches."
+  },
+  {
+    "quote": "Kikupondacho ni tumbo.",
+    "person": "",
+    "tail": "JKP. That which exposes you [to danger] is your stomach. \"The stomach commands the Swahili to go out on dangerous journeys to earn their living.\" JKP. Ponda: pound to pieces, crush."
+  },
+  {
+    "quote": "Kila kazi ina kunga zake.",
+    "person": "",
+    "tail": "AL,kunga. Every craft has its own techniques."
+  },
+  {
+    "quote": "Kila kilicho kitamu kimeungwa.",
+    "person": "",
+    "tail": "NGU. All sweet things [pleasant happenings] have been prepared."
+  },
+  {
+    "quote": "Kila kinachong'ara kimesuguliwa.",
+    "person": "",
+    "tail": "NGU. Everything that shines has been brushed."
+  },
+  {
+    "quote": "Kila kitu kina chimbuko lake.",
+    "person": "",
+    "tail": "ZO p.253. Everything has its beginnings Chimbuko, also, mwanzo, asili, chanzo: a beginning. Cf. # 523."
+  },
+  {
+    "quote": "Kila neno lina kipindi [kiasi] chake.",
+    "person": "",
+    "tail": "T.637. Everything has its time [or measure]."
+  },
+  {
+    "quote": "Kila ngoma kwa mchezo wake.",
+    "person": "",
+    "tail": "JKP. Every drum has its own dance. \"Every work has its own way of being performed. No two works are similar\" JKP."
+  },
+  {
+    "quote": "Kilimia  kikizama kwa jua huzuka kwa mvua; kikizama kwa mvua huzuka kwa jua.",
+    "person": "",
+    "tail": "V.,kilimia; KA., zama; T.150; KS, zama. When the Pleiades set in sun [sunny weather] they rise in rain; when they set in rain they rise in sun. Kilimia: the Pleiades or the seven sisters, probably from kulima, to cultivate: by which to start cultivating."
+  },
+  {
+    "quote": "Kilimo cha kufa na kupona.",
+    "person": "",
+    "tail": "KS,kilimo. Cultivate till you drop. The idiom Kufa na kupona: dying and getting better, means to try something by all means, to give everything you have. Cf #548."
+  },
+  {
+    "quote": "Kisilima kimelima kimeshinda jembe zima.",
+    "person": "",
+    "tail": "KA. A worn out hoe did more hoeing than a whole one. Don't despise a nobody. Sometimes they are or were more useful than 'important' people. Kisilima or kiserema or kisagalima: an old worn out hoe, of which only a part is remaining and no good for farming anymore."
+  },
+  {
+    "quote": "Kitanda ni ndugu.",
+    "person": "",
+    "tail": "REK. The bed is like a brother/sister."
+  },
+  {
+    "quote": "Kitu kilivyogemwa ndivyo kinywewavyo.",
+    "person": "",
+    "tail": "ZO 254. As it is tapped so it will be drunk. Cf #2000."
+  },
+  {
+    "quote": "Kiuno  kiteke kinang'aa; hakikai nyumba moja na njamaa.",
+    "person": "",
+    "tail": "FSM.77. The soft waist that shines with perspiration does not dwell in the same house as hunger. FSM. Used in the teaching of girls' initiation. Njamaa stands for njaa: hunger. Provides the explanation of FSM."
+  },
+  {
+    "quote": "Kizuri kinaundwa.",
+    "person": "",
+    "tail": "NGU. A beautiful thing is made. Cf. #2020."
+  },
+  {
+    "quote": "Kofia ikikufaa ivae.",
+    "person": "",
+    "tail": "NGU. If the hat fits wear it. Accept a job you like and can fulfill; accept also the praise or blame earned."
+  },
+  {
+    "quote": "Kozi mwana  mandanda, kulala na njaa kupenda.",
+    "person": "",
+    "tail": "F.16.37; SACL. 443; KS,kozi. The goshawk is a skilled hunter; if it sleeps hungry, it is its own fault."
+  },
+  {
+    "quote": "Kuagiza [ni] kufyekeza.",
+    "person": "",
+    "tail": "F.17.38; AL 1452; KA; NGU. One ordering farm work gets only clearing of undergrowth. If you leave your work to others, it will not be done properly."
+  },
+  {
+    "quote": "Kuagiza  ni kuweza?",
+    "person": "",
+    "tail": "T. 166. Does sending an order imply ability? Kufyekeza from kufyeka: to make a clearing in the forest to sweep away, and therefore sometimes means: to destroy. Thus a translation could be: To give orders is to destroy."
+  },
+  {
+    "quote": "Kuagiza  sio kutengeneza.",
+    "person": "",
+    "tail": "JKP. To order is not the same as to get the job done. To order a job does not mean that it will be done right."
+  },
+  {
+    "quote": "Kucheza ngoma goya.",
+    "person": "",
+    "tail": "KS, ngoma. Play the drum for free. Do something without profit."
+  },
+  {
+    "quote": "Kufadhiliwa ni kubaya, akufadhiliye ni bwana wako.",
+    "person": "",
+    "tail": "MARA 2. Receiving favors is bad, the one who gives them is your master. Cf. # 1967."
+  },
+  {
+    "quote": "Kuishi ni kupanda baisiskeli.",
+    "person": "",
+    "tail": "EM k26. Living is like riding a bicycle. \"If you ride a bicycle you must pedal if you want to move. If you don't pedal, you will fall off. To live is to work hard. The alternative is death.\" EM."
+  },
+  {
+    "quote": "Kula kutamu, kulima mavune.",
+    "person": "",
+    "tail": "F.18.52; MARA 3; KA. Eating is sweet, hoeing is weariness. Mavune or machovu: stiffness in the joints, fatigue, weariness. Cf. #293; #585."
+  },
+  {
+    "quote": "Kula ni mshahara wa kazi.",
+    "person": "",
+    "tail": "NS.2. Eating is the earnings of work."
+  },
+  {
+    "quote": "Kula  uhondo kwataka matendo, asiye na matendo hula uvundo.",
+    "person": "",
+    "tail": "KA. In order to eat generously, deeds are needed; without working one eats bad smelling food. In order to live in peace, a person must work hard, if he doesn't he'll live a life of trouble. Uhondo: a big feast, generous entertainment. Uvundo: a bad smell, stink. From -vunda: be high. Of meat which has been laid by, so that it is smelling somewhat but is still fit to be eaten."
+  },
+  {
+    "quote": "Kulima, kupima.",
+    "person": "",
+    "tail": "RSP.18. Farm work needs measure. You have to know your needs and if you have people working your land, you must arrange payment. Cf. #1974."
+  },
+  {
+    "quote": "Kulima kwataka jembe na mikono ya kunyoka.",
+    "person": "",
+    "tail": "JKP. Field work requires a hoe and the stretching of the arms"
+  },
+  {
+    "quote": "Kulima  pekee ni kujihiliki; mawe na manyasi hayakusanyiki.",
+    "person": "",
+    "tail": "JKP. Cultivating alone is suicide; stones and weeds cannot be raked together. Jihiliki: self destruction."
+  },
+  {
+    "quote": "Kulima  polepole, kulima na kidole, utalala nacho.",
+    "person": "",
+    "tail": "AL 377. If you are a lazy farmer, doing work with one finger, you will sleep with that finger [in your mouth]. You'll be sorry. If you work without spirit, you invite penury. AL."
+  },
+  {
+    "quote": "Kumpatia  mlimaji chakula, mchezaji atapeleka vyote.",
+    "person": "",
+    "tail": "AL 1238; AL, peleka. Giving food to the farmer,the dancer will take it all. When a working person gets something, it is often taken away by a lazy person."
+  },
+  {
+    "quote": "Kuna ufundi pia katika kuburura rukwama.",
+    "person": "",
+    "tail": "SAM.10. 17; MM. There is craftsmanship even in dragging along the heavy center pole supporting the roof of a house. MM."
+  },
+  {
+    "quote": "Kupitapita kwa panya kulimpatisha kitoweo.",
+    "person": "",
+    "tail": "AL 172; AL, kitoweo. The coming and going of the mouse has provided it with food."
+  },
+  {
+    "quote": "Kutema  kuni ku bora kuliko kunyosha mkono kwa kiumbe.",
+    "person": "",
+    "tail": "MA.l91. Cutting [firewood] is better than putting the hand out to someone [for alms]. Cf# 1986. Kutenda kazi twatenda, lakini bamba ni gumu. T.197. [As for] doing the work, we do [it], but the object is hard. Cf. #420."
+  },
+  {
+    "quote": "Kutwanga nisile unga, nazuia mchi wangu.",
+    "person": "I deny my pestle. No work without profit.",
+    "tail": "AL 1264. Grinding the grain and not being allowed to eat the flour, I deny my pestle. No work without profit."
+  },
+  {
+    "quote": "Kuvua  samaki mwungwana si tua kwa wenye akili.",
+    "person": "",
+    "tail": "MA.234. For an intelligent person fishing is not a disgrace. Fishing is a degrading job to some people. Here we understand that this should not be so for it is better to fish than to beg or steal."
+  },
+  {
+    "quote": "Kuvunjika  kwa mwiko si mwisho wa kusonga ugali.",
+    "person": "",
+    "tail": "AL 987, AL,mwiko. If the wooden spatula breaks it is not the end of stiring porridge. If a spouse dies, she is replaced; procreation has to go on. Cf. #1987."
+  },
+  {
+    "quote": "Kuzima  koleo si mwisho wa uhunzi.",
+    "person": "",
+    "tail": "J.; F.19.63; CM.51; KB.135; MARA 3; KA; T.204; SACL. 1011. Cooling the tongs is not the end of forging. To know how to cool the tongs is not all the work of forging. KB; SACL. Giving up a bad habit is not a warranty for giving up that habit for ever. MARA."
+  },
+  {
+    "quote": "Kwanza kazi, pili pato.",
+    "person": "",
+    "tail": "NS.l. First work, then wages."
+  },
+  {
+    "quote": "Kwenda bure si kukaa bure.",
+    "person": "",
+    "tail": "KA. Even just loitering is better than sitting doing nothing. Cf. #1994."
+  },
+  {
+    "quote": "Lisilo budi hutendwa.",
+    "person": "",
+    "tail": "MARA 3; SM. Attend to what must be done. There is no excuse."
+  },
+  {
+    "quote": "Mawingu ya pepo yakosa mvua.",
+    "person": "",
+    "tail": "KB.159. Wind-swept clouds don't give rain. Much ado about nothing."
+  },
+  {
+    "quote": "Mchagua  jembe si mkulima.",
+    "person": "",
+    "tail": "CM.44; F.23.28; SWA.15; B.2.57; L.45; MARA.39; JKP; KS,jembe. One who \"picks\" his hoe is not a real farmer. A bad workman blames his tools. F. A good fighter can use any type of weapon. SWA. JKP has a special insight: \"Our fate is determined by others and by random events. E.g. the girl's father selects a bridegroom for her.\" Cf. #1997."
+  },
+  {
+    "quote": "Mchezea  chuma huchuma, kama hakuchuma tumbo hunguruma.",
+    "person": "",
+    "tail": "TAA 131. The person who lets the hoe dance will harvest; if there is no harvest that person's stomach will grumble. Chuma: (n.) iron, hoe, etc. Chuma: (v.) to harvest, to earn."
+  },
+  {
+    "quote": "4726   mchimba kaburi ana faida, kefu mranda mbao.",
+    "person": "",
+    "tail": "KB.174; AL 170. The grave-digger makes a living, so much the more the wood planer in making the coffin. There is no low craft, only low people. KB. Cf. #1985."
+  },
+  {
+    "quote": "Mchimba kisima hakatazwi maji.",
+    "person": "",
+    "tail": "CM.44; T.330; SACL. 334; F.24.39; A.73; V.43; KB.173. A well-digger is not refused water."
+  },
+  {
+    "quote": "Mwana  mchimbaji hakatazwi maji.",
+    "person": "",
+    "tail": "RSP. 37. One does not refuse water to the child of the well-digger."
+  },
+  {
+    "quote": "Mchuma juani hulia uvulini.",
+    "person": "",
+    "tail": "F.25.45; KA. A person who makes a living in the sun, eats in the shade. Rest is sweet after overcoming hard work."
+  },
+  {
+    "quote": "Mchuuzi  analala pabaya, anakula vizuri.",
+    "person": "",
+    "tail": "AL 166. A hawker sleeps without comfort, but eats well. Being away from home, one'll sleep where possible. Cf. #1979A; #1982; #1983; #1988."
+  },
+  {
+    "quote": "Mgaagaa na  upwa hali wali mtupu.",
+    "person": "",
+    "tail": "J.,gaagaa; T.59.259; B.3.2; MARA 3; KA; AL 1706. One who haunts the shore does not eat plain rice. Always plcking up something. The fishermen usually give him a fish. It is useful to frequent people that can be or are useful to you."
+  },
+  {
+    "quote": "Mgaagaa  wa mpwa hali vyakula vikavu.",
+    "person": "",
+    "tail": "F.25.54; AL 1239. A lazy person with a nephew does not eat dry food. Sends his nephew to get what is needed. F. Upwa: low tide. Mpwa: nephew. Mgaagaa: an idler, restless person, beachcomber; rolling stone. J."
+  },
+  {
+    "quote": "Mtafutaji  wa mpwa hali wali mtupu.",
+    "person": "",
+    "tail": "KA. One who looks up a nephew does not eat dry rice."
+  },
+  {
+    "quote": "Mwana  mtukutu hali ugali mtupu.",
+    "person": "",
+    "tail": "KA. A restless child does not eat plain polenta."
+  },
+  {
+    "quote": "Mjali tumbo hutumbuka.",
+    "person": "",
+    "tail": "NGU. One who cares for the stomach must sweat for it."
+  },
+  {
+    "quote": "Mkalia jembe si mkulima.",
+    "person": "",
+    "tail": "NGU. They who sit on their hoe are not farmers."
+  },
+  {
+    "quote": "Mkokoto wa jembe hauongopi.",
+    "person": "",
+    "tail": "FSM.117. The track made by the hoe does not tell a lie. The meaning is that work is rewarding."
+  },
+  {
+    "quote": "Mkokoto wa jembe si bure yao.",
+    "person": "",
+    "tail": "KA; AL 461. The dragging of the hoe is not worthless. If a farmer drags his hoe being tired after work, it is understood that there is nothing shameful about it. Said to somebody who looks down on a dirty, sweating worker. Si bure yao: is not useless, is not worthless, is valuable."
+  },
+  {
+    "quote": "Mkoba wa  mwindaji umevimba; ukikosa nyama, haukosi uyoga.",
+    "person": "",
+    "tail": "KB.235; AL 1848. A hunter's bag is full; even if it does not contain meat, it contains at least mushrooms. Cf. #1994, #1960."
+  },
+  {
+    "quote": "Mkulima hali pweke.",
+    "person": "",
+    "tail": "JK.128. The farmer does not eat alone. Cf. #1998."
+  },
+  {
+    "quote": "Mkulima hafifu hulaumu jembe lake.",
+    "person": "",
+    "tail": "JK.144; NGU. The lazy farmer blames his tools. Cf. #1990."
+  },
+  {
+    "quote": "Mkulima ni  mmoja, walaji ni wengi.",
+    "person": "",
+    "tail": "T.273; F.27.77; JK.129; KB.189; SACL. 569; MARA 3. The farmer is one, those who eat are many. Many enjoy the fruits of his work. A farmer has many dependents. JK. Richness attracts many profiteers. KB. A good deed profits many others too. MARA. Cf. #1996."
+  },
+  {
+    "quote": "Mlala mvulini, atakula nini?",
+    "person": "",
+    "tail": "RSP.115. The sleeper in the shade, what will that person eat?"
+  },
+  {
+    "quote": "Mmegee paka, wewe mkono huna.",
+    "person": "",
+    "tail": "NGU. Break it up for the cat, don't you have a hand? Telling people what to do, but doing nothing oneself."
+  },
+  {
+    "quote": "Mpanda  ovyo hula ovyo.",
+    "person": "",
+    "tail": "F.29.93; J; B.1.71; MEM.94; V.2; NS.4; KB.195; SACL. 717; MARA 3. One who plants in a disorderly fashion will eat likewise. As you sow, so shall you reap."
+  },
+  {
+    "quote": "Ukilima  pantosha, utavuna pankwisha.",
+    "person": "",
+    "tail": "MARA 2; KA. If you farm 'What's enough for me,\" you will harvest \"What is finished.\" If you farm a small piece of land only, you'll have a small harvest. To encourage people to work well. Pantosha for pananitosha: what is enough for me. Pankwisha for pamekwisha: what's finished. Cf. #2006."
+  },
+  {
+    "quote": "Mpenda cha bure, hufa kidole mdomoni.",
+    "person": "",
+    "tail": "REK. One who loves free things dies with the finger in the mouth. Kidole mdomoni: the finger in the mouth of frustration and regret."
+  },
+  {
+    "quote": "Mpenda kula ni mvivu.",
+    "person": "",
+    "tail": "NS.3. One who loves to eat is lazy. Said during the rainy season when often the whole day is spent in the field."
+  },
+  {
+    "quote": "Mpewa chakula na watu hana uso.",
+    "person": "",
+    "tail": "MA.12. One who is given food by people has no face. This is said of people who depend on others for their living. People who do not work to earn their daily bread are considered faceless, i.e., they cannot enjoy their rights and cannot express their opinion lest they lose the favor of their benefactors."
+  },
+  {
+    "quote": "Mpigwa chini na jembe huinuwa na lilo koongo.",
+    "person": "",
+    "tail": "T.308a. One who is brought to the ground by the hoe is lifted up by that same delving. One who is bent down working the land, will rise to a good life. Koongo: a hole dibbled or dug with a hoe for planting seeds."
+  },
+  {
+    "quote": "Mpuzi hana kazi.",
+    "person": "",
+    "tail": "JK.ll9. A fool has no work. JK. Mpuzi: a person who likes talking and most of the time the talk is useless. Hence a person who has time for such talk implies that there is no work to be done. MM."
+  },
+  {
+    "quote": "Msukosuko ndiyo mwendo wa ngalawa.",
+    "person": "",
+    "tail": "NGU. Being tossed about is the way the dug-out canoe moves. Msukosuko: rolling, pitching."
+  },
+  {
+    "quote": "Mtama ni muwi na wapishi nao.",
+    "person": "",
+    "tail": "T.318; JK.144; AL 1400. If the millet dish is bad, the cooks are no good. If something goes wrong others are blamed."
+  },
+  {
+    "quote": "Mchele  ni mui na wapishi nao.",
+    "person": "",
+    "tail": "KS,mchele. Rice is bad and so are the cooks. Cf. #1969, #1997."
+  },
+  {
+    "quote": "Mtoto mtukutu hushinda bila kunya.",
+    "person": "Not taking time to go.",
+    "tail": "REK. A restless child stays without going to the toilet, Not taking time to go. Cf. # 1994."
+  },
+  {
+    "quote": "Mtu apandacho ndicho avunacho.",
+    "person": "",
+    "tail": "T.333a; V.2; SACL. 728. What a person sows will be reaped. Cf. #358, #2000."
+  },
+  {
+    "quote": "Mtu asiwe nawara, uvivu huleta hasara.",
+    "person": "",
+    "tail": "JKP. A person should not be idle, laziness causes damage."
+  },
+  {
+    "quote": "Mtu hawezi kushiba na upepo.",
+    "person": "",
+    "tail": "KB.203. One cannot feed on wind. You cannot live on air. One does not live on love and fresh water. KB."
+  },
+  {
+    "quote": "Mtu hula nguvuze.",
+    "person": "",
+    "tail": "SAM.17.30. Human beings consume their strength. You should make use of your talents to support yourself, and not be dependent on the work of others."
+  },
+  {
+    "quote": "Mtumaini  cha ndugu hufa maskini.",
+    "person": "",
+    "tail": "F.32.126; L.67; Mulika, p.l0; MARA.51; H.81; ED. 44; AL,maskini. One who relies on relatives will die poor. Cf. #2002."
+  },
+  {
+    "quote": "Mvivu hashoni jeraha dogo.",
+    "person": "",
+    "tail": "JK.145 A lazy person does not sow up a small wound. That person neglects doing small repairs, does not take care of property or health. Cf. #1746."
+  },
+  {
+    "quote": "Mvivu hugaguna vifuvu.",
+    "person": "",
+    "tail": "ED.57; JK.120, hutafuna, AL.376. A lazy person chews empty coconut-shells. Gaguna or tafuna: to chew. Fuvu: empty shell; husk"
+  },
+  {
+    "quote": "Mvivu  hutumaini kupata hapati; mwenye bidii hunenepa.",
+    "person": "",
+    "tail": "NGU. The lazy person hopes to get it and does not; the hard worker grows fat."
+  },
+  {
+    "quote": "Mvuvi akikosa kuvua, hupiga ugwe.",
+    "person": "",
+    "tail": "ED.50. A fisherman unable to fish makes a fishing line. One can always do something useful. ED. Cf. #394."
+  },
+  {
+    "quote": "Mwana mtukutu hali ugali mtupu.",
+    "person": "",
+    "tail": "KS.,mtukutu. An active child does not eat dry food. Mtukutu: restless, active"
+  },
+  {
+    "quote": "Mwanamume  ni kazi, bila kazi hajaliwi, mpuzi hafanyi kazi.",
+    "person": "",
+    "tail": "JKP. Being a man is hard work, without work he is not respected, a fool does not work."
+  },
+  {
+    "quote": "Mwanzo ni kuchuma, kisha ni kusona.",
+    "person": "",
+    "tail": "JKP. First harvest, then rest. Kusona: to rest in fresh air."
+  },
+  {
+    "quote": "Mwenda  bure si mkaa bure; huenda akaokota.",
+    "person": "",
+    "tail": "AL 171. A loafer is better than an idler; usually a loafer finds something useful. Activity is better than doing nothing."
+  },
+  {
+    "quote": "Mwenye kijongo halali tani.",
+    "person": "",
+    "tail": "JK.126. A hunchback cannot lie down on the back. A poor person can never stop working and never rest. JK. Cf. #1193."
+  },
+  {
+    "quote": "Mwenye  kukutembeza usiku, utamsifu asubuhi.",
+    "person": "",
+    "tail": "AL 173. The one who made you walk at night, you'll praise in the morning. All effort, even irksome, is remunerated."
+  },
+  {
+    "quote": "Mzigo huwa mzito karibu ya nyumbani.",
+    "person": "",
+    "tail": "NGU. A load gets heavy approaching home."
+  },
+  {
+    "quote": "Nafia mchele: una mwenyeji.",
+    "person": "",
+    "tail": "JK.233; AL 594. I kill myself for rice: it has already an owner. I work myself to the core cultivating rice, it is mine. Don't attribute to yourself what another has earned. To work for nothing. AL. Cf, # 2015."
+  },
+  {
+    "quote": "Nafia pumba maganda.",
+    "person": "",
+    "tail": "KB.234; AL, kanda. I kill myself for a handful of rice."
+  },
+  {
+    "quote": "Nafia pumba la  maganda, mchele kwa belgika.",
+    "person": "",
+    "tail": "Maniema dialect. AL 595. I kill myself for a ball of husks, while the rice goes to Belgika. Belgika: a Belgian agricultural company. Maganda for ng'anda:a handful. Cf #2014."
+  },
+  {
+    "quote": "Ndimu  mpaka uikamue, ndipo utaona maji yake.",
+    "person": "",
+    "tail": "AL 143. It's not until you squeeze the lemon, that you'll see its juice."
+  },
+  {
+    "quote": "Ndugu mtambie usimkalie.",
+    "person": "",
+    "tail": "TAA 17. Go away from your relative, do not live together. Do not be dependent on your relative, you'll get on each others' nerves. Be self supporting. Cf #954. # 2009."
+  },
+  {
+    "quote": "Ni rahisi kubomoa kuliko kujenga.",
+    "person": "",
+    "tail": "NGU. It is easier to destroy than to build up."
+  },
+  {
+    "quote": "Nitafanya, nitafanya, ni uzembe.",
+    "person": "",
+    "tail": "REK. I'll do it, I'll do it, is negligence. Uzembe: slackness, idleness, indifference."
+  },
+  {
+    "quote": "Nyuki  anaunda asali, bungo anaunda udongo.",
+    "person": "",
+    "tail": "KS,bungo. A bee works with honey, a mason wasp works with clay."
+  },
+  {
+    "quote": "Omba, omba huleta unyonge.",
+    "person": "",
+    "tail": "MARA 2. Begging and begging brings abjection."
+  },
+  {
+    "quote": "Punda haendi bila mchapo.",
+    "person": "",
+    "tail": "Swahili II:88. A donkey does not go unless you beat it. Said of stubborn children, etc."
+  },
+  {
+    "quote": "Punda  haendi ila kwa kigongo.",
+    "person": "",
+    "tail": "JK.137. A donkey does not move unless a stick is used."
+  },
+  {
+    "quote": "Rahisi kufahamu la kufanya kuliko kulifanya.",
+    "person": "",
+    "tail": "EM r8. It is easier to know what to do than to do it."
+  },
+  {
+    "quote": "Sifa hapewi goigoi.",
+    "person": "",
+    "tail": "NGU. No honor comes to a useless person. Goigoi: lazy, weak person."
+  },
+  {
+    "quote": "Siku nyeusi, fedha nyeupe.",
+    "person": "",
+    "tail": "JK.126. B1ack day, white money. Hard work, good pay. JK."
+  },
+  {
+    "quote": "Sote tungekuwa wavivu kama tungeweza.",
+    "person": "",
+    "tail": "NGU. We all would be lazy, if only we could."
+  },
+  {
+    "quote": "Tongo  iliyokuwa mwungwana haikosi papai.",
+    "person": "",
+    "tail": "AL,matongo; AL 169. A deserted village, where an active person was living, does not lack a pawpaw tree. Good work produces fruit Tongo or mahame: deserted village."
+  },
+  {
+    "quote": "Tu ndimani.",
+    "person": "",
+    "tail": "T.507. We are a-cultivating. A greeting during cultivation time. The rejoinder is: ni kazini, I too am busy. Ndimani from lima: farming. n + l = nd."
+  },
+  {
+    "quote": "Ukimpa mtu kazi pataneni na ujira.",
+    "person": "",
+    "tail": "A.120, T.523. If you give a person work [first] agree upon the wages."
+  },
+  {
+    "quote": "Ampaye  mtu kazi wapatane ujira.",
+    "person": "",
+    "tail": "SAM.3.14. One who gives work to a person should agree upon wages. Cf. #1974."
+  },
+  {
+    "quote": "Ukiona vinaelea, vimeundwa.",
+    "person": "",
+    "tail": "F.46.8; JK.141; H.104. When you see them float, [remember] they have been built. JK. Much knowledge and effort went into making the boats. JK. Everything has a cause. A complete article must have gone though various stages in its creation."
+  },
+  {
+    "quote": "Vyaelewa,  vyaundwa.",
+    "person": "",
+    "tail": "B.3.21. They float, they have been made."
+  },
+  {
+    "quote": "Ukiona  [chombo] kikielea kimeundwa.",
+    "person": "",
+    "tail": "RECH.579. If you see [a boat] that floats, it has been created. Things have to be done well and must not be taken for granted. Cf. #1979d."
+  },
+  {
+    "quote": "Ukitaka  chakula wakati wa masika, ujikaze.",
+    "person": "",
+    "tail": "TS 137/28. If you want food during the raining season, start working Masika is the time to cultivate and it is when most from the last harvest has been consumed."
+  },
+  {
+    "quote": "Ukitaka kula samaki, sharti ulowe.",
+    "person": "",
+    "tail": "EM u11. If you want to eat fish, you must become wet (or, you must fish). When you are fishing you must enter the water. About taking the proper means. Loa: take something out of water. KS. Lowa: get wet. J. Cf. #159."
+  },
+  {
+    "quote": "Ukitegemea cha jirani, utakufa maskini.",
+    "person": "",
+    "tail": "NGU. If you count on your neighbor, you'll die a pauper."
+  },
+  {
+    "quote": "Ukitumaini  cha jirani, utakuwa maskini",
+    "person": "",
+    "tail": ". NGU. If you put your hope in your neighbor, you'll become poor."
+  },
+  {
+    "quote": "Ukiwa  mkazi jenga.",
+    "person": "",
+    "tail": "A.140; J.,kaa; T.528; SAM..24.8: mkaazi; KB.310. If you are going to stay in a place, build a house. Show your intentions clearly from the beginning."
+  },
+  {
+    "quote": "Ukiwa mkazi  jenga; ukosefu wa mwenenzi si wa kazi milele.",
+    "person": "",
+    "tail": "AL, enda. If you are going to stay in one place, build; mistakes of someone who is passing by are not comparable to those who reside for ever."
+  },
+  {
+    "quote": "Ulichopanda ule, hata hukusugua mkono wake.",
+    "person": "",
+    "tail": "AL 162. Eat what you planted, even if you have not scrubbed your hand. Your good right to enjoy the fruit of your labor in any circumstances."
+  },
+  {
+    "quote": "Ulimi hauchumi.",
+    "person": "",
+    "tail": "RSP.98. The tongue makes no profit. Talking is of no use. JK."
+  },
+  {
+    "quote": "Umekuwa jeta hubanduki.",
+    "person": "",
+    "tail": "F.28,23; KS.,jeta; AL 367. Have you become a jeta, that you are not able to move. A lazy person who does not move to get things needed, but asks to be given them, though the things may be quite near. \"From the habit that the small Indian shopkeeper has of squatting in his shop at ease, and asking his customers to reach him things not immediately within his reach.\" J. Jeta: a snail of the sea that always sits on a rock."
+  },
+  {
+    "quote": "Unakumbuka  kulala usingizi, usiku unakucha.",
+    "person": "",
+    "tail": "AL 365. You think about sleeping while dawn is here. The lazy person follows an abnormal life style. AL."
+  },
+  {
+    "quote": "Upele ukikuna utasikia utamu wake.",
+    "person": "",
+    "tail": "NGU. When you scratch your scabies, you enjoy it. The joy of doing things."
+  },
+  {
+    "quote": "Upishi ni  kuni.",
+    "person": "",
+    "tail": "CM.50; J.,pika; V.145; KB.323; SACL. 966; AL, kuni. Cooking means firewood. If you want the end, you must take the means. Much work is involved in collecting firewood. Often preparation takes more time than the thing itself. Without bait it's hard fishing. V."
+  },
+  {
+    "quote": "Usingizi hauna mwana mwerevu.",
+    "person": "",
+    "tail": "EM u31. Even the most clever child cannot escape sleep. Sleep cannot be avoided. Man's weakness."
+  },
+  {
+    "quote": "Usingizi mali  ya maskini.",
+    "person": "",
+    "tail": "EM u32 Sleep is the wealth of the poor. The poor have no possessions. Sleep temporarily removes them from pressing needs of life. EM."
+  },
+  {
+    "quote": "Usingizi si mali.",
+    "person": "",
+    "tail": "EM u33. Sleep is not wealth. Sleep does not bring wealth."
+  },
+  {
+    "quote": "Usione mkono wa salamu ukazidisha hadi begani.",
+    "person": "",
+    "tail": "REK. Don't expect a welcoming hand while you add even more on your shoulder. Of people who are workaholics."
+  },
+  {
+    "quote": "Usiwe kupe, sitegemee.",
+    "person": "",
+    "tail": "KS,kupe. Don't be a parasite, be self-supporting. A strong, healthy person who does not work, but leans upon others for a living. KS. Kupe: a tick; a parasite."
+  },
+  {
+    "quote": "Usiwe maiti mpenda raha.",
+    "person": "",
+    "tail": "AL,raha. Don't be like a corpse, a lover of comfort."
+  },
+  {
+    "quote": "Utanipita ninapolima, hutanipita ninapokula.",
+    "person": "",
+    "tail": "AL 597. When I work on the land you'll pass me by, but not when I eat."
+  },
+  {
+    "quote": "Utavuna unachopanda.",
+    "person": "",
+    "tail": "KS,vuna. You'll harvest what you sow."
+  },
+  {
+    "quote": "Uvivu hurithisha umaskini.",
+    "person": "",
+    "tail": "J.,rithi, AL.,rithi. Laziness engenders poverty."
+  },
+  {
+    "quote": "Ukulivu  huvuta ufukara.",
+    "person": "",
+    "tail": "JK.118. Laziness causes poverty. Cf. #ll27."
+  },
+  {
+    "quote": "Vuli ni kifulifuli.",
+    "person": "",
+    "tail": "T.571. September-rains, 'tis in crowds (the people go). The people are eager to be about their cultivation. Kifulifuli probably from kufulia: to hasten on with the work before the rain stops."
+  },
+  {
+    "quote": "Ukisikia vuli  yaja, kazi za shamba hakonde huzudi",
+    "person": "",
+    "tail": ". Upon hearing that the rains are near, the work of clearing the fields increases. MM."
+  },
+  {
+    "quote": "Vunja kifuu upate mbata.",
+    "person": "",
+    "tail": "EM v4. Break the coconut to get the copra. If you want a good thing you must work for it. It is not easy to get a valuable thing. EM."
+  },
+  {
+    "quote": "Wacha kitanda, ili kupanda.",
+    "person": "",
+    "tail": "RSP.30. If you want to improve your standards, you must leave your bed. Kupanda: to rise or climb up, and also to plant crops."
+  },
+  {
+    "quote": "Watenda kazi hawakosi huja.",
+    "person": "",
+    "tail": "T.585. Those who work do not fail to have a reason [or need]."
+  },
+  {
+    "quote": "Waungwana huchumia juani na kulia kivulini.",
+    "person": "",
+    "tail": "REK. Good men harvest in the heat of the sun and eat in the shade. They work hard for a living."
+  }
+]

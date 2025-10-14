@@ -1,0 +1,677 @@
+[
+  {
+    "quote": "Afungaye kibwebwe si bure ana mchezo.",
+    "person": "",
+    "tail": "MEM 17. She who ties a [broad strip of calico as a] waistbelt does not do so for nothing, she is [intent] on playing. If somebody is getting involved with something, it is clear that that person thinks it is worthwhile. 385. Ahangaikaye sana na jua ajua. SM. One who slaves in the sun knows [what he/she is doing]. Does not work in vain. A person with an aim or purpose. 386. Akishindwa sultani, raia huweza nini? JKP. When the sultan knows no solution to a problem (lit.,is defeated), what can the citizens do? Cf. 438."
+  },
+  {
+    "quote": "Aliye na hamu ya kupanda juu hukesha.",
+    "person": "",
+    "tail": "MA 41. A person who desires to rise [in society] must stay awake."
+  },
+  {
+    "quote": "Aliyetangulia katangulia; afuataye  akazane.",
+    "person": "",
+    "tail": "NGU. The one who is ahead is ahead; the one who follows must make an effort."
+  },
+  {
+    "quote": "Anayejitahidi hufaidi.",
+    "person": "",
+    "tail": "SM. One who tries hard will profit. Encouragement to exert oneself."
+  },
+  {
+    "quote": "Anayetaka hachoki hata akichoka (huwa)  keshapata.",
+    "person": "KA.",
+    "tail": "F 3.25; KA.anayetafuta. One who craves for something does not get tired; and if tired, that person has already acquired it. Said to somebody who's giving up - KA."
+  },
+  {
+    "quote": "Apanda kilele, hupiga kelele.",
+    "person": "",
+    "tail": "RSP 79. One climbs to the top to make noise. Or: One who climbs to the top, usually makes noise. Boasts about it."
+  },
+  {
+    "quote": "Atakaye kufuga ng'ombe aanze na kuku.",
+    "person": "",
+    "tail": "EM 17.27. One who would like to raise a cow should start with a hen. Don't despise small beginnings."
+  },
+  {
+    "quote": "Atetemeshae mti wenye matunda hutaraji  matunda kumwangukia.",
+    "person": "MM.",
+    "tail": "MA 78. One who shakes a fruit tree expects some fruit to fall his/her way. Said of a dependent expecting favors - MM. Cf.160."
+  },
+  {
+    "quote": "Awashaye ndiye ajikunaye.",
+    "person": "EM.",
+    "tail": "EM 19.31. One who itches, scratches. \"A person should do what is possible, and not wait for other people to find a solution\" - EM."
+  },
+  {
+    "quote": "Bahari haivukwi kwa kuogelea.",
+    "person": "",
+    "tail": "EM 22.2. You cannot cross the ocean by swimming."
+  },
+  {
+    "quote": "Banda likikushinda, jenga kibanda.",
+    "person": "",
+    "tail": "EM 24.8. If you can't build a hut, build a shack."
+  },
+  {
+    "quote": "Chuma hakimegwi - changarawe haitafunwi.",
+    "person": "",
+    "tail": "NGU. Iron is not broken and sand is not chewed. About something that cannot be done."
+  },
+  {
+    "quote": "Chungu huwinda mitungi ya asali.",
+    "person": "",
+    "tail": "MEM 155. The ant hunts the honey pots."
+  },
+  {
+    "quote": "Daima mbele.",
+    "person": "",
+    "tail": "NGU. Always forward."
+  },
+  {
+    "quote": "Dau dogo huambaa mwambao, kubwa huenda  penye kilindi.",
+    "person": "",
+    "tail": "EM 46.9. A little boat keeps near the shore, a larger vessel ventures out to the deep sea. Do not try things too big for you."
+  },
+  {
+    "quote": "Fanikio huzaa fanikio.",
+    "person": "",
+    "tail": "EM f3. Success breeds success. A person successful in a certain project is encouraged to attempt another one. Nothing succeeds like success."
+  },
+  {
+    "quote": "Haja ya mwenye haki ni mema.",
+    "person": "",
+    "tail": "NGU. What a good person is looking for is doing good deeds."
+  },
+  {
+    "quote": "Hata mzee anapanda mchikichi.",
+    "person": "AL.",
+    "tail": "AL 604. Even an old person climbs the palm tree. Harvesting palm nuts asks for much strength and agility. The understanding is that an old person presumes himself capable of vigorous things like having a chance with a young woman - AL."
+  },
+  {
+    "quote": "Hukupata nguvu za kushinda njovu.",
+    "person": "JK. Njovu elephant .",
+    "tail": "RSP 73. You do not have the strength to defeat an elephant. \"Don't try the impossible\" - JK. Njovu elephant (also tembo)."
+  },
+  {
+    "quote": "Huna mshipi, hu nangwe: kuomoa tenga na  nini?",
+    "person": "",
+    "tail": "T 104; SACL 683. You have not line nor rope: with what [do you think] to land a sea-monster? Said of somebody who undertakes an impossible task. Hu nangwe is probably a contraction of huna ugwe: you have no rope - T, SACL. Tenga, ma-: a sea monster, a very large kind of flat fish with a long tail - J."
+  },
+  {
+    "quote": "Huwezi kujua ukiwezacho mpaka umejaribu.",
+    "person": "",
+    "tail": "NGU. You cannot know what you can do until you have tried."
+  },
+  {
+    "quote": "Ikinona sana hujikaanga yenyewe.",
+    "person": "",
+    "tail": "REK. If it gets very fat it will fry itself. Said about somebody who is exaggerating, overdoing or showing off."
+  },
+  {
+    "quote": "Jaribu - uone.",
+    "person": "",
+    "tail": "NGU. Try and you'll see [know]."
+  },
+  {
+    "quote": "Jitihadi haiondoi kuduru ya mungu.",
+    "person": "",
+    "tail": "F 13.5; B 4.26; L 29; MM; KA; MARA 2 haiondoshi; MEM 260; FSM 58. Effort does not annul the power of God."
+  },
+  {
+    "quote": "Jitihadi haiondoi amri ya mungu.",
+    "person": "SACL.",
+    "tail": "T 115; A 72; WIKON 49; SACL 190; KB 84 jitahidi. All man's effort can do nothing against the will of God - SACL."
+  },
+  {
+    "quote": "Jitahadi na bidii hazondoi makadari.",
+    "person": "MARA.",
+    "tail": "T 116; SACL 494 kandara Diligence and zeal do not annul what is appointed by God. Muslims believe that everything is ordained from birth to death by God. A person's means of subsistence, day and time of death are fixed. Those things a person cannot change, how much one tries. This should help a person to accept failure. One cannot change one's destiny, so don't be upset. Also in great difficulties leave the outcome in the hands of God - MARA. Cf.1949, 1950, 1973."
+  },
+  {
+    "quote": "Juhudi si pato.",
+    "person": "J. Notwithstanding the effort",
+    "tail": "J jitahadi; KB 26. Trying is not the same as succeeding - J. Notwithstanding the effort, one does not always get what one aimed for."
+  },
+  {
+    "quote": "Kaa na kula utakula kilima.",
+    "person": "",
+    "tail": "NGU. Sit and eat, you'll eat a hill. Stand up and work to get more and you can eat a mountain."
+  },
+  {
+    "quote": "Kagupema ni utanguzi.",
+    "person": "",
+    "tail": "EM k1. Early rising is being ahead. \"The early bird catches the worm.\""
+  },
+  {
+    "quote": "Kama kuna muhogo, kivunde hakiliki.",
+    "person": "",
+    "tail": "AL 39. When [sweet] cassava is available, cassava in fermentation is not eaten. It would be foolish to abstain from what is better. Kivunde: cassava which has been steeped until fermentation has begun."
+  },
+  {
+    "quote": "Kama u mbaya, jifunze kuimba.",
+    "person": "",
+    "tail": "NGU. If you [feel] bad, learn to sing. Do better, do somthing new, something positive to lift your spirits."
+  },
+  {
+    "quote": "Kelele za chura hazimkatazi ng'ombe  kunywa maji.",
+    "person": "",
+    "tail": "KA. The noise of the frog does not stop the cow from drinking water."
+  },
+  {
+    "quote": "Kelele za mlango haziniwasi hekima.",
+    "person": "",
+    "tail": "NGU. The creaking of the door does not deprive me of respect. Does not take away my good name."
+  },
+  {
+    "quote": "Kelele za mlango haziniwasi usingizi.",
+    "person": "MARA. Haziniwasi",
+    "tail": "F 14.8; MARA 3; KS kelele; AL 1857. The creaking of the door deprives me of no sleep. Do not care about words of complaint of other people, because you know that they cannot harm you - MARA. Haziniwasi = hazinikoseshi: they do not deprive me."
+  },
+  {
+    "quote": "Kelele za mlango hazimwudhi mwenye nyumba.",
+    "person": "",
+    "tail": "MS 131. The creaking of the door doesn't bother the owner of the house. One gets used to those things and doesn't notice even what is wrong."
+  },
+  {
+    "quote": "Kelele za mpagaji hazimuasi mwenye nyumba  kulala.",
+    "person": "",
+    "tail": "MARA 3. The noise of the tenant does not deprive the homeowner of sleep. But also: Kelele za mwenye nyumba hazimkatazi (or hazimuudhi) mgeni kulala. KA; SM. The noise of the owner of the house does not stop the guest from sleeping. One in need accepts inconveniences."
+  },
+  {
+    "quote": "Kijana mzima hupanda milima.",
+    "person": "JK.",
+    "tail": "RSP 25. A healthy young person climbs mountains. Youth can do anything - JK."
+  },
+  {
+    "quote": "Kila chombo kwa (or na) wimbile.",
+    "person": "MM. Every person has his",
+    "tail": "CM 60; H 51: F 15.15; B 3.43; FSM 67; vchombo [kwa=na]; KS wimbi; KA. Every ship [will be wrecked] on its own wave. Said of someone who is too ambitious and wants things above his reach. Cut your coat according to your cloth - MM. Every person has his/her own fate -SPK. Cf.400, 423."
+  },
+  {
+    "quote": "Kila mtu hutengeneza ulimwengu wake.",
+    "person": "",
+    "tail": "AL ulimwengu. Every one arranges his/her way of life."
+  },
+  {
+    "quote": "Kila mwanzo ni mzito.",
+    "person": "",
+    "tail": "KB 102. All beginning is difficult."
+  },
+  {
+    "quote": "Kila mwanzo ngumu.",
+    "person": "",
+    "tail": "AL 134."
+  },
+  {
+    "quote": "Kila ndege huruka kwa bawa lake.",
+    "person": "MARA.",
+    "tail": "KB 99; F 15.19; H 51 and SWA 9: kwa ubawa wake; MARA 3; KS ruka. Every bird flies with its own wings. Each bird flies according to the power of its wings - MARA."
+  },
+  {
+    "quote": "Kila ndege ana ubawa wake.",
+    "person": "",
+    "tail": "FSM 65. Every bird has its own wing. Every person has his own endowment; one must not go beyond one's possibilities."
+  },
+  {
+    "quote": "Kila ndege na mlo wake.",
+    "person": "",
+    "tail": "AL 661. Every bird has its own food. There's no accounting for tastes. Cf. 420."
+  },
+  {
+    "quote": "Kila tawangu lina kifuniko (or mfiniko  wake) chake.",
+    "person": "JK. Tawangu",
+    "tail": "JKP. Every casket has its lid. Every girl will find a husband - JK. Tawangu : a jewelry casket [with lid] made of silver, copper or wood."
+  },
+  {
+    "quote": "Kila ufanyacho kifanye vema.",
+    "person": "",
+    "tail": "NGU. Whatever you do, do it well."
+  },
+  {
+    "quote": "Kiwambazi kilikushinda, miye nitawezaje!",
+    "person": "",
+    "tail": "AL 455. The mud wall was too much for you [to build], how then will I be able to do it!"
+  },
+  {
+    "quote": "Kizuri usichoweza kukifanya  usikithamini.",
+    "person": "",
+    "tail": "NGU. Don't hold dear the nice thing that you cannot achieve."
+  },
+  {
+    "quote": "Kobe  atakufa asipojikuna nyumaye mwenyewe.",
+    "person": "JK.",
+    "tail": "JKP. The tortoise will die without ever having scratched his own back. \"Many people have never achieved a high purpose in their lives\" - JK."
+  },
+  {
+    "quote": "Kuishi ni dhamiri.",
+    "person": "",
+    "tail": "SAM 10.15. Living is the intention. What makes a life worthwhile is having a purpose, an aim."
+  },
+  {
+    "quote": "Kujidai ni maji ya maharagwe.",
+    "person": "",
+    "tail": "REK. Claiming something falsely is like the water beans are cooked in. It is lacking substance. Alijidai usultani: he claimed a sultanship, without having a right to it. False pretence."
+  },
+  {
+    "quote": "Kulenga si kufuma.",
+    "person": "",
+    "tail": "F 18.54; A 124 has kulekeza. Aiming is not the same as hitting."
+  },
+  {
+    "quote": "Kwekeza siko kufuma.",
+    "person": "",
+    "tail": "JKP. Aiming is not the same as hitting. An extension of the proverb: Kulekeza si kufuma, ndiyo yaliyo, mwandani. T 176; KB elekeza; SACL 202, 229. Aiming is not hitting, that is the case, my friend."
+  },
+  {
+    "quote": "Kuelekeza si kufuma, na kuchumbia si kuoa.",
+    "person": "",
+    "tail": "MM. Aiming is not the same as hitting and wooing is not the same as marrying. Used of people who make many plans after which they are content to sit back as though they had attained their aspirations."
+  },
+  {
+    "quote": "Mwenye kulekeza hajafuma.",
+    "person": "SPK.",
+    "tail": "SPK. The one who has aimed has not hit yet. Do not cry victory too soon - SPK. Cf. 2759."
+  },
+  {
+    "quote": "Kuni zikikosa, moto huzimika.",
+    "person": "",
+    "tail": "KB 130. If firewood is lacking, the fire dies. An organisation without a leader cannot survive. But also: Without input no organisation will survive."
+  },
+  {
+    "quote": "Kwenda mbele (or kutangulia mbele) siyo  kufika.",
+    "person": "",
+    "tail": "KA. Going in front does not mean arriving at the destination."
+  },
+  {
+    "quote": "Langu halijesha, lako limekwisha.",
+    "person": "JK. Halijesha",
+    "tail": "JKP. My word is not finished yet, yours is finished. \"I have more and better arguments\" - JK. Halijesha = hali-ja-isha:: it is not finished."
+  },
+  {
+    "quote": "Mama wee! Niulaga nunda mla watu.",
+    "person": "",
+    "tail": "SACL 949. Eh, mother! I'll kill that man-eating monster. A children's boast/hunter's song (Nights of Zanzibar). N.B.: Ulaga (Nyika dialect) or ua: kill."
+  },
+  {
+    "quote": "Mbwa kufukuza tembo ni kuchokoza bure.",
+    "person": "",
+    "tail": "AL 699. A dog chasing away an elephant is a useless effort. A pretentious person is open to ridicule."
+  },
+  {
+    "quote": "Mchinjaji hataki kumwona mwingine akichinja.",
+    "person": "",
+    "tail": "Swahili March1967, p.106. A butcher does not want to see somebody else slaughtering. Professional jealousy."
+  },
+  {
+    "quote": "Mfupa uliomshinda fisi, mbwa atauweza?",
+    "person": "",
+    "tail": "Swahili March1968. Can a dog crush the bone that defeated a hyena?"
+  },
+  {
+    "quote": "Mfupa ulishinda fisi, binadamu hawezi [kuuvunja].",
+    "person": "KB.",
+    "tail": "KB 178. The bone got the better of the hyena, how then can a person ? This is said of a stubborn child, who does not listen to advice - KB."
+  },
+  {
+    "quote": "Mimi chigi, kimara migunda, mganamba ni  mdogo.",
+    "person": "",
+    "tail": "KB p.467. I am chigi, I finish harvests, although you call me small. Chigi: name of a small yellow bird, which comes in flocks to lay waste whole grain fields."
+  },
+  {
+    "quote": "Miye mtoto wa mama kisamvu-kichacha:  muhogo hauivishi ndizi mbivu.",
+    "person": "AL.",
+    "tail": "Maniema dialect. AL 131. I am a child of mother \"bitter cassava leaves.\" Everybody has his/her own limitations - AL."
+  },
+  {
+    "quote": "440a. Mpango si matumizi.",
+    "person": "SPK",
+    "tail": "SPK. A plan [alone] is no use. It is the implementation of the plan that makes it useful - SPK"
+  },
+  {
+    "quote": "Mpe mwana jina akue.",
+    "person": "",
+    "tail": "REK. Give the child a name to grow up to. Name is important. A child tries to imitate its namesake."
+  },
+  {
+    "quote": "Msafiri hula usafiri wake.",
+    "person": "",
+    "tail": "NGU. A traveler has a hard time. Kula as an idiom changes meaning according to the accompanying noun: kula hasara: eat damage, loss, lose. kula kiapo: eat an oath, swear. kula mate: to eat sputum, having no food. kula matu: to go extremely fast. Cf. 454."
+  },
+  {
+    "quote": "Msafiri mbali, hupita jabali.",
+    "person": "",
+    "tail": "RSP 128. The traveller [who is determined to go] far, will pass the mountain. Cf. 1094."
+  },
+  {
+    "quote": "Msasi haogopi miiba.",
+    "person": "",
+    "tail": "F 30.101; B 1.70. A hunter is not afraid of thorns. Someone who wants to succeed must not be afraid of difficulties."
+  },
+  {
+    "quote": "Mshale usio nyoya hauendi mbali.",
+    "person": "",
+    "tail": "L 58; V mshare usiwo. An arrow without a feather will not go far. Certain things are necessary for success, though seemingly unimportant - L."
+  },
+  {
+    "quote": "Mvi usiopambwa vema huyua.",
+    "person": "",
+    "tail": "SACL 1032. An arrow ill-feathered goes askew. Cf. 859."
+  },
+  {
+    "quote": "Mshoni hachagui nguo.",
+    "person": "",
+    "tail": "F 30.104; MARA 3. A tailor does not choose the cloth. One must do with what one has. A teacher does not choose students."
+  },
+  {
+    "quote": "Msinji ukiinama hauna nguvu; usiushtaki  ukuta ukianguka.",
+    "person": "",
+    "tail": "AL 301. A foundation that is not level is not strong; don't blame the wall if it falls down."
+  },
+  {
+    "quote": "Mtaka cha mvunguni huinama.",
+    "person": "F.",
+    "tail": "F 30.108; L 60; T 316; V 65; KA. The one who wants what is under the bed must stoop for it. Good things are not easily obtained, one must strive to get them. Mvungu: \"The people [of Zanzibar] make use of the place beneath the bed as a place of storage for such articles as cooking utensils, provisions, etc.\" - F. \"Stoop to conquer\" - SWA. If you want something, work for it - SPK."
+  },
+  {
+    "quote": "Mtaka cha mvunguni sharti ainame.",
+    "person": "JK. If one wants to enjoy the advantages of a situation",
+    "tail": "B 2.22; H 76; JK 121; AL 362; KS mvungu; SWA 43; RECH 378, mpenda cha; MARA 68, ukipenda cha... uiname. A special application: If you are interested in other peoples' dirty laundry, you will have to debase yourself - JK. If one wants to enjoy the advantages of a situation, one must be willing to compromise - AL. Cf. 449."
+  },
+  {
+    "quote": "Mtaka kilicho mbali hukitembelea.",
+    "person": "",
+    "tail": "MA 352. One who wants what is far away walks to it. One has to make all possible efforts to succeed."
+  },
+  {
+    "quote": "Mtaka mbele mpishe.",
+    "person": "",
+    "tail": "SAM 16.22. Let a person who wants to go ahead, pass. If you don't you'll have a fight on your hands. Cf. 4084."
+  },
+  {
+    "quote": "Mtashi asio kitu nakae  akitamani.",
+    "person": "MM.",
+    "tail": "T 319a; SACL. 608. Let a person who desires, but has nothing, stay a-wanting. Said of someone who has no ambition, but envies others - MM."
+  },
+  {
+    "quote": "Mtashi haoni haya.",
+    "person": "Sacl.",
+    "tail": "T 319c; L 112; SACL 608. A person who has a great need has no shame. A beggar has no fear of what people may say - Sacl."
+  },
+  {
+    "quote": "Mtazama mbele haoni nyuma.",
+    "person": "",
+    "tail": "NGU. One who looks forward does not see what is behind."
+  },
+  {
+    "quote": "Mtembezi hula miguu (or maguu)  yake.",
+    "person": "J tembea. A loafer uses up all his energy for nothing. Said to a child who is late for a meal. However the Sukuma proverb",
+    "tail": "F 31.113; T 322; CM 53; B 1.72; MS 49; V mtembezi; MARA 3; KS mtembezi; SPK. An [aimless] wanderer wears [lit., eats] away his/her feet. Lives off his/her feet - J tembea. A loafer uses up all his energy for nothing. Said to a child who is late for a meal. However the Sukuma proverb: Nyeji akulyaga magulu gakwe, is translated: the walker eats on foot. The man who moves around is never hungry."
+  },
+  {
+    "quote": "Mtembea saa ya chakula akifika watu wamekila.",
+    "person": "SPK.",
+    "tail": "SPK. The traveller at mealtime, when he/she arrives, people have eaten - SPK. Cf. 2772."
+  },
+  {
+    "quote": "Mtendee kafiri upate mradi wako.",
+    "person": "",
+    "tail": "FSM 132. Work for the unbeliever to obtain your goal. Overcome your antipathy towards a task or person in order to get the thing you need or want. Kafiri: an unbeliever. In this case, someone you do not like."
+  },
+  {
+    "quote": "Mtu huwa atakavyokuwa.",
+    "person": "",
+    "tail": "MA 381. A person becomes what he wants to become."
+  },
+  {
+    "quote": "Mtumikie kafiri ili upate mradi  wake.",
+    "person": "",
+    "tail": "REK; F 32.128. Serve [even] an unbeliever to attain your own ends. Mradi: project. Cf. 455."
+  },
+  {
+    "quote": "Mwanzo mateso, mwisho  furaha.",
+    "person": "",
+    "tail": "AL 130. A beginning is painful, the end is enjoyable. A happy ending comes after a painful effort."
+  },
+  {
+    "quote": "Mwenye kuamka mbele anamtukana mwenzake  utongo.",
+    "person": "",
+    "tail": "AL 138. The one who rises first in the morning laughs at a bleary-eyed companion. Activity is better than laziness. Utongo: discharge from the eyes."
+  },
+  {
+    "quote": "459a. Mwenye kujitahidi hufula.",
+    "person": "",
+    "tail": "SPK. The one who makes an effort will succeed."
+  },
+  {
+    "quote": "Mwenye meno makali ndiye mmaliza nyama.",
+    "person": "",
+    "tail": "NGU. The person with sharp teeth is the one who finishes the meat."
+  },
+  {
+    "quote": "Mwisho wa malisho ni kamba.",
+    "person": "EM. The goat must browse where it is tied.",
+    "tail": "EM m36. The limit of the meadow is the rope. A cow tied with a rope can only feed on the grass up to the point where the stretched rope reaches - EM. The goat must browse where it is tied."
+  },
+  {
+    "quote": "Mzowea kwenda mbio, harudi kungwa  kule.",
+    "person": "JK.",
+    "tail": "JKP. One who is used to running does not turn back even if it is still far [to go]. An active character achieves his goal - JK."
+  },
+  {
+    "quote": "Nachezea chini, sichezei juu.",
+    "person": "I don't play for high-up. Present life takes precedence over the unobtainable.",
+    "tail": "AL 27. I play for here below, I don't play for high-up. Present life takes precedence over the unobtainable."
+  },
+  {
+    "quote": "Nachezea udongo, sichezei mbingu.",
+    "person": "I don't play for heaven.",
+    "tail": "AL 28. I play for the earth, I don't play for heaven."
+  },
+  {
+    "quote": "Ndovu ni mnyama mkubwa lakini hazai  mapacha.",
+    "person": "",
+    "tail": "REK. The elephant is a big animal but she does not give birth to twins."
+  },
+  {
+    "quote": "Omitted.",
+    "person": "",
+    "tail": ""
+  },
+  {
+    "quote": "Pata awezaye kukishua chombo.",
+    "person": "JK.",
+    "tail": "JKP. Get someone who can push the boat down [into the water]. \"Choose a strong and able man to help you. Advice to young girls to get themselves husbands who can perform successfully\" - JK."
+  },
+  {
+    "quote": "Pata wewe",
+    "person": "",
+    "tail": ". NGU. You get it. You do it. If you cannot compete you say: \"You get it.\""
+  },
+  {
+    "quote": "468  pemba akipata gogo hanyi chini.",
+    "person": "",
+    "tail": "AL 40. The inhabitant of Pemba Island does not relieve himself on the ground if he finds a tree trunk to sit on."
+  },
+  {
+    "quote": "Samaki mfu hufuata mkondo, samaki hai  huenda kinyume cha mk.",
+    "person": "",
+    "tail": "EM s1. A dead fish floats down stream; a live one goes up stream. Cf. 1050."
+  },
+  {
+    "quote": "Sifa humfanya mwema mwema zaidi, mbaya  mbaya zaidi.",
+    "person": "",
+    "tail": "NGU. Honor makes a good person better and a bad person worse."
+  },
+  {
+    "quote": "Sifa kama mtu huwa nyeupe kadiri  inavyozeeka.",
+    "person": "",
+    "tail": "NGU. Honor is like a person getting white hair when getting older."
+  },
+  {
+    "quote": "Sifanye mashindano na mtu.",
+    "person": "",
+    "tail": "T 483; A 120. Do no make strivings with a person. Never match thyself with [any] person. Cooperation, not competition."
+  },
+  {
+    "quote": "Sishindane na akushindao.",
+    "person": "",
+    "tail": "MM. Do not compete with one who is more powerful than you."
+  },
+  {
+    "quote": "Tumaini hadi mwisho.",
+    "person": "",
+    "tail": "NGU. Keep hoping until the end. Be confident."
+  },
+  {
+    "quote": "Ukibomoa tofali, jenga kwa mawe.",
+    "person": "",
+    "tail": "NGU. If you destroy [your house of] bricks, build with stones."
+  },
+  {
+    "quote": "Ukicha kutajwa (or kusemwa), hutatenda  jambo.",
+    "person": "",
+    "tail": "JK 131. KS cha. If you are afraid to be talked about, you will not do anything. Cf. 2015."
+  },
+  {
+    "quote": "Ukichungua alacho kuku hutamla",
+    "person": "MM.",
+    "tail": ". L 98; KB chungua; SACL 156; V kuku; AL 922-23. If you observe what a chicken eats, you will not eat the chicken. If one knew all the difficulties involved in a project, one might not have started it. \"Do not ask too many questions\" - MM. \"If you spy on your wife, she'll escape you\" - SACL, KB."
+  },
+  {
+    "quote": "Kuku ukimchungua,nunu hutamla kuku.",
+    "person": "K.H.A Akilimali. If you",
+    "tail": "From a poem by K.H.A Akilimali. If you see what a chicken eats, mama you would not eat the chicken. Nunu, The twenty-fifth letter of the Swahili-Arab alphabet - Sacl. A polite way of calling someone Kiswahili sanifu.. Variations: Ukimchungua bata humlii. KB 312. If you watch a goose, you will not eat it."
+  },
+  {
+    "quote": "Ungalijua alacho nyuki usingalionja asali.",
+    "person": "KB.",
+    "tail": "F 4 26; KB 320 hungalionja. Had you known what bees eat, you would not have tasted honey. Ignorance is sometimes better than knowledge - KB. Cf 477."
+  },
+  {
+    "quote": "Ukila kuku - sitazame (or usiulize)  chakula chake.",
+    "person": "",
+    "tail": "NGU. If you eat chicken - don't look [don't ask] what it eats. Cf. 478"
+  },
+  {
+    "quote": "Ukila na timsaha, hutapata nyingi  raha.",
+    "person": "JK. Do not be too ambitious",
+    "tail": "RSP 95. If you want to eat with the crocodile, you will not have much pleasure - JK. Do not be too ambitious; stay with your own people. Timsaha [dialect], mamba, ngwena: crocodile."
+  },
+  {
+    "quote": "Ukilima-lima uinuke, ni vitu vya walaji  wengi.",
+    "person": "AL.",
+    "tail": "AL 298. If you work hard on your farm, look up [you are preparing] food for many mouths. Greater activity profits others - AL."
+  },
+  {
+    "quote": "Ukioka samaki, huwezi kuondoa manyoya ya  kuku.",
+    "person": "",
+    "tail": "KB 305. If you bake fish, you cannot pluck a chicken at the same time. One must not have too many irons in the fire. Do one thing at a time."
+  },
+  {
+    "quote": "Ukipenda ghafi utaona safi.",
+    "person": "",
+    "tail": "NGU. If you like dirt, you'll become clean. To obtain good things one must go through hardship."
+  },
+  {
+    "quote": "Ukitaka kujenga usione taabu  kubomoa.",
+    "person": "",
+    "tail": "SAM 24.7. If you want to build you must be willing to destroy."
+  },
+  {
+    "quote": "Unyoshe miguu kadiri ya kitanda.",
+    "person": "",
+    "tail": "AL 290. Stretch your legs according to the length of your bed. Spend according to your means. Common sayings: Stretch your arm no further than your sleeve will reach; Everyone stretches his legs according to the length of the coverlet."
+  },
+  {
+    "quote": "Upepo huchukua vingi na kufikisha kidogo.",
+    "person": "",
+    "tail": "KB 322. The wind removes much but brings very little. It doesn't take you to your destination."
+  },
+  {
+    "quote": "Usibabue kima wawili motoni, mmoja  ataungua mkia.",
+    "person": "",
+    "tail": "PM 84; AL 275; AL babua. Do not skin two monkeys over fire [at the same time], one will have a burned tail. Cf. 480, 1543, 1546, 1547."
+  },
+  {
+    "quote": "Usidhani.",
+    "person": "",
+    "tail": "NGU. Don't guess."
+  },
+  {
+    "quote": "Usijaze kitungo chako kwa chikichi  zisizofaa.",
+    "person": "",
+    "tail": "KB 329; AL 292. Don't fill your basket with useless nutshells. Look for the useful only. Kitungo: a small round flat basket used for sifting husks from grains by tossing."
+  },
+  {
+    "quote": "Usile yungu, ukashindwa na kiyembo.",
+    "person": "",
+    "tail": "ED 80. Don't eat the gourd, otherwise you may be overcome by the stem. Do not start things too big for you. Kiyembo (Lamu dialect): stem of the fruit."
+  },
+  {
+    "quote": "Usinywe kama tembo, utapasuka tumbo (or  usifuate ¯tembo kunywa, utapasuka tumbo).",
+    "person": "",
+    "tail": "PM 82.1. Do not try to drink as an elephant, you will rend your stomach - PM: Fables of La Fontaine."
+  },
+  {
+    "quote": "Ukimwiga tembo kunya utapasula mkundu.",
+    "person": "",
+    "tail": "KA; Vtembo. If you want to match the heap left behind by the elephant, something will give. Don't try to do things too big for you, such as living beyond your means. Cf. 82."
+  },
+  {
+    "quote": "Usipokubali kutia mguu majini hutavuka  kijito.",
+    "person": "",
+    "tail": "NGU. If you don't want to put your foot in the water, you'll not cross the brook. Take the right means."
+  },
+  {
+    "quote": "Usitafuta ugumu pasipo ugumu.",
+    "person": "",
+    "tail": "AL tafuta. Don't look for something difficult that has no hardship."
+  },
+  {
+    "quote": "Usitake makubwa kabla madogo hujayaweza.",
+    "person": "",
+    "tail": "NGU. Don't desire to do big things before you have accomplished small ones."
+  },
+  {
+    "quote": "Usiufuate mguu unakokwenda.",
+    "person": "",
+    "tail": "NGU. Don't follow your foot where it is going. Know where you are going and what you are doing. Have a purpose in life."
+  },
+  {
+    "quote": "Usotongelewa haudungi [hautungi].",
+    "person": "",
+    "tail": "KA; SM. What is not sharp pointed does not penetrate. Usotongelewa, [usiochongelewa]: what is not sharpened. Haudungi [hauchomi]: does not pierce. Hautungi : does not put together; e.g., put pieces of meat on a skewer. Cf. 445."
+  },
+  {
+    "quote": "Uta wangu haufumi shore ila ngurama",
+    "person": "",
+    "tail": "(or uta wangu kaufuma shore ela ngurama). T 560; SACL 681. My bow does not kill swallows, but only big birds. I am after bigger and better game. Ngurama: a big bird."
+  },
+  {
+    "quote": "Utakwenda utarudi.",
+    "person": "",
+    "tail": "JK 123; AL 1551. You will go, you will return. Do not be too ambitious."
+  },
+  {
+    "quote": "Utumainie mmea ulioisha panda.",
+    "person": "",
+    "tail": "AL 146. Put your hope on the plant you have planted. Work has promise for the future."
+  },
+  {
+    "quote": "Vyanzo vyote vigumu.",
+    "person": "",
+    "tail": "AL anza. All beginnings are difficult. Cf. 422."
+  },
+  {
+    "quote": "Wa mbele hakai nyuma",
+    "person": "",
+    "tail": ". V mbele. One who is in front does not stay back [stay behind]."
+  },
+  {
+    "quote": "Wa nyuma mbele hafiki.",
+    "person": "",
+    "tail": "JK 129. The one who is behind does not arrive in front."
+  }
+]
