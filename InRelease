@@ -1,0 +1,18 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: fortune-swahili
+Label: fortune-swahili
+Suite: stable
+Codename: stable
+Date: Tue, 14 Oct 2025 18:16:38 UTC
+Architectures: all
+Components: main
+Description: A small apt repo with fortune-swahili package
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSozgWbRNC677tjBypsNlqq3sXSYQUCaO6ThwAKCRBsNlqq3sXS
+YZ1XAQDcC3Pld/Edg8fkmHOzGbhHqX0XiwRhv3E+qQDF6kBjLQEA1V+MMZyes02U
+4iMQkwMXY0Brab+rNakSZ77RimU1pgY=
+=CpLs
+-----END PGP SIGNATURE-----
