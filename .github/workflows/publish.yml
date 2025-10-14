@@ -22,16 +22,16 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Rebuild data and package
+      working-directory: scraper
       run: |
-        chmod +x scraper/build_deb.sh scraper/make_apt_repo.sh || true
-        cd scraper
+        chmod +x build_deb.sh make_apt_repo.sh sign_release.sh || true
         ./build_deb.sh "$(pwd)/../data" || true
         # ensure .deb exists
         ls -l fortune-swahili_0.1_all.deb || true
 
     - name: Create apt repo
+      working-directory: scraper
       run: |
-        cd scraper
         ./make_apt_repo.sh ./fortune-swahili_0.1_all.deb ./apt-repo
 
     - name: Import GPG key (from secret) and sign Release
@@ -43,10 +43,17 @@ jobs:
         if [ -z "$GPG_PRIVATE_KEY" ]; then
           echo "No GPG key provided; failing"; exit 1
         fi
+        # import key into an isolated GNUPGHOME so we don't touch runner keyring
+        export GNUPGHOME="$(pwd)/.gnupg-temp"
+        rm -rf "$GNUPGHOME"
+        mkdir -m700 -p "$GNUPGHOME"
         echo "$GPG_PRIVATE_KEY" | gpg --batch --import
-        # sign the Release file (in scraper/apt-repo)
+        # enable loopback pinentry by setting gpg options when invoking sign script
         cd scraper
         ./sign_release.sh ./apt-repo/Release "$GPG_PASSPHRASE"
+        echo "Signed files in apt-repo:" && ls -l ./apt-repo || true
+        # clean up GNUPGHOME
+        rm -rf "$GNUPGHOME"
 
     - name: Publish to gh-pages
       uses: peaceiris/actions-gh-pages@v3
@@ -54,3 +61,4 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./scraper/apt-repo
         destination_dir: /
+
