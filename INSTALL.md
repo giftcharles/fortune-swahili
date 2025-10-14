@@ -2,23 +2,17 @@
 
 ## Installing fortune-swahili from the apt repository
 
-### 1. Add the GPG signing key
+### Quick Install (3 commands)
 
 ```bash
+# 1. Add GPG signing key
 curl -fsSL https://giftcharles.github.io/fortune-swahili/public.key.asc | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/fortune-swahili.gpg > /dev/null
-```
 
-### 2. Add the repository to your sources
-
-```bash
+# 2. Add repository to sources
 echo "deb [signed-by=/etc/apt/trusted.gpg.d/fortune-swahili.gpg] https://giftcharles.github.io/fortune-swahili stable main" | sudo tee /etc/apt/sources.list.d/fortune-swahili.list
-```
 
-### 3. Update package lists and install
-
-```bash
-sudo apt update
-sudo apt install fortune-swahili
+# 3. Install the package
+sudo apt update && sudo apt install fortune-swahili
 ```
 
 ### 4. Use the CLI
