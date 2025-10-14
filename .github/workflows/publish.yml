@@ -24,10 +24,19 @@ jobs:
     - name: Rebuild data and package
       working-directory: scraper
       run: |
+        echo "PWD=$(pwd)"
+        echo "Listing current directory:"
+        ls -la
+        echo "Listing parent (repo root):"
+        ls -la ..
+        echo "Listing ../data:"
+        ls -la ../data | head -20 || echo "No ../data"
         chmod +x build_deb.sh make_apt_repo.sh sign_release.sh || true
-        ./build_deb.sh "$(pwd)/../data" || true
+        echo "Running build_deb.sh..."
+        ./build_deb.sh "$(pwd)/../data" || { echo "build_deb.sh failed with exit code $?"; exit 1; }
         # ensure .deb exists
-        ls -l fortune-swahili_0.1_all.deb || true
+        echo ".deb file:"
+        ls -l fortune-swahili_0.1_all.deb || { echo "ERROR: .deb not found"; exit 1; }
 
     - name: Create apt repo
       working-directory: scraper
