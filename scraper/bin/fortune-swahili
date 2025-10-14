@@ -1,0 +1,53 @@
+#!/usr/bin/env python3
+"""fortune-swahili: prints a random Swahili proverb from installed JSON data.
+
+This CLI intentionally ignores any attribution data (the `person` field) and only
+prints the proverb text and optional category. Use --data to point to a local
+JSON index for testing during development.
+"""
+import argparse
+import json
+import random
+import sys
+from pathlib import Path
+
+
+def load_quotes(path: Path):
+    with path.open('r', encoding='utf-8') as f:
+        return json.load(f)
+
+
+def format_quote(item: dict):
+    # Do NOT include 'person' / attribution in output per user preference.
+    quote = (item.get('quote') or '').strip()
+    category = (item.get('category') or '').strip()
+    if category:
+        return f"{quote} ({category})"
+    return quote
+
+
+def main():
+    p = argparse.ArgumentParser()
+    p.add_argument('--data', help='Path to quotes JSON', default='/usr/share/games/fortune-swahili/quotes.json')
+    p.add_argument('--count', type=int, default=1, help='Number of random quotes to print')
+    args = p.parse_args()
+
+    path = Path(args.data)
+    if not path.exists():
+        print(f"Data file not found: {path}", file=sys.stderr)
+        sys.exit(2)
+
+    quotes = load_quotes(path)
+    if not quotes:
+        sys.exit(0)
+
+    for i in range(args.count):
+        item = random.choice(quotes)
+        print(format_quote(item))
+        if i != args.count - 1:
+            print()
+
+
+if __name__ == '__main__':
+    main()
+
