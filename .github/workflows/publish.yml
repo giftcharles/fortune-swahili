@@ -45,6 +45,8 @@ jobs:
       working-directory: scraper
       run: |
         ./make_apt_repo.sh ./fortune-swahili_0.1_all.deb ./apt-repo
+        # Copy public key to repo root for easy access
+        cp public.key.asc ./apt-repo/
 
     - name: Import GPG key (from secret) and sign Release
       continue-on-error: true
@@ -73,15 +75,15 @@ jobs:
         ls -la "$GNUPGHOME" 2>&1 || true
         # enable loopback pinentry by setting gpg options when invoking sign script
         cd scraper
-        echo "Running sign_release.sh..."
-        if ./sign_release.sh ./apt-repo/Release "$GPG_PASSPHRASE" 2>&1 | tee sign-output.log; then
+        echo "Running sign_release.sh for dists/stable/Release..."
+        if ./sign_release.sh ./apt-repo/dists/stable/Release "$GPG_PASSPHRASE" 2>&1 | tee sign-output.log; then
           echo "::notice::Sign succeeded"
         else
           echo "::warning::Sign failed, publishing unsigned repo. See sign-output.log below:"
           cat sign-output.log 2>&1 || true
         fi
         echo "Final apt-repo contents:"
-        ls -l ./apt-repo 2>&1 || true
+        ls -lR ./apt-repo 2>&1 || true
         # clean up GNUPGHOME
         rm -rf "$GNUPGHOME" 2>&1 || true
 
