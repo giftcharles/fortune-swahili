@@ -81,3 +81,53 @@ This repository is automatically built and published via GitHub Actions on every
 ---
 
 **Status**: ✅ Production Ready  
+
+## Development
+
+Quick developer tasks and how to run things locally:
+
+- Create a Python virtualenv and install runtime deps:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r scraper/requirements.txt
+```
+
+- Rebuild the .deb (uses `data/` by default):
+
+```bash
+cd scraper
+./build_deb.sh ../data
+```
+
+- Parse the saved GLCom kanga page (if present) into JSON:
+
+```bash
+cd scraper
+python3 parse_glcom_kanga.py
+# writes scraper/glcom_kanga.json
+```
+
+- Normalize and merge new scrapes into the main dataset (creates a backup):
+
+```bash
+python3 scraper/normalize_mwambao.py
+```
+
+- Run the full publish flow locally (produces `scraper/apt-repo`):
+
+```bash
+cd scraper
+./make_apt_repo.sh ./fortune-swahili_0.2_all.deb ./apt-repo
+```
+
+- To test the CLI locally against any JSON file:
+
+```bash
+python3 scraper/bin/fortune-swahili --data /path/to/quotes.json --count 3
+python3 scraper/bin/fortune-swahili --data scraper/glcom_kanga.json --censor-nsfw
+```
+
+If you plan to publish to GitHub Pages via the workflow, ensure the repository secrets `GPG_PRIVATE_KEY` and `GPG_PASSPHRASE` are set in the repo settings so the Release can be signed by CI.
