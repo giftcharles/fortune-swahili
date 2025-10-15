@@ -35,7 +35,7 @@ fortune-swahili --count 3
 
 Help:
 ```bash
-fortune-swahili --help
+fortune-swahili -h
 ```
 
 ## Features
