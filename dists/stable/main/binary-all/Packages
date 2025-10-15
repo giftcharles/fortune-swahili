@@ -3,10 +3,10 @@ Version: 0.1
 Architecture: all
 Maintainer: You <you@example.com>
 Filename: pool/main/f/fortune-swahili/fortune-swahili_0.1_all.deb
-Size: 364950
-MD5sum: 9e27a09c45069cb0b6bd7dc40176fd90
-SHA1: 2559a5edb5fa1fb405e2d946e4c00cfa9f64a390
-SHA256: 2e5ccb3dcba31c9954e0405d4a5133ab136910f534cfc1a590aefdb4bbdaaeb5
+Size: 364876
+MD5sum: 116a1eebd8b7e69e2400a3dae862d9e4
+SHA1: 008322ef89b8431bccac79457cc165e77e40473d
+SHA256: 6e95a2c92642b3160e3b01c932a43e9dcbf6e291f9a6bfea8b0e733dd5df31b4
 Section: games
 Priority: optional
 Description: Swahili proverbs fortune data and command
