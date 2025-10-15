@@ -37,14 +37,26 @@ jobs:
         chmod +x build_deb.sh make_apt_repo.sh sign_release.sh || true
         echo "Running build_deb.sh..."
         ./build_deb.sh "$(pwd)/../data" || { echo "build_deb.sh failed with exit code $?"; exit 1; }
-        # ensure .deb exists
-        echo ".deb file:"
-        ls -l fortune-swahili_0.1_all.deb || { echo "ERROR: .deb not found"; exit 1; }
+        # detect the built .deb (first one in the directory)
+        DEB_FILE=$(ls -1 *.deb 2>/dev/null | head -n1 || true)
+        if [ -z "$DEB_FILE" ]; then
+          echo "ERROR: .deb not found"
+          ls -la
+          exit 1
+        fi
+        echo ".deb file: $DEB_FILE"
+        ls -l "$DEB_FILE"
 
     - name: Create apt repo
       working-directory: scraper
       run: |
-        ./make_apt_repo.sh ./fortune-swahili_0.1_all.deb ./apt-repo
+        # use the detected .deb file (handles version bumps)
+        DEB_FILE=$(ls -1 *.deb 2>/dev/null | head -n1 || true)
+        if [ -z "$DEB_FILE" ]; then
+          echo "ERROR: .deb not found for make_apt_repo.sh"
+          exit 1
+        fi
+        ./make_apt_repo.sh "./$DEB_FILE" ./apt-repo
         # Copy public key to repo root for easy access
         cp public.key.asc ./apt-repo/
         # Generate a simple landing page using script (keeps YAML valid)
