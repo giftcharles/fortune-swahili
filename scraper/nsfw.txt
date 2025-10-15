@@ -1,0 +1,6 @@
+buzi
+mbuzi
+malaya
+mshitakiwa
+pororo
+# Add more NSFW/uncurated tokens as needed (one per line)

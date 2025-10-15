@@ -24,10 +24,22 @@ def format_quote(item: dict):
     return quote
 
 
+def contains_nsfw(text: str, nsfw_words: set) -> bool:
+    if not text:
+        return False
+    t = text.lower()
+    for w in nsfw_words:
+        if w and w in t:
+            return True
+    return False
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument('--data', help='Path to quotes JSON', default='/usr/share/games/fortune-swahili/quotes.json')
     p.add_argument('--count', type=int, default=1, help='Number of random quotes to print')
+    p.add_argument('--censor-nsfw', action='store_true', help='Filter out quotes that contain NSFW tokens from the output')
+    p.add_argument('--nsfw-file', default=str(Path(__file__).resolve().parents[1] / 'nsfw.txt'), help='Path to newline-separated NSFW tokens')
     args = p.parse_args()
 
     path = Path(args.data)
@@ -39,8 +51,33 @@ def main():
     if not quotes:
         sys.exit(0)
 
+    nsfw_words = set()
+    if args.censor_nsfw:
+        nsfw_path = Path(args.nsfw_file)
+        if nsfw_path.exists():
+            for ln in nsfw_path.read_text(encoding='utf-8').splitlines():
+                ln = ln.strip()
+                if not ln or ln.startswith('#'):
+                    continue
+                nsfw_words.add(ln.lower())
+        else:
+            print(f"NSFW file not found: {nsfw_path}", file=sys.stderr)
+            # continue with empty set
+
     for i in range(args.count):
-        item = random.choice(quotes)
+        # sample until we find a non-NSFW item when censoring is enabled (bounded attempts)
+        attempts = 0
+        item = None
+        while attempts < 20:
+            candidate = random.choice(quotes)
+            if args.censor_nsfw and contains_nsfw(candidate.get('quote', ''), nsfw_words):
+                attempts += 1
+                continue
+            item = candidate
+            break
+        if item is None:
+            # fallback to random pick
+            item = random.choice(quotes)
         print(format_quote(item))
         if i != args.count - 1:
             print()

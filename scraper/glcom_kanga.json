@@ -1,0 +1,854 @@
+[
+  {
+    "quote": "Akiba haiozi",
+    "literal_translation": "Savings never go bad",
+    "common_meaning": "It's always good to save or invest for the future.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Akipenda chongo huita kengeza",
+    "literal_translation": "A person in love with a one-eyed person\ncalls her/him \"cross-eyed\"",
+    "common_meaning": "When a person is in love, he/she hardly\nsees the bad       attributes of his/her lover.  She/he will always\nbelittle or find excuses for any faults on her/his lover.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Akufukuzae hakwambii toka",
+    "literal_translation": "A person who wants you out of her/his place\nwill not tell you, 'Get out!'",
+    "common_meaning": "The actual Swahili proverb doesn't stop\nthere, it continues with: \"... you will just learn that from her/his\nactions.\" This proverb (which is used a lot in the Swahili world) is just a\nreminder that people's inner feelings are mostly communicated through\nactions, attitude and behaviour, and much less through words. Literally, the proverb tells people not to wait until they are verbally\nnotified that they are no longer welcome at a particular place, instead,\nthey should try to take note of the attitude, actions, and behaviour of\ntheir hosts, to know that they have stayed long enough and it was time\nto leave.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ala! Kumbe!",
+    "literal_translation": "I see!! That is so!",
+    "common_meaning": "A common expression used to show that one\nis suprised by some information that he or she has just come to know of.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Asante gari ya muhishimiwa",
+    "literal_translation": "Thanks to the honourable's car",
+    "common_meaning": "In the Swahili world leaders are always\ncalled with \"Muhishimiwa\" or \"Mheshimiwa\" title which is the translation\nfor \"Honourable\" or \"His/Her Excellency\". In rural areas you hardly\nfind any cars save those government-owned cars given to district and\nregional commissioners, local concillors, members of parliament, etc.\nThese \"honourable's cars\" help rural people in many ways including\ngiving them rides (lifts) especially in case of emergencies. That's why\nthis kanga writing expresses gratitude to such a car.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Asiyekujua hakuthamini",
+    "literal_translation": "He/she       who doesn't know you, doesn't\nvalue you",
+    "common_meaning": "Another Swahili proverb: Zimwi likujualo\nhalikuli likakwisha - An ogre (zimwi) that knows you won't eat you\ncompletely. In the Swahili folklore, a \"zimwi\" is believed to be a\nmonster that eats people.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Atakae hachoki",
+    "literal_translation": "A person in need never gets tired",
+    "common_meaning": "Of course she/he will feel tired only after\ngetting what she/he wants.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Bahati ni upepo sasa upo kwangu",
+    "literal_translation": "Being lucky is like (the blowing of) the\nwind, now (it's blowing) on my side",
+    "common_meaning": "Indeed, don't expect to be lucky all the\ntime.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Chanda chema huvikwa pete",
+    "literal_translation": "A       favourite finger gets a ring on",
+    "common_meaning": "An award or       privilege usually goes to\nthe one who deserves it. Another Swahili proverb: Mcheza kwao hutunzwa -\nA person who plays at home gets awarded.  A person who brings \"the\nbacon\" home, is the one that gets recognition.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Chokochoko mchokoe pweza, binadamu\nhutamweza",
+    "literal_translation": "If you want to poke (provoke) someone, then\npoke an octopus;       you will fail with a human being",
+    "common_meaning": "The word \"chokochoko\"       actually means\n\"provocation\" but it is derived from \"chokoa\"       which means to poke\nor to fork. The way fisherman fish octopus in East       Africa is by\nforking them in their holes with pointed wooden sticks.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Chokochoko si njema mchague la kusema",
+    "literal_translation": "Provocation is not good, you should choose\nwhat to say",
+    "common_meaning": "A warning against those who use their\ntongues to incite chaos       and misunderstanding between people.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Dua la kuku halimpati mwewe",
+    "literal_translation": "A       chicken's prayer doesn't affect a\nhawk",
+    "common_meaning": "This saying       is normally used to refer\nto the helplessness of the powerless in the hands of their oppressors.\nHad the prayers of the victims be of any effect on to their\nvictimizers, then certainly the oppression would end. But\nthat doesn't seem to be the case.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Dunia duara",
+    "literal_translation": "The Earth is round",
+    "common_meaning": "Go wherever you go, but you'll return to\nthe same old place.       In some cases this saying is used to\ndiscourage overindulgence in other       peoples' affairs.  The Earth\nis round, everything revolves, and you'll       never get to the bottom\nof everything! Some would add, \"Dunia duara,       ukiichungua\nutahara!!\" (The Earth is round, you'll end up catching       diarrhoea\nif you investigate it!). Try not to get bothered, worried and\nconcerned with everything.  Afterall, the Earth is round!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Embe mbivu yaliwa kwa uvumilivu",
+    "literal_translation": "A ripe mango has to be eaten slowly",
+    "common_meaning": "Of course the writing doesn't refer to an\nactual \"ripe mango\". It refers to a love partner who is willing and\nready. She/he has to be handled gently and with care.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ewe Mola tuepushe na mahasidi",
+    "literal_translation": "O Lord, save us from the evil ones",
+    "common_meaning": "A good prayer when surrounded by vultures\nthat are ready to feast on your 'prey'.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Fadhila za punda ni mateke",
+    "literal_translation": "The       way a donkey expresses gratitude\nis by giving someone a bunch of kicks",
+    "common_meaning": "This saying is used when one gets bad\ntreatment in return to a       favour he or she gave to someone. Another\nSwahili proverb: \"Mtenda wema kijuki, mwishowe       hutiwa moto\", (A\nbee gets burnt/smoked in return for the favour of making honey).",
+    "source": "glcom"
+  },
+  {
+    "quote": "Fimbo la mnyonge halina nguvu",
+    "literal_translation": "A poor man's cane is not strong enough",
+    "common_meaning": "Another similar Swahili proverb: Dau la\nmnyonge haliendi joshi - A poor man's canoe doesn't sail fast. For the\ncanoe to sail fast, the wind has to be blowing in the direction the\ncanoe is headed to. But even the wind doesn't blow in the poor man's\nfavor! There is yet another similar proverb: Mbuzi wa masikini hazai - A\npoor man's goat doesn't bear kids. In short, nothing seems to work in\nthe poor man's favor. That's an unfortunate reality.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Fitina yako faida yangu",
+    "literal_translation": "Your bad words against me, actually benefit\nme. When you incite others against me, you actually benefit me.",
+    "common_meaning": "When someone goes around spreading bad\nwords against you, she may actually benefit you in a way. For example,\nthe other people will realize that the other person is really bad for\nwhat she says about you.  Or, the other people will come back to you and\ntell you what the person is saying against you and you will know that\nshe is a person to avoid - hence a benefit to you.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Haba na haba, hujaza kibaba",
+    "literal_translation": "Little       and little, fills the measure",
+    "common_meaning": "Small things, when       combined together\nmake up big things.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Halahala mti na macho",
+    "literal_translation": "Beware, a       stick and your eyes!",
+    "common_meaning": "It is a caution given against       an\nimpending danger.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Halua ya lozi imemshinda mdokozi",
+    "literal_translation": "Almond sweetmeat is a formidable\nchallenge to a petty thief",
+    "common_meaning": "Sweetmeat is a famous dessert in Zanzibar\nand along the coast       of East Africa. It is made of starch, sugar,\noil and sometimes nuts or       sesame seeds are used. Depending on the\nway it is made, it can be as soft       as jelly but sometimes it may\nbe very hard to cut with fingers. The       saying above is meant to\nlaugh at someone who has attempted in vain to do       something\nlike to win over somebody else's lover.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Hasidi hana sababu",
+    "literal_translation": "An envious       person requires no reason\nto practice envy",
+    "common_meaning": "He/she       would practice envy for no\nreasons at all! There is something within       him/herself that makes\nhim/her practice envy. The inner urge is all by       itself enough\nreason!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Hata tukibanana hapa atapata aliyejaliwa",
+    "literal_translation": "Even if we get into a scramble here, the\nwinner will be the one destined to win",
+    "common_meaning": "More literally it translates as: \"Even if\nwe squash each other fighting for it, the one who will get it is the one\ndestined to get it\". The writing actually discourages people from using\nviolence means to try to get things for themselves. In essence, it\nsays, a particular thing goes not to the strong but to the one destined\n(ordained by God) to get it.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Hata ukinichukia la kweli nitakwambia",
+    "literal_translation": "Hate me, but I won't stop telling you the\ntruth.",
+    "common_meaning": "The words of a person full of courage!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Hata ukinuna buzi tumelichuna",
+    "literal_translation": "You may be angry, but we've skinned the big\ngoat!",
+    "common_meaning": "The literal translation of the writing is\nvery simple, but its meaning is rather hidden.  You have to know some\nSwahili slang to be able to understand it. \"Big goat\" = buzi, goat = mbuzi \"buzi\" is Swahili slang for a well-to-do (temporary) male sex partner.\n\"kuchuna buzi\" = \"to skin the big goat\" is another slang for sleeping\nwith such a man. As you can now realize, this is not a very polite saying. Someone is\nboasting that she has actually slept with some rich man even if the\nother lady is angry about that. That man might even be the other lady's\nlover - giving her the reason to be angry about it.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Hodi hodi naikome mwaka ujao naolewa",
+    "literal_translation": "Knock, knock, should stop, as I'm getting\nmarried next year",
+    "common_meaning": "The lady doesn't want any more (male)\nvisitors who drop by her house trying to win her as she has already been\nengaged and she is actually getting married very soon. Of course she's\nconcerned that persistent 'knock, knock' on her door by the visitors would spoil\nher chance of getting married.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Huyo kibuzi mwarika mtizame\nanavyojitingisha",
+    "literal_translation": "There (she is), stupid goat, look at how\nshe swings her body!",
+    "common_meaning": "\"Kibuzi mwarika\" which I have translated as\n\"stupid goat\" is just an insult. This statement is certainly made to\noffend someone. The person issuing that statement is certainly not\npleased with someone that shows off her body by swinging it provocatively\nwhile she walks.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Japo kidogo chatosha kwa wapendanao",
+    "literal_translation": "A little is enough for those in love",
+    "common_meaning": "It doesn't really need much to sustain a\nrelationship! A few words of endearment and assurance are more than\nenough!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Japo sipendezi kubembeleza siwezi",
+    "literal_translation": "(I know) I'm not loved (by some people) but\nI cannot beg for (their) love.",
+    "common_meaning": "She/he is very proud of herself/himself!\nShe/he is not prepared to humiliate herself/himself.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Je! iko namna?",
+    "literal_translation": "Is there a way?",
+    "common_meaning": "This is slang which is usually used when\nthere is something       suspicious happening.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Jogoo wa shamba hawiki mjini",
+    "literal_translation": "A       country rooster would not crow\nwhile in town",
+    "common_meaning": "Usually       meant to despise country\npeople but its wider meaning is that some things       only fit in some\nenvironments.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kama ni ubaya ulianza wewe",
+    "literal_translation": "If you think I'm bad then you started it!",
+    "common_meaning": "I'm just giving you the taste of your own\nbitter pill!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kasheshe unalijua unalisikia?",
+    "literal_translation": "Do       you know of \"Kasheshe\" or you just\nhear about it?",
+    "common_meaning": "\"kasheshe\" is a rather new word in Swahili\nwhich refers to a serious crisis situation. Here is a warning against\ninviting or causing a crisis situation.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kazi mwanamandanda, kulala njaa kupenda",
+    "literal_translation": "Work is an obedient child, sleeping hungry\nis one's choice",
+    "common_meaning": "When you work hard, it is certain that you\nwill succeed. On       the other hand, if you don't work hard, you are\nbound to have a miserable       life.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kidogo changu pokea na dua njema nakuombea",
+    "literal_translation": "Please except this little from me along\nwith my prayers",
+    "common_meaning": "What a pleasant way to give!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kikapu cha mama kimejaa ndago",
+    "literal_translation": "My mother's basket is full of straw",
+    "common_meaning": "Swahili people use straw (and I should say,\nmany kinds of straw), for many purposes. They make straw baskets, hats,\nfans, mats, food covers, and a slew of other decorative stuff. Women\n(mothers) are the ones that make most of those things. Therefore, for a\nmother to have a basket full of straw, it may mean that she's well\nprovided for, well served, contented. In that case then, a child here\n(in this kanga writing) sort of boasts of how he/she has provided all\nwhat his/her mother needs. Such a kanga, with such a writing, would be\nideal to give to one's mother as a gift.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kikulacho kinguoni mwako",
+    "literal_translation": "What \"eats\" you is in your dress",
+    "common_meaning": "The source of your problems is those close\nto you.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kila jambo na wakati wake",
+    "literal_translation": "There       is an opportune time for\neverything",
+    "common_meaning": "Do not mix up things! A time for work\nshouldn't be used for playing, and vice versa.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kila mwenye kusubiri hakosi kitu",
+    "literal_translation": "A patient person never misses (a thing)",
+    "common_meaning": "With patience, you always stand to win.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kila uonalo wasema na hili kaseme pia",
+    "literal_translation": "You talk about everything you see, then\ntalk about this one too!",
+    "common_meaning": "It's an angry message from someone who's\nfed up with the behavior of another person. The other person gossips\nabout everything she/he sees on others. She/he talks bad about others in\ntheir absence. So, realizing that she/he has witnessed a certain thing\nhappening (probably something bad to her/him), she/he is given a\nchallenge to go around and talk about it as well. In a way, it is an\nangry protest.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kuelekeza si kufuma",
+    "literal_translation": "To aim is       not to hit",
+    "common_meaning": "Good intentions alone serve nothing if\nnot followed by tangible results.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kuku mgeni hakosi kamba mguuni",
+    "literal_translation": "A       new hen would always have a string\ntied to its leg",
+    "common_meaning": "You       can always easily identify a new\nperson in town through his/her       appearance, actions and behaviour.\nThere will always be something that       he/she will have or do that is\nnot common in the town. In other words,       each stranger comes with\nan identity!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kupata si werevu, na kukosa si ujinga",
+    "literal_translation": "Getting something is not necessarily\nbecause of cleverness,       and missing something is not necessarily\nbecause of ignorance",
+    "common_meaning": "Another Swahili saying: Mpaji ni Mungu -\nGod is the Sustainer.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Kwangu anakula keki afuate nini kwako we\nhafkeki",
+    "literal_translation": "By having me he gets to eat a real cake,\nthat's why he doesn't come to you as you are just a half-cake",
+    "common_meaning": "This statement is said in jest. The speaker\nseems to have won a love battle. She is now throwing some insults to the\nperson she has just defeated. She says, she has won him over because\nshe is \"the real thing\" - perfect in every sense, while the other lady\n(the loser) doesn't really match up with her. She is just a \"half-cake\"\n- not perfect.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Lia na tabia yako usilaumu wenzako",
+    "literal_translation": "Blame your character not your fellows",
+    "common_meaning": "It's very easy to blame others whenever one\nfaces a problem. This writing is a reminder that sometimes the blame\nshould be on the \"man in the mirror\"  - that is, yourself!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Lisemwalo lipo",
+    "literal_translation": "If it's being talked about then it's\nalready here",
+    "common_meaning": "This is a very common Swahili saying. One\nwould say that when he has heard about something he/she is not sure of\nespecially something big or bad.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Machoni rafiki, moyoni mnafiki",
+    "literal_translation": "Friendly       in the eyes, a hypocrite in\nthe heart",
+    "common_meaning": "Typical hypocrites are        very good at\nconcealing their true characters.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mama ni mama japokuwa rikwama",
+    "literal_translation": "A       mother is a mother even if a\n\"coolie's cart\"",
+    "common_meaning": "Even a bad mother is still a mother worthy\nof respect, love       and care.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mama nipe radhi kuishi na watu kazi",
+    "literal_translation": "Mother, give me your blessings; living with\npeople is really       tough",
+    "common_meaning": "Swahili people believe that one has to earn\nhis/her parent's blessings (radhi) to be successful in life. The\nblessings serve as a shield and guidance in the face of any hardship.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mambo mazuri hayataki haraka",
+    "literal_translation": "Good things should not be hastened",
+    "common_meaning": "Another similar Swahili proverb: Haraka\nharaka haina baraka - Rush rush doesn't lead to bounty. You need to slow down\nsometimes since when you do everything in a rush you do not get enough\ntime to enjoy what you do.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mapenzi hayana macho ya kuona",
+    "literal_translation": "Love is blind",
+    "common_meaning": "Those in love do things that trascend\nnormal senses.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mapenzi hudumu ukila zabibu",
+    "literal_translation": "Love lasts if you eat grapes",
+    "common_meaning": "The literal translation doesn't make much\nsense but it actually means, love is sustained by sexual relation.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mche Mungu upate rehema zake milele",
+    "literal_translation": "Fear God so that you earn His everlasting\nblessings",
+    "common_meaning": "Many kanga writings reflect deep religious\nfeelings of the Swahili people. This is one of them.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mcheza kwao hutunzwa",
+    "literal_translation": "A person who plays at home gets awarded",
+    "common_meaning": "He/She who brings \"the       bacon\" home is\nthe one who gets recognition and favour.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mchezea wembe humkata mwenyewe",
+    "literal_translation": "A person who plays with a razor, cuts\nhimself",
+    "common_meaning": "If you get       involved in a dangerous\nexercise, you are bound to get harmed physically       or emotionally.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mchimba kisima, huingia mwenyewe",
+    "literal_translation": "A person who digs a well, gets himself\ninside (first)",
+    "common_meaning": "A person who       sets a trap often times\nfinds himself caught in it. If you have bad       intentions against\nothers, chances are, you'll be the first to be affected       by those\nintentions directly or indirectly.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mdhaniaye ndiye kumbe siye",
+    "literal_translation": "The       one whom you think is the right\none is the wrong one",
+    "common_meaning": "You       are barking up a wrong tree.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mgaagaa na upwa hali wali mkavu",
+    "literal_translation": "A       person who walks and searches\nthoroughly around a beach never eats       \"dry\" rice (rice with no fish\nstew)",
+    "common_meaning": "If you       work hard looking for\nsomething, you will never come out empty handed.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mie langu jicho",
+    "literal_translation": "To me, my eye!",
+    "common_meaning": "He/She is prepared to do nothing but look\nat the way things       go! It is the same as saying, \"I don't care!\".",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mimi na wewe pete na kidole",
+    "literal_translation": "I and you are like a ring and a finger",
+    "common_meaning": "We're so close.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mke mwema pambo la nyumba",
+    "literal_translation": "A good       wife is a home's adornment",
+    "common_meaning": "A wife full of love, lights up the home\nwith her compassion.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mke mwenza!! haa!! mezea!",
+    "literal_translation": "Cowife!       Ha! Just swallow it!",
+    "common_meaning": "A wife tells her husband to       never\neven think about having a second wife! The statement \"mezea\" (just\nswallow it) is Swahili slang which means, \"let it pass\" or as\nthey say in US, \"Forget it!\"",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mkuki kwa nguruwe, kwa binaadamu mchungu",
+    "literal_translation": "A spear only fits a warthog, it's bitter to\na humanbeing",
+    "common_meaning": "In other words, those people who like to\ncause harm and discomfort to others, often times are very quick at\ncrying foul when something bad is done to them.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Moyo wa kupenda hauna subira",
+    "literal_translation": "A       heart deep in love has no patience",
+    "common_meaning": "A person deep in love doesn't like to wait!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Moyo wangu Sultani, cha mtu sikitamani",
+    "literal_translation": "My heart is like Sultan, I don't long for\nanybody else's       property",
+    "common_meaning": "I am satisfied.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Moyo wa subira haufanyi ghera",
+    "literal_translation": "A patient heart is never in haste",
+    "common_meaning": "A patient heart doesn't fumble around.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mpaji ni Mungu",
+    "literal_translation": "God is the       Sustainer",
+    "common_meaning": "Mostly used by the havenots to console\nthemselves.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mpenzi uwe radhi",
+    "literal_translation": "Sorry, my dear!",
+    "common_meaning": "It's about time that someone said, \"I'm\nsorry!\"",
+    "source": "glcom"
+  },
+  {
+    "quote": "Msijifanye hamjui linalonikera",
+    "literal_translation": "Don't pretend you don't know what annoys me",
+    "common_meaning": "The person says: \"You pretty well know what\nbothers me but you keep repeating the same as if you don't know that it\nannoys me.\"",
+    "source": "glcom"
+  },
+  {
+    "quote": "Msilale wanawake",
+    "literal_translation": "Women: do not fall asleep",
+    "common_meaning": "It's a call to women not \"to fall asleep\" -\nmeaning, not to be completely passive. They should \"wake up\" and do what\nis best for them.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Msilolijua litawasumbua",
+    "literal_translation": "You will       be troubled with what you\nhave no knowledge of",
+    "common_meaning": "Normally       said to discourage those who\nare so nosy about the affairs of others.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mso hili ana lile",
+    "literal_translation": "A person       missing this has that",
+    "common_meaning": "There is no useless person.       Likewise,\nthere is no person that is absolutely perfect.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mti hawendi ila kwa nyenzo",
+    "literal_translation": "A log       moves only with proper tools",
+    "common_meaning": "You need to have proper       tools to\ncarry out any task.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mtoto umleavyo ndivyo akuavyo",
+    "literal_translation": "The       way you raise a child is what\nhe/she will grow to be",
+    "common_meaning": "The       upbringing of a child is what\nmoulds his or her character. It is a lesson       given to parents to\nraise their children well for them to have better       future.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mtumai cha ndugu hufa masikini",
+    "literal_translation": "A person who relies on his/her\nrelative's property, dies poor",
+    "common_meaning": "Encourages       selfreliance.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mtupie Mungu kilio, sio binadamu mwenzio",
+    "literal_translation": "Throw saddening stuff to God, not to your\nfellow human being",
+    "common_meaning": "The logic is, God can handle any situation,\nnot so with an       ordinary human being.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mungu atanilinda ubaya wenu hautanifika",
+    "literal_translation": "God will protect me, your evil deeds will\nnot reach me",
+    "common_meaning": "God will protect me against your evil\ndeeds. He is afterall, The Protector.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mungu ndie muamuzi wa kila jambo",
+    "literal_translation": "God is the Judge for everything",
+    "common_meaning": "This is a very common attitude of many\nSwahili people. They will just leave matters to God to decide. It is the\nbasis for their non-confrontational and peaceful attitude.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mwanamke ni chachu ya maendeleo",
+    "literal_translation": "A woman is an important part of development",
+    "common_meaning": "A woman is an important part of any\ndevelopment effort.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mwenye wivu ajinyonge",
+    "literal_translation": "The envious should hang herself/himself",
+    "common_meaning": "Mmmh! Quite rough words! This is a very\nharsh and impolite statement from someone who is really fed up with those\nwho envy her/his relationship or success in life.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mzaha mzaha hutumbuka usaha",
+    "literal_translation": "Too       many jokes burst out the pus",
+    "common_meaning": "If you joke with       someone too much,\nyou may easily do or say something that will anger him       or her.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Mzizi sio jadi kupendwa ni bahati",
+    "literal_translation": "To be loved is not through a love potion\nbut through your good luck",
+    "common_meaning": "Of course many people would dispute that.\nSome people in the Swahili world do indeed believe in love potions.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Naishi niwezavyo siishi mtakavyo",
+    "literal_translation": "I live as I can afford not as you wish",
+    "common_meaning": "Another Swahili proverb: Mtu hujikuna\najipatapo - A person scratches herself/himself where her/his fingers\nreach. In this writing the kanga wearer is confronting others who seem\nto talk behind her back regarding her life style. She is telling them\nshe is not prepared to yield on their pressure. She'll just continue to\nlive according to her means no matter what they say. This is a very\nstrong statement.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Na iwe leo furaha ya harusi",
+    "literal_translation": "Let today be the happiest wedding moment",
+    "common_meaning": "A wedding day is considered to be a climax of life \nin many culture. Swahili culture is no exception. This kanga writing is a very popular\nchorus in many Swahili wedding songs.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Naona ni shoga yangu, kumbe ni mke\nmwenzangu",
+    "literal_translation": "I thought of you as my girlfriend, but\nalas! You are my       cowife",
+    "common_meaning": "Someone is messing around with someone\nelse's husband!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Napenda kukuona mpenzi wangu ni furaha ya\nmoyo wangu",
+    "literal_translation": "I love to see you my dear, you are the joy\nof my heart!",
+    "common_meaning": "Mmmh! It's a kind of words you never get\ntired of hearing!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Nazi mbovu harabu ya nzima",
+    "literal_translation": "A bad       coconut renders good ones bad",
+    "common_meaning": "A bad person or thing       in the midst of\ngood ones can easily spoil either the attributes or even       the\ncharacter of the good ones.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Neema ya wazee furaha ya watoto",
+    "literal_translation": "Economic       success of parents is a joy\nto their children",
+    "common_meaning": "Parents who are economically successful\nhave enough means to take good care of their children.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Nikiwepo sipendezi na kunikosa huwezi",
+    "literal_translation": "My presence doesn't please you and neither\ncan you afford to be without me",
+    "common_meaning": "Mmmh! A kanga with such a writing is\ndefinitely intended to give someone a good \"rub\". The giver of such a kanga\nmight even be hit back with it!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Nilikudhani dhahabu kumbe adhabu",
+    "literal_translation": "I       thought of you as gold but you are\nsuch a pain",
+    "common_meaning": "I       regarded you as the most precious\nthing I have ever had, but you have       proved to be nothing but\ntorture and torment to me.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Nimekisaliti kidole na jiwe, liwalo na liwe",
+    "literal_translation": "I have betrayed a toe against a stone, let\nit be!",
+    "common_meaning": "I am prepared to bear the consequences of\nmy own mistakes.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Njaa mwanamalegeza, shibe mwanamalevya",
+    "literal_translation": "Hunger weakens, but food satisfaction\nintoxicates",
+    "common_meaning": "When one is hungry, he becomes weak but\nwhen he is       stomach-full of food he becomes too lazy to work.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Paka chume mtaani kwenu, halahala vitoweo\nvyenu",
+    "literal_translation": "A stray cat is wandering around your\nneighbourhood, watch out with your \"vitoweo\" (fish or meat)",
+    "common_meaning": "It is a caution given to lovers to watchout\nagainst wanderers lest they snatch their partners off.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Pekepeke za jirani, hazinitoi ndani",
+    "literal_translation": "Unwarranted spying by a neighbour does not\ntake me out of my       house",
+    "common_meaning": "The best treatment for nosy neighbours is\nto ignore them.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Pema usijapo pema ukipema si pema tena",
+    "literal_translation": "A good place is one where you have not\ndwelt on, once you do       that it ceases to be good",
+    "common_meaning": "Often times you get       fascinated with\nthings you have little knowledge about. Once you have       knowledge\nand experience with that thing it ceases to interest you. It's an\nunfortunate reality that bedevils many human relationships.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Penzi la mama tamu, haliishi hamu",
+    "literal_translation": "Mother's love is so sweet that you never\nhave enough of it",
+    "common_meaning": "Couldn't have said it better!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Pilipili iko mtini yakuwashia nini?",
+    "literal_translation": "A chilli pepper on its plant, how could it\nmake you hot?",
+    "common_meaning": "The issue is none of your concern, how\ncould it bother you? In       other words, \"This is none of your\nbusiness!\"",
+    "source": "glcom"
+  },
+  {
+    "quote": "Rafiki akupendae humuona penye haja",
+    "literal_translation": "A friend who loves you, you'll always see\nhim/her when you're in need",
+    "common_meaning": "Compare with the English saying: A friend\nin need is a friend indeed.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Samaki akioza usimtupe ataokotwa uje ujute",
+    "literal_translation": "If a fish goes bad don't throw it away lest\nyou regret when someone picks it up",
+    "common_meaning": "Of course the meaning is far from the\n\"fish\" thing! It is a caution against making hasty decisions on things\nthat affect us directly. And in this particular context it is with\nregard to relationships. The writing teaches us not to be too swift at\ndumping our friends and lovers only to regret when they find \"better\"\nsuitors.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Shanuo baya pale linapokuchoma",
+    "literal_translation": "A comb becomes bad when it hurts you",
+    "common_meaning": "An otherwise useful thing or a good person\nbecomes bad to you when it/he/she harms you in whatever way.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Shukurani zetu pokeeni na dua njema\ntunawaombea",
+    "literal_translation": "Please accept our thanks and good prayers",
+    "common_meaning": "An excellent way to express gratitude.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Sichagui sibagui atayenizika simjui",
+    "literal_translation": "I do not choose nor do I seggregate, for I\ndon't know who will attend to my funeral",
+    "common_meaning": "This is a nice saying and a very important\nreminder to all of us. We really don't know who will and will not be\nuseful to us. You may be in trouble and get helped by someone you least\nexpected. It always help to treat everyone equally and with respect.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Siku ya kufa nyani miti yote huteleza",
+    "literal_translation": "The day a monkey is destined to die, all\ntrees get slippery",
+    "common_meaning": "There is no escaping one's fate.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Sithamini pochi yako bali utu wako",
+    "literal_translation": "I value not your wallet but your morality",
+    "common_meaning": "Another Swahili proverb: Bora utu kuliko\nkitu - Good moral character is more important than material wealth.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Situmai uzuri wangu, natumai bahati yangu",
+    "literal_translation": "I don't rely on my beauty but my luck",
+    "common_meaning": "Compare with:       The beauty and the\nbeast!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Tamu ya mua kifundo",
+    "literal_translation": "A sugarcane       is sweetest at the joint",
+    "common_meaning": "What seems to be hard to       achieve in\nreal life is often times the best. Fruits of hard labour are enjoyed the most.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Tulia tuishi wazuri haweshi",
+    "literal_translation": "Calm       down and live with me, pretty\nones are never in short supply",
+    "common_meaning": "Indeed the world is full of beautiful and\nhandsome people. If one were to fall for each one of them it would be\nimpossible to establish a lasting relationship with anyone.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Tulia tulia utakalo utalipata",
+    "literal_translation": "Just be cool, you'll get what you want",
+    "common_meaning": "A re-assuring statement!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ubaya hauna kwao mola nisitiri na njama zao",
+    "literal_translation": "There is no special place for wickedness;\nOh Lord, save me from their evil plots",
+    "common_meaning": "One can come across wicked things anywhere\neven where he/she least expected.  Wicked things are not reserved to\nspecial places. There is no \"home\" for wickedness.  Realizing that, the\nperson here seeks refuge to God to protect him/her from any kind of evil\nplots against him/her. The saying itself is very poetic in Swahili and\nthe meaning is far reaching.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Uchungu wa mwana aujuae mzazi",
+    "literal_translation": "A parent has the ultimate feelings for\nher/his child",
+    "common_meaning": "\"Uchungu wa mwana\" is generally used to\nmean the pain a mother feels from pregnancy to child birth. Ironically,\nit is this pain that creates a solid bond with her child and giving her\nthe reason to protect the child from any harm. In essence, the writing\nsays: \"It is the mother that knows best how hard it was to give birth to\nthe child and therefore she has the ultimate feelings for her child.\"\nIn this case though, the writing is more general to include the\nfeelings of both parents to their child. Hence the use of \"mzazi\"\n(parent), instead of \"mama\" (mother).",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ukali wa jicho washinda wembe",
+    "literal_translation": "An       eye is sharper than a razor",
+    "common_meaning": "A look can be extremely effective        in\nsending a desired message across. It can be a friendly       and\ninviting look or a threatening one.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ukila nanasi, tunda lingine basi",
+    "literal_translation": "Once       you taste a pineapple, you'll\nnever go for any other fruit",
+    "common_meaning": "It is very common in Swahili to use sweet\nfruits to signify       things associated with love. There are songs and\nsongs about such fruits       as \"nanasi\" (pineapple), \"zabibu\"\n(grapes), \"tofaa\"       (apple), etc., all having nothing to do with the\nfruits themselves but love.       Hence such sayings as, \"Ukila zabibu,\nutaleta majibu\", (Once you       taste grapes you'll definitely\nrespond), obviously talks about things       associated with love.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ukimkirimu Mola wako hukosi fungu lako",
+    "literal_translation": "If you are generous to your God, you won't\nmiss your share (of compensation)",
+    "common_meaning": "If you are generous to your God (and His\ncreations), He will be generous to you. If you serve your God, He will\nserve you.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ukiona vyaelea vimeundwa",
+    "literal_translation": "When       you see them (vessels) afloat,\nsomebody made them",
+    "common_meaning": "Nothing       comes out of nothing! One has\nto work for whatever he or she wishes to       achieve.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ukipata shukuru ukikosa usikufuru",
+    "literal_translation": "When you get (something) be thankful and\nwhen you miss (something) do not blaspheme",
+    "common_meaning": "The one who gives is the same one as the\none who deprives. It's the Almighty God. The best thing is to be\nthankful for both - getting and missing things. The Swahili people\nbelieve that it's in God's plans that people miss some things and get\nsome things.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ukistaajabu ya Musa utaona ya Firauni",
+    "literal_translation": "If the acts of Moses make you wonder, wait\nuntil you see the       acts of Pharaoh",
+    "common_meaning": "Get prepared for the worst! As the\nAmericans would say: You ain't seen nothin' yet!!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Ukiujua huu, huu huujui",
+    "literal_translation": "If you       know this one, you don't know\nthis (other) one",
+    "common_meaning": "Sometimes       interpreted as a gesture\ndemonstrated by flies when they rub their legs       forward and then\nthey repeat rubbing their legs backward. i.e. if you know       the\nforward one, you don't know the backward one. In other words you will\nalways find that there is something you don't know.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usiache mbachao kwa msala upitao",
+    "literal_translation": "Don't       abandon your old rug for a\npassing mat",
+    "common_meaning": "Value more       what is yours and more\npermanent rather than a temporary thing that is not       yours even\nthough it appears to be better looking than yours.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usibadili nia kwa jambo la kusikia",
+    "literal_translation": "Don't change your mind because of a hearsay",
+    "common_meaning": "People do speak lots of things which are\nnot always the truth.       This is a piece of advice not to take\nhearsay seriously.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usicheze na ulimwengu ukikuelemea utajuta",
+    "literal_translation": "Don't play tricks with the world, you will\nregret when it falls on you",
+    "common_meaning": "\"Ulimwengu\" in Swahili literally translates\nas \"the world\" or \"the universe\", but in the above saying it \nmeans one's life and whatever surrounds him/her including other people\nand things. The correct (non-literal) translation of the above saying\nwould then be: Don't be unconcerned with your life, you will regret\nwhen it fails you.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usikumbuke uovu ukasahau fadhila",
+    "literal_translation": "Don't       remember the evil things only\nwhile forgetting to be thankful for the good       deeds",
+    "common_meaning": "Make a judgement based on both, good and\nbad side of everything.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usilaumu sisimizi sukari haimalizi",
+    "literal_translation": "Don't blame an ant, it will never finish\nthe sugar",
+    "common_meaning": "Don't look for lame excuses.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usinichukie kwa umasikini",
+    "literal_translation": "Don't hate me for (my) poverty",
+    "common_meaning": "Hate me for something else but not because\nof my poverty as I didn't ask God to make me poor.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usinione nasinzia uyasemayo nayasikia",
+    "literal_translation": "You see me dozing but I hear whatever you\nsay",
+    "common_meaning": "Don't think that I am not aware of what you\ndo in my absence.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usinipende kwa moja nipende kwa yote",
+    "literal_translation": "Don't love me for just one thing, love me\nfor everything",
+    "common_meaning": "She/he demands to be loved as a person (as\na whole) not just as someone that possesses one likable/adorable thing.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usisafirie nyota ya mwenzio",
+    "literal_translation": "Don't       set sail using someone else's\nstar",
+    "common_meaning": "Everyone has his       or her own destiny.\nIf someone has become successful by doing something,       it is not\nnecessarily right to assume that you will also be successful by\ndoing the same thing.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usisahau hisani kwa dhiki ya mara moja",
+    "literal_translation": "A single instant of hardship should not\nmake you forget all the favours",
+    "common_meaning": "The message here is that any long-term\nrelationship is bound to encounter some displeasing incidents which\nshould just as well be ignored in favour of so many good things rendered\nover the whole long period of relationship. That is exactly how\nrelationships are sustained!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usisherehekee vita ukalilia amani",
+    "literal_translation": "Don't celebrate war and cry for peace",
+    "common_meaning": "You cannot blow hot and cold at the same\ntime. You're either for peace or for war - not both at the same time! If\nyou are happy to go to war, it is hypocritical at the same time to cry\n(pray) for peace.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Usitake ushindani huniwezi aslani",
+    "literal_translation": "Don't compete (with me), you can never beat\nme",
+    "common_meaning": "War of words!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Utamaliza limau shaba haiwi dhahabu",
+    "literal_translation": "You will run short of lemon juice\n(rubbing), but never will       copper turn into gold",
+    "common_meaning": "Don't wish for the impossible.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Uzuri wa mke ni tabia si sura",
+    "literal_translation": "A wife's beauty is in her character, not\nher looks",
+    "common_meaning": "Compare with: Don't judge a book by its\ncover!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Vidole vitano, kipi bora",
+    "literal_translation": "Five       fingers, which is the best?",
+    "common_meaning": "It is an indirect way of       saying that\nit is difficult to say which finger is better than another       since\nfingers work together to accomplish a task. In other words, it is a\ncall for unity. Compare with another Swahili proverb: Kidole kimoja\nhakivunji chawa - One finger is not       capable of smashing a flea.\nYou need two fingers (usually two thumbnails) for that purpose.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Vishindo vingi sio kutenda jambo",
+    "literal_translation": "Fumbling       around doesn't accomplish\nanything",
+    "common_meaning": "Another Swahili proverb: \"Simba mwenda\nkimya ndiye mla nyama\" -       A quiet lion is the one that catches the\nprey.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Wajenga kwa wengine kwako kwabomoka",
+    "literal_translation": "You build somebody else's place while yours\nis falling down",
+    "common_meaning": "A wake-up call for a person too negligent\nof his own life.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Wameadhirika mahasidi wasojijua",
+    "literal_translation": "Humiliation has come down upon the evil ones who\ndon't know themselves",
+    "common_meaning": "Those who wrongly took themselves as saints\nrather than evil persons, have now revealed their true colors. They are\nvery much humiliated! It seems to be the right time to laugh at them.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Wangu wa ubani nimemuweka ndani",
+    "literal_translation": "I       am securely holding my lover inside",
+    "common_meaning": "\"Ubani\"       (Frankincense gum) is a very common\nincense in East Africa and Arabia. It is commonly\nused in large gatherings especially in religious       (Islamic)\nocassions where believers say prayers. It is very common to\nburn \"ubani\" in a small earthen container called \"kiotezo\"       filled\nwith hot charcoal. Burning \"ubani\" is customarily taken to be an essential part of\nsaying prayers. The custom is\nthought to have been brought to East Africa by the Persians (Iranians).\nAssociating a lover with a word \"ubani\" is likely due to its       nice\nfragrance or the fact that it requires a hard task of burning \"ubani\"\nin a prayer to have a lover. Statements like, \"Humpati hata kwa ubani\",\n(You will never win her even if you burn \"ubani\") are common in\nSwahili.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Wape wape vidonge vyao, wakimeza, wakitema\nshauri yao",
+    "literal_translation": "Give them their (bitter) medicine tablets;\nIt is upon them to       swallow or to spit them off!",
+    "common_meaning": "Usually said when one       proceeds\ntelling someone things that he or she would not like to hear.\nMaybe someone is complaining about what he or she did or just an attempt\nto intimidate him or her.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Wasemao nawaseme siwajali mambo yao",
+    "literal_translation": "I don't care what they say!",
+    "common_meaning": "I'll just ignore them!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Wastara nimestirika mlilolitaka\nhalikunifika",
+    "literal_translation": "Destined to be safe, I remain protected,\nand your evil wishes have not materialized",
+    "common_meaning": "A triumpant and daring statement!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Wee! Utaumiza roho yako",
+    "literal_translation": "You! You'll hurt your soul",
+    "common_meaning": "Another impolite caution!",
+    "source": "glcom"
+  },
+  {
+    "quote": "Zawadi ni tunda la moyo",
+    "literal_translation": "A gift is a fruit from the heart",
+    "common_meaning": "Another Swahili saying: Kutoa ni moyo\nusambe ni utajiri - Giving is from the heart not from the wealth.",
+    "source": "glcom"
+  },
+  {
+    "quote": "Zawadi ni zawadi, usichoke kupokea",
+    "literal_translation": "A gift is a gift, don't get tired of\nreceiving",
+    "common_meaning": "Compare with another Swahili proverb:\n\"Kutoa ni moyo usambe ni utajiri\", (Giving is       from the heart not\nfrom the wealth).",
+    "source": "glcom"
+  }
+]
