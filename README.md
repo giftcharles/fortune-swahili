@@ -30,16 +30,18 @@ fortune-swahili
 
 Display multiple proverbs:
 ```bash
-fortune-swahili 3
+fortune-swahili --count 3
+```
+
+Help:
+```bash
+fortune-swahili --help
 ```
 
 ## Features
 
 - 🌍 **5,698 Swahili proverbs** from 60 categories
 - 🔐 **GPG-signed repository** for secure installation
-- 🤖 **Automated CI/CD** builds and publishes on every commit
-- 📦 **Standard Debian package** (`fortune-swahili_0.1_all.deb`)
-- 🚀 **Hosted on GitHub Pages** with proper APT structure
 
 ## Data Source
 
@@ -79,4 +81,3 @@ This repository is automatically built and published via GitHub Actions on every
 ---
 
 **Status**: ✅ Production Ready  
-**Maintainer**: [giftcharles](https://github.com/giftcharles)
