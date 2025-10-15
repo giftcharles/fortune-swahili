@@ -1,0 +1,53 @@
+name: Build and publish apt repo
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Rebuild data and package
+      run: |
+        chmod +x build_deb.sh make_apt_repo.sh
+        ./build_deb.sh "$(pwd)/../data" || true
+        # ensure .deb exists
+        ls -l fortune-swahili_0.1_all.deb
+
+    - name: Create apt repo
+      run: |
+        ./make_apt_repo.sh ./fortune-swahili_0.1_all.deb ./apt-repo
+
+    - name: Import GPG key (from secret) and sign Release
+      env:
+        GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+        GPG_PASSPHRASE: ${{ secrets.GPG_PASSPHRASE }}
+      run: |
+        set -euo pipefail
+        if [ -z "$GPG_PRIVATE_KEY" ]; then
+          echo "No GPG key provided; failing"; exit 1
+        fi
+        echo "$GPG_PRIVATE_KEY" | gpg --batch --import
+        # sign the Release file
+        ./sign_release.sh ./apt-repo/Release "$GPG_PASSPHRASE"
+
+    - name: Publish to gh-pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./apt-repo
+        destination_dir: /

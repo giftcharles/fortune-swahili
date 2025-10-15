@@ -1,0 +1,14 @@
+Package: fortune-swahili
+Version: 0.1
+Architecture: all
+Maintainer: You <you@example.com>
+Filename: pool/main/f/fortune-swahili/fortune-swahili_0.1_all.deb
+Size: 364900
+MD5sum: e6cb927353d9926b83bcf2e4e31749f3
+SHA1: 254e656c3ee081d58f344c58e15c81b4f9628e39
+SHA256: 605c9ea4f7b8b2fd215f9ade7e7b39819b3943bf9e763f9bd67867ba44af90cd
+Section: games
+Priority: optional
+Description: Swahili proverbs fortune data and command
+ A small package providing Swahili proverbs for a fortune-like command.
+
