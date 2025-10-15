@@ -102,17 +102,18 @@ cd scraper
 ./build_deb.sh ../data
 ```
 
-- Parse the saved GLCom kanga page (if present) into JSON:
+- Use pre-parsed JSON files
 
 ```bash
-cd scraper
-python3 parse_glcom_kanga.py
-# writes scraper/glcom_kanga.json
+# curated/parsing outputs are stored under scraper/ as JSON files.
+# Use those JSON files directly; do not re-run raw HTML parsing scripts.
+ls scraper/*.json
 ```
 
-- Normalize and merge new scrapes into the main dataset (creates a backup):
+- Merge curated JSON extracts into the main dataset (creates a backup):
 
 ```bash
+# merge any curated JSON files (keeps a backup of data/quotes.json)
 python3 scraper/normalize_mwambao.py
 ```
 
@@ -123,11 +124,10 @@ cd scraper
 ./make_apt_repo.sh ./fortune-swahili_0.2_all.deb ./apt-repo
 ```
 
-- To test the CLI locally against any JSON file:
+-- To test the CLI locally against any JSON file:
 
 ```bash
 python3 scraper/bin/fortune-swahili --data /path/to/quotes.json --count 3
-python3 scraper/bin/fortune-swahili --data scraper/glcom_kanga.json --censor-nsfw
 ```
 
 If you plan to publish to GitHub Pages via the workflow, ensure the repository secrets `GPG_PRIVATE_KEY` and `GPG_PASSPHRASE` are set in the repo settings so the Release can be signed by CI.
