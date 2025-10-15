@@ -372,6 +372,30 @@ fortune-swahili | cowsay</code></div>
                     to submit issues or pull requests.
                 </p>
             </section>
+
+            <section>
+                <h2>Development</h2>
+                <p>Quick developer commands to run locally (requires Python 3):</p>
+                <div class="code-block"><code># create venv and install deps
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r scraper/requirements.txt
+
+# build package (uses data/ by default)
+cd scraper
+./build_deb.sh ../data
+
+# parse saved GLCom page into JSON
+python3 parse_glcom_kanga.py
+
+# normalize and merge new scrapes into data/quotes.json
+python3 normalize_mwambao.py
+
+# create apt-repo locally
+./make_apt_repo.sh ./fortune-swahili_0.2_all.deb ./apt-repo
+"</code></div>
+                <p>If you plan to publish via GitHub Actions, ensure the repository secrets <code>GPG_PRIVATE_KEY</code> and <code>GPG_PASSPHRASE</code> are configured.</p>
+            </section>
             
             <div class="warning">
                 <strong>Security Note:</strong> This repository is cryptographically signed with GPG. 
