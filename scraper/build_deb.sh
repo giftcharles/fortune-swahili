@@ -6,7 +6,7 @@ set -euo pipefail
 
 DATA_DIR=${1:-"$(pwd)/../data"}
 PKGDIR=$(mktemp -d)
-PKGNAME=fortune-swahili_0.1_all
+PKGNAME=fortune-swahili_0.2_all
 
 mkdir -p "$PKGDIR/DEBIAN"
 mkdir -p "$PKGDIR/usr/bin"

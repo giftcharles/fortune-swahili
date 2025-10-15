@@ -19,10 +19,8 @@ def load_quotes(path: Path):
 
 def format_quote(item: dict):
     # Do NOT include 'person' / attribution in output per user preference.
+    # Also remove category from output as requested.
     quote = (item.get('quote') or '').strip()
-    category = (item.get('category') or '').strip()
-    if category:
-        return f"{quote} ({category})"
     return quote
 
 
