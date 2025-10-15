@@ -7,7 +7,7 @@ set -euo pipefail
 DATA_DIR=${1:-"$(pwd)/../data"}
 PKGDIR=$(mktemp -d)
 # bumped for release
-PKGNAME=fortune-swahili_0.3_all
+PKGNAME=fortune-swahili_0.3.1_all
 
 mkdir -p "$PKGDIR/DEBIAN"
 mkdir -p "$PKGDIR/usr/bin"

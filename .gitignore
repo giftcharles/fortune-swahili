@@ -4,3 +4,5 @@ scraper/fortune-swahili_0.1_all.deb
 .gnupg-temp/
 data/quotes.json.bak*
 scraper/*.html
+scraper/*.gpg*
+__pycache__/
