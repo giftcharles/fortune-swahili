@@ -25,55 +25,42 @@ cd "$REPO_DIR"
 dpkg-scanpackages --arch all pool /dev/null > dists/stable/main/binary-all/Packages
 gzip -f -k dists/stable/main/binary-all/Packages
 
-# Create Release file in dists/stable/
-cat > dists/stable/Release <<'REL'
-Origin: fortune-swahili
-Label: fortune-swahili
-Suite: stable
-Codename: stable
-Date: PLACEHOLDER
-Architectures: all
-Components: main
-Description: Swahili proverbs fortune package repository
-REL
+# Generate Release file using apt-ftparchive for proper checksums
+# Create config for apt-ftparchive
+cat > apt-ftparchive.conf <<'EOF'
+Dir {
+  ArchiveDir ".";
+};
 
-# Set date and add checksums
-python3 - <<'PY'
-from datetime import datetime
-from pathlib import Path
-import hashlib
+TreeDefault {
+  Directory "pool/";
+};
 
-def file_hash(path, algo):
-    h = hashlib.new(algo)
-    h.update(Path(path).read_bytes())
-    return h.hexdigest()
+BinDirectory "pool/main" {
+  Packages "dists/stable/main/binary-all/Packages";
+  Contents "dists/stable/Contents-all";
+};
 
-# Update date
-release_path = Path('dists/stable/Release')
-txt = release_path.read_text()
-txt = txt.replace('PLACEHOLDER', datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S UTC'))
+Default {
+  Packages {
+    Extensions ".deb";
+  };
+};
+EOF
 
-# Add checksums for Packages files
-packages_file = 'dists/stable/main/binary-all/Packages'
-packages_gz = packages_file + '.gz'
+# Generate Release file with apt-ftparchive
+cd dists/stable
+apt-ftparchive release \
+  -o APT::FTPArchive::Release::Origin="fortune-swahili" \
+  -o APT::FTPArchive::Release::Label="fortune-swahili" \
+  -o APT::FTPArchive::Release::Suite="stable" \
+  -o APT::FTPArchive::Release::Codename="stable" \
+  -o APT::FTPArchive::Release::Architectures="all" \
+  -o APT::FTPArchive::Release::Components="main" \
+  -o APT::FTPArchive::Release::Description="Swahili proverbs fortune package repository" \
+  . > Release
 
-md5_pkgs = file_hash(packages_file, 'md5')
-sha1_pkgs = file_hash(packages_file, 'sha1')
-sha256_pkgs = file_hash(packages_file, 'sha256')
-size_pkgs = Path(packages_file).stat().st_size
-
-md5_gz = file_hash(packages_gz, 'md5')
-sha1_gz = file_hash(packages_gz, 'sha1')
-sha256_gz = file_hash(packages_gz, 'sha256')
-size_gz = Path(packages_gz).stat().st_size
-
-txt += f"\nMD5Sum:\n {md5_pkgs} {size_pkgs} main/binary-all/Packages\n {md5_gz} {size_gz} main/binary-all/Packages.gz\n"
-txt += f"SHA1:\n {sha1_pkgs} {size_pkgs} main/binary-all/Packages\n {sha1_gz} {size_gz} main/binary-all/Packages.gz\n"
-txt += f"SHA256:\n {sha256_pkgs} {size_pkgs} main/binary-all/Packages\n {sha256_gz} {size_gz} main/binary-all/Packages.gz\n"
-
-release_path.write_text(txt)
-print('Wrote Release with checksums')
-PY
+cd ../..
 
 echo "Repo created at: $REPO_DIR"
 echo "Structure: dists/stable/main/binary-all/ and pool/"
