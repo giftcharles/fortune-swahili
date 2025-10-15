@@ -4,31 +4,31 @@ Hash: SHA512
 Architectures: all
 Codename: stable
 Components: main
-Date: Wed, 15 Oct 2025 07:09:21 +0000
+Date: Wed, 15 Oct 2025 10:13:55 +0000
 Description: Swahili proverbs fortune package repository
 Label: fortune-swahili
 Origin: fortune-swahili
 Suite: stable
 MD5Sum:
- db920104b30d52d6b15f1531215040a4              209 Release
- d4e5dc9d9150f4b950e5d6799bb9a224              492 main/binary-all/Packages
- f837c3906e0d82545143ef3c717f98ea              355 main/binary-all/Packages.gz
+ 03f2df9411e607f88de803ae2347c4cf              209 Release
+ c1e572b7dd8bfcde16493754c01a4b41              492 main/binary-all/Packages
+ 1e8aacad7a1e1b74e872eb707288b56a              353 main/binary-all/Packages.gz
 SHA1:
- ef32af9a1df0ba74a8f6ae14a89a7ced967265b5              209 Release
- fa8d0e94800329babaea9686ade68ec387e1c191              492 main/binary-all/Packages
- fd3a88568d50ce3ca9a9681b0e3714a84985e515              355 main/binary-all/Packages.gz
+ 2d1beaee2f34b9df3d8f233f0a9270e2250c55a0              209 Release
+ 87582808759fdb347e858dc3fb5139182f5ec7f0              492 main/binary-all/Packages
+ 6e9c6fd44a5991785cc806d7e9ca5f3d22e45a48              353 main/binary-all/Packages.gz
 SHA256:
- b8fec2730441f734aa86377d989a5e8f8d60e8a443bb85039d918899a8026914              209 Release
- 85fd02f5c580017f3604e296acd3d9e8f970d9ecdd17757cafde6f4091a8ba7f              492 main/binary-all/Packages
- efd465b43584b2c87db38d19265bff152897fb6bc26bf4613b3210a8a2fefcc8              355 main/binary-all/Packages.gz
+ 52e5d9a79289e128bf71078868d962681d9d20135c4c6a262ceca780123ab0f3              209 Release
+ 30abe8eab28df5a411464cb0340205985577a91a2003b3e5d2c93d0fb2e49223              492 main/binary-all/Packages
+ 1910c2671018f35b50195a6a589dc08331bcabb9b56273330f616d3222a5a35c              353 main/binary-all/Packages.gz
 SHA512:
- ac97762035b651aff06ec87060aa49679d832798df6d42a70fc240c78e9cce8061aa7ce1aeb3f0f5bbfe8b376bf421446a1f3972b2610cfd80fa691be5ee3089              209 Release
- bf16c9bfa7b06a2225f37e2a1766b521d2113a7cfb6df9f20ab13cc893c872ca3d80d4c92dab875aa361e7261834169ccc4ca5d45a9674ab2ef2d190e8605990              492 main/binary-all/Packages
- 455c5f34eab586040efc3c8f57433f36003212e7065889e1a48ac8fdaba38b4c98fddab6cf2bdbf7c09e9d0a36797d671586b6a153b2ac8849f1c5155ffb998b              355 main/binary-all/Packages.gz
+ e10fc4a125d81a779052e02d4d78c7811edfc2fd75321a97063b47edaf4ef20acdf813b618d180513f1d82e55114b051945ce16db708955ddbc2565776504c2b              209 Release
+ 9f98e89802a5394449a348ab199a6ac2bf9aa4c1ce309c5e3cf48a58b6cd17b4423c8a6ebb150efcf78d21efb70ffef9c9a3b68040213d1e65b65f84c1b457ef              492 main/binary-all/Packages
+ e110519b8e17b9526690c54dcef02baf44fd8f36c1cfc5b2fc06428ef8522726921077c43499566fc0b5d6c7c229b4c7fdd73c927d35ade82f9110356e17ef74              353 main/binary-all/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQSozgWbRNC677tjBypsNlqq3sXSYQUCaO9IogAKCRBsNlqq3sXS
-YZ22AP9isK3wrV6j0TK/yzdgOFt3qeDZtZWFMCa3y6s47MropAEAqWEPFAxnpp5u
-Sdls4hGXL+bZkrkCsqAjk3mMqHMcgQQ=
-=u9p4
+iHUEARYKAB0WIQSozgWbRNC677tjBypsNlqq3sXSYQUCaO9z5AAKCRBsNlqq3sXS
+YfjfAQC93oBMDU7HVZTsV+rDFAI92LEAupb4jG/u0bRl2sEqmQD9FDyt+ghxh0pB
+kXtV6chr8FMJKqpB+EmMg3Rq6s5M/wE=
+=lXRX
 -----END PGP SIGNATURE-----
