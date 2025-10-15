@@ -2,3 +2,4 @@
 scraper/private.key.asc
 scraper/fortune-swahili_0.1_all.deb
 .gnupg-temp/
+data/quotes.json.bak*
