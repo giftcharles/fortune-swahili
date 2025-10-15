@@ -278,14 +278,14 @@
 <body>
     <div class="container">
         <header>
-            <div class="emoji">📚</div>
             <h1>Fortune Swahili</h1>
             <p>A Debian package delivering authentic Swahili proverbs to your terminal</p>
         </header>
         
         <main>
             <div class="intro">
-                <p>
+                <p
+                style="text-align: left; margin-left: 0;">
                     <strong>Fortune Swahili</strong> is a command-line utility that provides access to 
                     a curated collection of 5,698 traditional Swahili proverbs. This package integrates 
                     seamlessly with your system, offering instant access to centuries of cultural wisdom 
@@ -305,11 +305,6 @@
                         <div class="feature-icon">⚙️</div>
                         <h3>Simple Integration</h3>
                         <p>Standard Debian package format</p>
-                    </div>
-                    <div class="feature">
-                        <div class="feature-icon">�</div>
-                        <h3>Cryptographically Signed</h3>
-                        <p>GPG-verified releases</p>
                     </div>
                     <div class="feature">
                         <div class="feature-icon">⚡</div>
