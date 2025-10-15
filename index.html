@@ -385,10 +385,10 @@ pip install -r scraper/requirements.txt
 cd scraper
 ./build_deb.sh ../data
 
-# parse saved GLCom page into JSON
-python3 parse_glcom_kanga.py
+# work with curated JSON files in scraper/ (do not re-run raw HTML parsing)
+ls scraper/*.json
 
-# normalize and merge new scrapes into data/quotes.json
+# normalize and merge curated JSON extracts into data/quotes.json
 python3 normalize_mwambao.py
 
 # create apt-repo locally
