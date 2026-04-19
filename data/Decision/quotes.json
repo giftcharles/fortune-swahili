@@ -11,8 +11,8 @@
   },
   {
     "quote": "Awali ni awali, awali mbovu hapana.",
-    "person": "FSM",
-    "tail": "J awali; Vauwali; KS awali; RECH 18. A beginning is a beginning, there is no beginning which is bad. The golden rule of life is: make a beginning. Instead of awali the word mwanzo [beginning] is used - FSM 150."
+    "person": "",
+    "tail": "FSM J awali; Vauwali; KS awali; RECH 18. A beginning is a beginning, there is no beginning which is bad. The golden rule of life is: make a beginning. Instead of awali the word mwanzo [beginning] is used - FSM 150."
   },
   {
     "quote": "Chagua na kuchagua na kuoa bata.",
@@ -36,8 +36,8 @@
   },
   {
     "quote": "Daraja si maskani.",
-    "person": "EM.",
-    "tail": "EM 45.7. A bridge is not a dwelling place. \"This means that it is important to differentiate between ephemeral and permanent matters, and to know how to deal with them\" - EM."
+    "person": "",
+    "tail": "EM. EM 45.7. A bridge is not a dwelling place. \"This means that it is important to differentiate between ephemeral and permanent matters, and to know how to deal with them\" - EM."
   },
   {
     "quote": "Embe dodo sawa na kisukari.",
@@ -70,12 +70,12 @@
     "tail": "T 120; J juzi; V 97; LE3 226.2; SACL 196; JKP;B 1.56. Yesterday and the day before yesterday are not like today. Days follow one another, but are not alike - MP, SACL. Do not judge by what happened on previous occasions. Similar, but opposite, wording:"
   },
   {
-    "quote": "Juzi na  juzi ni kama leo.",
+    "quote": "Juzi na juzi ni kama leo.",
     "person": "",
     "tail": "KB juzi.. Yesterdays are like today."
   },
   {
-    "quote": "Juzi na  juzi si kama leo.",
+    "quote": "Juzi na juzi si kama leo.",
     "person": "",
     "tail": "SPK. Past days are not like today"
   },
@@ -85,19 +85,19 @@
     "tail": "NGU. Reckon with the money you have, not with the money that is with your debtor."
   },
   {
-    "quote": "1528a.  Kikuongoacho ki haramu, kikuongoako ni kuzimu.",
+    "quote": "Kikuongoacho ki haramu, kikuongoako ni kuzimu.",
     "person": "",
     "tail": "SPK. If that which leads you is the Forbidden; where it will take you is the underworld."
   },
   {
     "quote": "Kiumambuzi kimeuma mbuzi, twatafuta kiumambuzi tutopoe mbuzi.",
-    "person": "J. Kiumambuzi",
-    "tail": "Steere 194 The goat-biter has bitten the goat, let us seek the goat-biter to cure the goat. Dawa ya kutopoa, antidote - J. Kiumambuzi, a kind of black lizard said to be poisonous."
+    "person": "",
+    "tail": "J. Kiumambuzi Steere 194 The goat-biter has bitten the goat, let us seek the goat-biter to cure the goat. Dawa ya kutopoa, antidote - J. Kiumambuzi, a kind of black lizard said to be poisonous."
   },
   {
     "quote": "Kupanda mchongoma, kushuka ndiyo ngoma.",
-    "person": "L. The adulterer gets in a thorny situation - AL.",
-    "tail": "F 18.58; L 38; SM; KS mchongoma; MARA 3; AL 962. Climbing a thorn tree, coming down is a dance. Something in haste or anger may produce an awkward situation - L. The adulterer gets in a thorny situation - AL. Cf. 808, 4705."
+    "person": "",
+    "tail": "L. The adulterer gets in a thorny situation - AL. F 18.58; L 38; SM; KS mchongoma; MARA 3; AL 962. Climbing a thorn tree, coming down is a dance. Something in haste or anger may produce an awkward situation - L. The adulterer gets in a thorny situation - AL. Cf. 808, 4705."
   },
   {
     "quote": "Kutema au kumeza ni hiari ya mkohaji.",
@@ -106,18 +106,18 @@
   },
   {
     "quote": "Kwanza kuvua, kwisha kuanua.",
-    "person": "JKP.",
-    "tail": "JKP. First fish, then sun dry the fish. First things first - JKP."
+    "person": "",
+    "tail": "JKP. JKP. First fish, then sun dry the fish. First things first - JKP."
   },
   {
-    "quote": "La  leo litende leo.",
+    "quote": "La leo litende leo.",
     "person": "",
     "tail": "KA. Do today the thing of today. Cf. 812."
   },
   {
     "quote": "Laiti itafaa laiti.",
-    "person": "JKP.",
-    "tail": "JKP. Alas! May be useful for Alas! - JKP. \"Cry not over spilled milk\" - JKP. Cf. 533."
+    "person": "",
+    "tail": "JKP. JKP. Alas! May be useful for Alas! - JKP. \"Cry not over spilled milk\" - JKP. Cf. 533."
   },
   {
     "quote": "Leo ni leo.",
@@ -125,7 +125,7 @@
     "tail": "T 218a. Today is today. Encouragement: This is your day; do it well."
   },
   {
-    "quote": "La leo  litendwe leo.",
+    "quote": "La leo litendwe leo.",
     "person": "",
     "tail": "SAM 12.1. The thing of today should be done today. Cf. 243."
   },
@@ -140,12 +140,12 @@
     "tail": "JKP Today is today, the things of tomorrow [the best time to do them] is today. Cf. 1270, 1535, 1536."
   },
   {
-    "quote": "1537a.  Leo tunaona, kesho si yako.",
+    "quote": "Leo tunaona, kesho si yako.",
     "person": "",
     "tail": "SPK. We are seeing today, tomorrow does not belong to you."
   },
   {
-    "quote": "1537b.  Leo uko, kesho huko.",
+    "quote": "Leo uko, kesho huko.",
     "person": "",
     "tail": "SPK. Today you are here, tomorrow you are not there."
   },
@@ -156,8 +156,8 @@
   },
   {
     "quote": "Mchagua mno huangukia mbovu.",
-    "person": "SACL.",
-    "tail": "T 320; V teua; KA; SACL. 68,11;AL teua. Who chooses too much, falls upon the worst - SACL."
+    "person": "",
+    "tail": "SACL. T 320; V teua; KA; SACL. 68,11;AL teua. Who chooses too much, falls upon the worst - SACL."
   },
   {
     "quote": "Mchagua nazi, hupata koroma.",
@@ -165,12 +165,12 @@
     "tail": "F 23.29; B 4.4; MARA 3; KS koroma. One who selects coconuts [with great care], gets an unripe one. Also, of someone who is too choosy, who cannot make up his mind, wasting time."
   },
   {
-    "quote": "Mchagua  samaki hupata aliyechina.",
-    "person": "HM.",
-    "tail": "FSM 97. One who chooses a fish gets one that is overdue. Fish which has remained [in the shop] too long Kuchina, be too late. Wondering about the origin of the word, someone has suggested that the Chinese like their fish soft - HM. Cf. 1539, 4724."
+    "quote": "Mchagua samaki hupata aliyechina.",
+    "person": "",
+    "tail": "HM. FSM 97. One who chooses a fish gets one that is overdue. Fish which has remained [in the shop] too long Kuchina, be too late. Wondering about the origin of the word, someone has suggested that the Chinese like their fish soft - HM. Cf. 1539, 4724."
   },
   {
-    "quote": "1540a.  Mchagua silaha siye muwani.",
+    "quote": "Mchagua silaha siye muwani.",
     "person": "",
     "tail": "SPK. The one who chooses the weapon is not the fighter."
   },
@@ -190,7 +190,7 @@
     "tail": "F 29.92; SACL 593; T 304; J farasi; KB 194; MARA 3; KS msamba.. One who rides two horses splits asunder. Msamba, the perineum, also called kitako - J."
   },
   {
-    "quote": "Mpanda  farasi wawili, hujishuka miguu miwili.",
+    "quote": "Mpanda farasi wawili, hujishuka miguu miwili.",
     "person": "",
     "tail": "V 73. One who rides two horses will come down on two legs. Cf. 1557, 1558."
   },
@@ -201,8 +201,8 @@
   },
   {
     "quote": "Mtu huenda na uchao, hendi na uchwao.",
-    "person": "T.",
-    "tail": "T 342; V 57; MARA2 uchwao; SACL 919. A person goes [travels] with dawn, not with sunset. A person starting on a day's journey late in the day will be nighted, very likely in some inhospitable place, and possibly lose goods, or even life\" - T. \"Night is nobody's friend\" - V. Uchao from kucha, dawn, uchwao from kuchwa, sunset."
+    "person": "",
+    "tail": "T. T 342; V 57; MARA2 uchwao; SACL 919. A person goes [travels] with dawn, not with sunset. A person starting on a day's journey late in the day will be nighted, very likely in some inhospitable place, and possibly lose goods, or even life\" - T. \"Night is nobody's friend\" - V. Uchao from kucha, dawn, uchwao from kuchwa, sunset."
   },
   {
     "quote": "Mwangaza mbili mbambo mwenga humuengaenga.",
@@ -231,8 +231,8 @@
   },
   {
     "quote": "Mwanzo wa mvua ni mawingu.",
-    "person": "AL.",
-    "tail": "KS mwanzo; AL 1684; KB 213. The beginning of rain is clouds. A happening is often preceded by early signs - AL."
+    "person": "",
+    "tail": "AL. KS mwanzo; AL 1684; KB 213. The beginning of rain is clouds. A happening is often preceded by early signs - AL."
   },
   {
     "quote": "Mwanzo wa ngoma ni \"lele.\"",
@@ -246,8 +246,8 @@
   },
   {
     "quote": "Ndiyo kwanza mkoko kualika (or ualike) maua.",
-    "person": "SACL. The mkoko tree is the first tree that blooms in spring. Mkoko",
-    "tail": "SACL 562;KS mkoko. It is today for the first time that the mangrove flowers. The first day that something begins: passion, love, etc. - SACL. The mkoko tree is the first tree that blooms in spring. Mkoko: a tree growing in the sea, used for building (roofsticks); the bark is used in dyeing hides - Johnson ."
+    "person": "",
+    "tail": "SACL. The mkoko tree is the first tree that blooms in spring. Mkoko SACL 562;KS mkoko. It is today for the first time that the mangrove flowers. The first day that something begins: passion, love, etc. - SACL. The mkoko tree is the first tree that blooms in spring. Mkoko: a tree growing in the sea, used for building (roofsticks); the bark is used in dyeing hides - Johnson ."
   },
   {
     "quote": "Nia haikuwa moja, ndipo usipate jambo.",
@@ -255,29 +255,29 @@
     "tail": "T 432; MS 60. Your intention was not single, hence you have not been successful -T."
   },
   {
-    "quote": "Nia zako  zikiwa moja utapata jambo.",
-    "person": "SACL.",
-    "tail": "SACL 684. If your purpose is constant you will get somewhere - SACL."
+    "quote": "Nia zako zikiwa moja utapata jambo.",
+    "person": "",
+    "tail": "SACL. SACL 684. If your purpose is constant you will get somewhere - SACL."
   },
   {
-    "quote": "1555a.  Nikikubali ni vita, nikikataa huwaje?",
-    "person": "SPK.",
-    "tail": "SPK. If I accept it will be war, if I refuse what will it be? Said of a person who is faced with an impossible choice of two unacceptable alternatives - SPK."
+    "quote": "Nikikubali ni vita, nikikataa huwaje?",
+    "person": "",
+    "tail": "SPK. SPK. If I accept it will be war, if I refuse what will it be? Said of a person who is faced with an impossible choice of two unacceptable alternatives - SPK."
   },
   {
     "quote": "Nikitia jembe mpini, shamba halinishindi.",
-    "person": "JK.",
-    "tail": "JK 121; AL 329. When I put a hoe blade on the shaft, the field will not be too much for me. \"Once you put your hand to the plough\" - JK."
+    "person": "",
+    "tail": "JK. JK 121; AL 329. When I put a hoe blade on the shaft, the field will not be too much for me. \"Once you put your hand to the plough\" - JK."
   },
   {
     "quote": "Njia mbili zaumiza.",
-    "person": "Sacl.",
-    "tail": "T 408; V 60; KB 250; SACL 674. Two ways hurt. Pursuing two goals is dangerous - Sacl. Cf. 1543, 1546, 1556."
+    "person": "",
+    "tail": "Sacl. T 408; V 60; KB 250; SACL 674. Two ways hurt. Pursuing two goals is dangerous - Sacl. Cf. 1543, 1546, 1556."
   },
   {
     "quote": "Njia mbili zilimshinda mzee fisi, alipasuka msamba.",
-    "person": "MARA.",
-    "tail": "Jja; T 409; MARA 62; KB 248. Two roads were too much for old man hyena, he split in two. \"Do one thing at the time\" - MARA. Cf. 1546, 1557."
+    "person": "",
+    "tail": "MARA. Jja; T 409; MARA 62; KB 248. Two roads were too much for old man hyena, he split in two. \"Do one thing at the time\" - MARA. Cf. 1546, 1557."
   },
   {
     "quote": "Penye mapenzi hapapotei.",
@@ -291,13 +291,13 @@
   },
   {
     "quote": "Siweke vitendo visivyo maana;",
-    "person": "JKP. Siweke",
-    "tail": "Ukikosa pondo uvuvi hapana. JKP. Do not do anything without a purpose If you lose the punting pole there is no more fishing. The punting pole is the indispensable tool for transport in the shallow waters out of Lamu. Preserve your manhood carefully\" - JKP. Siweke, usiweke, don't put."
+    "person": "",
+    "tail": "JKP. Siweke Ukikosa pondo uvuvi hapana. JKP. Do not do anything without a purpose If you lose the punting pole there is no more fishing. The punting pole is the indispensable tool for transport in the shallow waters out of Lamu. Preserve your manhood carefully\" - JKP. Siweke, usiweke, don't put."
   },
   {
     "quote": "Tikiti ni moto wa kwanza.",
-    "person": "T. If you want to succeed start early - KA.",
-    "tail": "T 506; KA. A watermelon ripens in the first warm sun. It must be gathered before it gets too ripe to be of use. This is said to one whom you suspect is trying to put you off with vain promises: Do it now\" - T. If you want to succeed start early - KA. Cf. 339."
+    "person": "",
+    "tail": "T. If you want to succeed start early - KA. T 506; KA. A watermelon ripens in the first warm sun. It must be gathered before it gets too ripe to be of use. This is said to one whom you suspect is trying to put you off with vain promises: Do it now\" - T. If you want to succeed start early - KA. Cf. 339."
   },
   {
     "quote": "Umdhaniaye ndiye, siye.",
@@ -321,8 +321,8 @@
   },
   {
     "quote": "Viwili vyataulika, tunda kimoja utwae.",
-    "person": "AL. Vyataulika. In Standard Kiswahili",
-    "tail": "T 570; SACL 887; AL 270. Of two things offered to you, take one - AL. Vyataulika. In Standard Kiswahili, vyateulika or chagulika or vyateuliwa. Tunda, pluck, pick."
+    "person": "",
+    "tail": "AL. Vyataulika. In Standard Kiswahili T 570; SACL 887; AL 270. Of two things offered to you, take one - AL. Vyataulika. In Standard Kiswahili, vyateulika or chagulika or vyateuliwa. Tunda, pluck, pick."
   },
   {
     "quote": "Wangachukua mashoka, hawatoi mti kombo.",
@@ -335,13 +335,13 @@
     "tail": "F 52.12; B 3.72; ED 86; KB 348; KA; AL 313. A song goes with the drum or dance. A singer goes to the drum to sing a song. One in need goes where help can be found. Don't separate things which belong together."
   },
   {
-    "quote": "Wimbo  takuja ngomani.",
+    "quote": "Wimbo takuja ngomani.",
     "person": "",
     "tail": "V 146; AL 313. The song will come as the dance goes along."
   },
   {
-    "quote": "Wimbo  hutokea ngomani.",
-    "person": "MM.",
-    "tail": "MM. The songs are composed at the dance - MM."
+    "quote": "Wimbo hutokea ngomani.",
+    "person": "",
+    "tail": "MM. MM. The songs are composed at the dance - MM."
   }
 ]

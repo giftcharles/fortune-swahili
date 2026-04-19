@@ -1,13 +1,13 @@
 [
   {
     "quote": "Aepukaye peke yake, halengeki.",
-    "person": "SPK.",
-    "tail": "REK. The one who stands aside will not be hit. 920a. Afugaye ng'ombe tume mwenye ziwa la kujaza. SPK. One who keeps a healthy cow will have plenty of milk. He who has married a faithful wife will have good children - SPK."
+    "person": "",
+    "tail": "SPK. REK. The one who stands aside will not be hit. 920a. Afugaye ng'ombe tume mwenye ziwa la kujaza. SPK. One who keeps a healthy cow will have plenty of milk. He who has married a faithful wife will have good children - SPK."
   },
   {
     "quote": "Alimao ndio avunao.",
-    "person": "MM.",
-    "tail": "MA 31. What one cultivates is what one harvests. As one works so one earns. \"The one who does the action is responsible for good or evil\" - MM."
+    "person": "",
+    "tail": "MM. MA 31. What one cultivates is what one harvests. As one works so one earns. \"The one who does the action is responsible for good or evil\" - MM."
   },
   {
     "quote": "Alimaye mtama havuna kunde.",
@@ -15,17 +15,17 @@
     "tail": "MA 30. One who cultivates millet does not harvest beans. Cf. 990."
   },
   {
-    "quote": "Alimaye njiani sharti alinde ndege (or nyuni)  asipate chembe.",
-    "person": "SAM. Nyuni or ndege",
-    "tail": "A 114; T 13; SAM. A person who cultivates near the road must watch that the bird gets no grain. Envy and jealousy of people might spoil one's plans \" - SAM. Nyuni or ndege, bird - J."
+    "quote": "Alimaye njiani sharti alinde ndege (or nyuni) asipate chembe.",
+    "person": "",
+    "tail": "SAM. Nyuni or ndege A 114; T 13; SAM. A person who cultivates near the road must watch that the bird gets no grain. Envy and jealousy of people might spoil one's plans \" - SAM. Nyuni or ndege, bird - J."
   },
   {
-    "quote": "Alimaye shamba chembe azipande, sharti azilinde  nyuni wasipate.",
+    "quote": "Alimaye shamba chembe azipande, sharti azilinde nyuni wasipate.",
     "person": "",
     "tail": "SPK. The cultivator will sow seeds, then must watch lest the birds get them. Cf. 2049."
   },
   {
-    "quote": "923a. Amepata fimbo atapata mambo.",
+    "quote": "Amepata fimbo atapata mambo.",
     "person": "",
     "tail": "SPK. The one who has got a stick [to beat a dog] will get trouble."
   },
@@ -65,19 +65,19 @@
     "tail": "REK. One who does not travel will marry in his/her own village."
   },
   {
-    "quote": "Avaaye kiatu kimoja hana budi kwenda  chopi.",
+    "quote": "Avaaye kiatu kimoja hana budi kwenda chopi.",
     "person": "",
     "tail": "REK. A person who wears only one shoe walks lamely."
   },
   {
     "quote": "Bahari iliko ndiko mito iendako.",
-    "person": "EM.",
-    "tail": "EM 23.4. Where the sea is there the rivers go. The few follow the many. Money goes where there is much money - EM."
+    "person": "",
+    "tail": "EM. EM 23.4. Where the sea is there the rivers go. The few follow the many. Money goes where there is much money - EM."
   },
   {
     "quote": "Bila mti hakuna kivuli.",
-    "person": "EM.",
-    "tail": "EM.26.11. There is no shade without a tree. Everything has its cause - EM."
+    "person": "",
+    "tail": "EM. EM.26.11. There is no shade without a tree. Everything has its cause - EM."
   },
   {
     "quote": "Chura aliua mbogo.",
@@ -86,8 +86,8 @@
   },
   {
     "quote": "Chura huweza kumwua tembo.",
-    "person": "EM.",
-    "tail": "EM 40.23. A frog can kill an elephant. A small person may inconvenience a big man so much as to cause the big man's downfall - EM. Cf. 936."
+    "person": "",
+    "tail": "EM. EM 40.23. A frog can kill an elephant. A small person may inconvenience a big man so much as to cause the big man's downfall - EM. Cf. 936."
   },
   {
     "quote": "Chura mzuia maji, ndovu akitamani.",
@@ -96,28 +96,28 @@
   },
   {
     "quote": "Fimbo mpya kuangua kuukuu.",
-    "person": "MM.",
-    "tail": "T 67. A new stick knocking down an old one. A new insult reminds of old ones. But also when somebody uses valuable things to obtain worthless things - MM."
+    "person": "",
+    "tail": "MM. T 67. A new stick knocking down an old one. A new insult reminds of old ones. But also when somebody uses valuable things to obtain worthless things - MM."
   },
   {
     "quote": "Atiya koko wangue koma.",
-    "person": "SPK.",
-    "tail": "SPK. Throw a fruit stone [into a tree] and you may bring down a koma (fruit of the dwarf palm). Invest a little, gain much - SPK."
+    "person": "",
+    "tail": "SPK. SPK. Throw a fruit stone [into a tree] and you may bring down a koma (fruit of the dwarf palm). Invest a little, gain much - SPK."
   },
   {
-    "quote": "Giza  usifyatue mshale.",
-    "person": "EM. This applies to words",
-    "tail": "EM g5. Don't shoot an arrow in the dark. Without seeing the target clearly it is foolish to release an arrow - EM. This applies to words, letters, etc. You may hurt the wrong people."
+    "quote": "Giza usifyatue mshale.",
+    "person": "",
+    "tail": "EM. This applies to words EM g5. Don't shoot an arrow in the dark. Without seeing the target clearly it is foolish to release an arrow - EM. This applies to words, letters, etc. You may hurt the wrong people."
   },
   {
     "quote": "Gogo hili limelimba haliwezi kusukumwa.",
-    "person": "JKP. KS does not say that this is a proverb. In a proverb the form might be",
-    "tail": "JKP; KS limba. This log is glued [to the earth], it cannot be pushed A log that is stuck to the earth cannot be moved. Do not try the impossible, i.e., do not try to persuade old-fashioned people to accept novelties - JKP. KS does not say that this is a proverb. In a proverb the form might be: Gogo lililimbalo haliwezi kusukumwa.... Limba, sink into the earth."
+    "person": "",
+    "tail": "JKP. KS does not say that this is a proverb. In a proverb the form might be JKP; KS limba. This log is glued [to the earth], it cannot be pushed A log that is stuck to the earth cannot be moved. Do not try the impossible, i.e., do not try to persuade old-fashioned people to accept novelties - JKP. KS does not say that this is a proverb. In a proverb the form might be: Gogo lililimbalo haliwezi kusukumwa.... Limba, sink into the earth."
   },
   {
     "quote": "Gunia la chumvi hurishai chumvi.",
-    "person": "MARA. Kurishai",
-    "tail": "MARA 2; KA. A bag of salt sweats salt. Meaning it sweats salt, not sugar. You'll know a person by conversation and actions - MARA. Kurishai, to sweat; used in speaking about sweating walls and handshakes."
+    "person": "",
+    "tail": "MARA. Kurishai MARA 2; KA. A bag of salt sweats salt. Meaning it sweats salt, not sugar. You'll know a person by conversation and actions - MARA. Kurishai, to sweat; used in speaking about sweating walls and handshakes."
   },
   {
     "quote": "Hakuna kisichokuwa na mwanzo.",
@@ -131,8 +131,8 @@
   },
   {
     "quote": "Hapana kapa isiyokuwa na usubi.",
-    "person": "J. Usubi",
-    "tail": "FSM 43. There is no coat without its gnat. The meaning is that nobody is perfect. Kapa, a sort of coat without sleeves - J. Usubi, a small biting gnat, midge, sandfly - J. Cf. 942. See also the section Misfortune."
+    "person": "",
+    "tail": "J. Usubi FSM 43. There is no coat without its gnat. The meaning is that nobody is perfect. Kapa, a sort of coat without sleeves - J. Usubi, a small biting gnat, midge, sandfly - J. Cf. 942. See also the section Misfortune."
   },
   {
     "quote": "Hapo ufuliapo wenzio ndiyo hupigia pasi.",
@@ -145,9 +145,9 @@
     "tail": "EM h16. One sitting on a dry palm leaf does not like the wind. A dry palm branch breaks easily. A person who is not sure of his/her position is scared hearing of lay-offs. Cf. 1018, 4062."
   },
   {
-    "quote": "Hikosa mwaka naruza, silimi vuli  hachekwa.",
-    "person": "T. Mwaka",
-    "tail": "T 94; MS 21. If I fail during the big rainy season I give up, I do not cultivate during the short rainy season and be laughed at. \"If a rich man fails me, I don't apply to a poor one\" - T. Mwaka, masika, the long rainy season. Vuli, the short rains."
+    "quote": "Hikosa mwaka naruza, silimi vuli hachekwa.",
+    "person": "",
+    "tail": "T. Mwaka T 94; MS 21. If I fail during the big rainy season I give up, I do not cultivate during the short rainy season and be laughed at. \"If a rich man fails me, I don't apply to a poor one\" - T. Mwaka, masika, the long rainy season. Vuli, the short rains."
   },
   {
     "quote": "Huwezi kumvisha kiatu mtu anayekimbia.",
@@ -161,8 +161,8 @@
   },
   {
     "quote": "Jamvi ulitandikavyo, ndivyo utakavyoketi.",
-    "person": "EM. Jamvi",
-    "tail": "EM j2. As you lay down a mat, so you will sit. To the extent that you prepare a matter, to the same extent you will reap its benefits - EM. Jamvi, a mat for sitting on the ground. Cf. 921, 1036."
+    "person": "",
+    "tail": "EM. Jamvi EM j2. As you lay down a mat, so you will sit. To the extent that you prepare a matter, to the same extent you will reap its benefits - EM. Jamvi, a mat for sitting on the ground. Cf. 921, 1036."
   },
   {
     "quote": "Jangwa la simba halikosekani mfupa.",
@@ -170,12 +170,12 @@
     "tail": "NGU. The hunting ground of the lion does not lack a bone. Signs of activity. Accidents happen when people are working."
   },
   {
-    "quote": "Jeshi la haki hupenya ambapo jeshi la watu  haliwezi.",
+    "quote": "Jeshi la haki hupenya ambapo jeshi la watu haliwezi.",
     "person": "",
     "tail": "NGU. The forces of justice enter where the forces of human beings cannot. Justice will be done. Evil will be punished. Goodness will be rewarded."
   },
   {
-    "quote": "951a. Kaa na mwimbaji ukaimba wimbo.",
+    "quote": "Kaa na mwimbaji ukaimba wimbo.",
     "person": "",
     "tail": "SPK. Sit with a singer and you will sing songs."
   },
@@ -185,7 +185,7 @@
     "tail": "T 122. If my sitting here does not sit well with you, why don't you go so I can sit; how does that sit with you? This probably refers to somebody who is not happy with the arrangements. Kale (k'ale) = nikale: that I may sit. K'aikele, old past negative of kukala (kukaa): to sit [well], to fit, suit. Mbuka = niuka or niwuka (uwuka, mbuka) from uka: depart, leave."
   },
   {
-    "quote": "Kama baba kama mtoto, mti mzuri huzaa matumda  mazuri.",
+    "quote": "Kama baba kama mtoto, mti mzuri huzaa matumda mazuri.",
     "person": "",
     "tail": "NGU. \"Like father like son\", a good tree produces good fruit."
   },
@@ -206,21 +206,21 @@
   },
   {
     "quote": "Kijondi ni nini ingawa ana mbawa.",
-    "person": "JKP. Kijondi",
-    "tail": "JKP. What value has a little bird, though it may have wings. \"Much ado about a trifle\" - JKP. Kijondi, small bird."
+    "person": "",
+    "tail": "JKP. Kijondi JKP. What value has a little bird, though it may have wings. \"Much ado about a trifle\" - JKP. Kijondi, small bird."
   },
   {
     "quote": "Kikuba cha yasumini hakikuja bure.",
-    "person": "JKP.",
-    "tail": "JKP. A corsage of jasmine did not come in vain. \"Jasmines have a strong, pleasant smell. A corsage of jasmine brought profit to the girl who wore it, by attracting a young man [who became her husband] to her - JKP."
+    "person": "",
+    "tail": "JKP. JKP. A corsage of jasmine did not come in vain. \"Jasmines have a strong, pleasant smell. A corsage of jasmine brought profit to the girl who wore it, by attracting a young man [who became her husband] to her - JKP."
   },
   {
     "quote": "Kila mlaji zabibu haachi kujimumumya.",
-    "person": "JKP. However",
-    "tail": "JKP. Everyone who eats grapes must wet his/her chin. \"Every lover of girls will make a mistake\" - JKP. However, if one reads kuzimumunya (to crush them), then it would translate as: Everyone who eats grapes does not delay crushing them. Mumunya, crush a thing between the tongue and the palate - KS."
+    "person": "",
+    "tail": "JKP. However JKP. Everyone who eats grapes must wet his/her chin. \"Every lover of girls will make a mistake\" - JKP. However, if one reads kuzimumunya (to crush them), then it would translate as: Everyone who eats grapes does not delay crushing them. Mumunya, crush a thing between the tongue and the palate - KS."
   },
   {
-    "quote": "Kilio huanza mfiwa, ndipo na wa mbali  wakaingia.",
+    "quote": "Kilio huanza mfiwa, ndipo na wa mbali wakaingia.",
     "person": "",
     "tail": "F 15.20. The bereaved begin the wailing, then those from afar follow. This proverb has many uses: 1. Wait for your turn. 2. Two people start a fight and soon everybody gets involved. 3. Before help can be expected one has to try to solve one's own problem."
   },
@@ -230,7 +230,7 @@
     "tail": "REK. Whatever returned the old person to the meadows is unknown. Malishoni, grazing ground, paddock. Mzee, old person, master, parent."
   },
   {
-    "quote": "961a. Kiozacho hutoa uvundo.",
+    "quote": "Kiozacho hutoa uvundo.",
     "person": "",
     "tail": "SPK. What rots stinks."
   },
@@ -251,8 +251,8 @@
   },
   {
     "quote": "Kuchomeako mwiba ndiko utokeako.",
-    "person": "Racial",
-    "tail": "CM 37; FSM 161. Where the thorn pierces is where it comes out. \"Where the thorn went in, that is where it will come out\" -Racial 588.226. A problem is solved by investigating the cause so that the remedy can be found."
+    "person": "",
+    "tail": "Racial CM 37; FSM 161. Where the thorn pierces is where it comes out. \"Where the thorn went in, that is where it will come out\" -Racial 588.226. A problem is solved by investigating the cause so that the remedy can be found."
   },
   {
     "quote": "Kudharau ng'ombe wayachukia maziwa.",
@@ -261,8 +261,8 @@
   },
   {
     "quote": "Kuinukako ndiko kuinamako.",
-    "person": "JKP.",
-    "tail": "MM; KA; JPK. Where there is bending, there will be rising up. \"Oppression cannot last long\" - JKP."
+    "person": "",
+    "tail": "JKP. MM; KA; JPK. Where there is bending, there will be rising up. \"Oppression cannot last long\" - JKP."
   },
   {
     "quote": "Kuti kavu kuanguka si ajabu.",
@@ -276,13 +276,13 @@
   },
   {
     "quote": "Licha makoo ya kuku, hata mafaranga yako.",
-    "person": "JKP. Used in many ways. A wealthy man can afford many wives and so he gets many children",
-    "tail": "JKP. \"To say nothing of the hens, there are chicks too\" - JKP. Used in many ways. A wealthy man can afford many wives and so he gets many children, which is considered a great blessing. Also: All undertakings in this world have their consequences; once you start the ball rolling, it will go on all the way. Those who have, to them shall be given, etc\" - JKP. Licha....hata, not only....but also."
+    "person": "",
+    "tail": "JKP. Used in many ways. A wealthy man can afford many wives and so he gets many children JKP. \"To say nothing of the hens, there are chicks too\" - JKP. Used in many ways. A wealthy man can afford many wives and so he gets many children, which is considered a great blessing. Also: All undertakings in this world have their consequences; once you start the ball rolling, it will go on all the way. Those who have, to them shall be given, etc\" - JKP. Licha....hata, not only....but also."
   },
   {
-    "quote": "970a. Luti ameokoka, mke wake ghabiri.",
-    "person": "SPK.",
-    "tail": "SPK. Lot was saved, his wife was dilatory. A reference to the Koran 29, 32-33. Lot obeyed God's word with alacrity, but his wife tarried on the road -SPK."
+    "quote": "Luti ameokoka, mke wake ghabiri.",
+    "person": "",
+    "tail": "SPK. SPK. Lot was saved, his wife was dilatory. A reference to the Koran 29, 32-33. Lot obeyed God's word with alacrity, but his wife tarried on the road -SPK."
   },
   {
     "quote": "Madogo yanavuruga watu wasitambuane.",
@@ -295,7 +295,7 @@
     "tail": "KA; NGU. Boiling water does not burn a house."
   },
   {
-    "quote": "Mali  bila daftari hupotea bila habari.",
+    "quote": "Mali bila daftari hupotea bila habari.",
     "person": "",
     "tail": "J. Possessions without an [account] book are lost without noticing."
   },
@@ -305,14 +305,14 @@
     "tail": "NGU. Wealth without accounting is very difficult. Muhali, impossible, very difficult. Cf. 2938."
   },
   {
-    "quote": "Mambo (or maneno) ambayo hujui mwanzo wala  mwisho yatakupataje?",
+    "quote": "Mambo (or maneno) ambayo hujui mwanzo wala mwisho yatakupataje?",
     "person": "",
     "tail": "AL 579. If you don't know the beginning or the end of an affair how can it concern you? Cf. 1008."
   },
   {
-    "quote": "974a. Mashizi hugandamia chungu.",
-    "person": "SPK.",
-    "tail": "SPK. Suet sticks to the pot. The pot is a useful object, we have to accept the black grease - SPK."
+    "quote": "Mashizi hugandamia chungu.",
+    "person": "",
+    "tail": "SPK. SPK. Suet sticks to the pot. The pot is a useful object, we have to accept the black grease - SPK."
   },
   {
     "quote": "Mbega huchongewa ngozi yake.",
@@ -321,8 +321,8 @@
   },
   {
     "quote": "Mbinu hufuata mwendo.",
-    "person": "AL. A good race produces a good offspring. The thought is the father of the deed. Mbinu is an interesting word",
-    "tail": "F 23.25; AL 986. The arm follows the pace of the walk. The curvature of the arm goes together with the gait of the legs - AL. A good race produces a good offspring. The thought is the father of the deed. Mbinu is an interesting word: a double-jointed arm or leg, so that when stretched out the elbow-joint curves upwards. \"A well shaped arm or leg\" - J. A new meaning is mentioned in TS Nam. 2 #93: Mbinu/njia za kufundishia, teaching methods."
+    "person": "",
+    "tail": "AL. A good race produces a good offspring. The thought is the father of the deed. Mbinu is an interesting word F 23.25; AL 986. The arm follows the pace of the walk. The curvature of the arm goes together with the gait of the legs - AL. A good race produces a good offspring. The thought is the father of the deed. Mbinu is an interesting word: a double-jointed arm or leg, so that when stretched out the elbow-joint curves upwards. \"A well shaped arm or leg\" - J. A new meaning is mentioned in TS Nam. 2 #93: Mbinu/njia za kufundishia, teaching methods."
   },
   {
     "quote": "Mbinu huishia kibiongo.",
@@ -371,8 +371,8 @@
   },
   {
     "quote": "Mlenga jiwe kundini hajui limpataye.",
-    "person": "EM.",
-    "tail": "F 28.85; MS 118 limpigaye; EM j15. One who throws a stone into a crowd does not know who will be hit. Think about the consequences before doing something. Do not punish the whole crowd on account of one. This means that where there are many people do not insult your enemy - EM."
+    "person": "",
+    "tail": "EM. F 28.85; MS 118 limpigaye; EM j15. One who throws a stone into a crowd does not know who will be hit. Think about the consequences before doing something. Do not punish the whole crowd on account of one. This means that where there are many people do not insult your enemy - EM."
   },
   {
     "quote": "Mnunuzi wa mchuzi, talipia mbuzi.",
@@ -391,13 +391,13 @@
   },
   {
     "quote": "Mshale hupindukia utakako or utokako.",
-    "person": "FSM. The arrow going up comes back from where it came. We have no control over many things. Often things come out differently from what we intended.",
-    "tail": "FSM 127; HM. An arrow turns as it wants - FSM. The arrow going up comes back from where it came. We have no control over many things. Often things come out differently from what we intended."
+    "person": "",
+    "tail": "FSM. The arrow going up comes back from where it came. We have no control over many things. Often things come out differently from what we intended. FSM 127; HM. An arrow turns as it wants - FSM. The arrow going up comes back from where it came. We have no control over many things. Often things come out differently from what we intended."
   },
   {
     "quote": "Mshika mavi, hayaachi kumnuka.",
-    "person": "JK.",
-    "tail": "JK 130. The one who touches dung will inevitably smell. If you are in charge of other people's money you may be tempted to take a little for yourself - JK."
+    "person": "",
+    "tail": "JK. JK 130. The one who touches dung will inevitably smell. If you are in charge of other people's money you may be tempted to take a little for yourself - JK."
   },
   {
     "quote": "Mshika kinyaa haachi kunusa mkono.",
@@ -410,19 +410,19 @@
     "tail": "MA 355. One who wants millet does not plant cow peas. In the sense that you will expect the same treatment you give to others."
   },
   {
-    "quote": "990a. Mtawanya vumbi michanga huusha.",
-    "person": "SPK.",
-    "tail": "SPK. The winnower raises dust. The critic will attract criticism - SPK."
+    "quote": "Mtawanya vumbi michanga huusha.",
+    "person": "",
+    "tail": "SPK. SPK. The winnower raises dust. The critic will attract criticism - SPK."
   },
   {
     "quote": "Mti huomolewa na matunda yake.",
-    "person": "J. It is because of its fruits that the tree is exposed to hostilities - SACL. This proverb can be understood in different ways",
-    "tail": "J omoa; SACL 710; MARA 49. \"A tree is dug up with its fruit, i.e. digging up a tree involves the fruit also\" - J. It is because of its fruits that the tree is exposed to hostilities - SACL. This proverb can be understood in different ways: 1. Destroying a tree is destroying its fruit (goose and golden eggs). 2. A tree is destroyed (betrayed) by its fruits. Stones and sticks are thrown in the tree to get at its fruits, branches are torn off. The general meaning is that the misdeeds of the children harm the parents. An example is the mikarafuu (clove tree) on Unguja Island. These treeswere so heavily damaged by the people, wanting cloves, that the government had to make punitive laws to protect the trees."
+    "person": "",
+    "tail": "J. It is because of its fruits that the tree is exposed to hostilities - SACL. This proverb can be understood in different ways J omoa; SACL 710; MARA 49. \"A tree is dug up with its fruit, i.e. digging up a tree involves the fruit also\" - J. It is because of its fruits that the tree is exposed to hostilities - SACL. This proverb can be understood in different ways: 1. Destroying a tree is destroying its fruit (goose and golden eggs). 2. A tree is destroyed (betrayed) by its fruits. Stones and sticks are thrown in the tree to get at its fruits, branches are torn off. The general meaning is that the misdeeds of the children harm the parents. An example is the mikarafuu (clove tree) on Unguja Island. These treeswere so heavily damaged by the people, wanting cloves, that the government had to make punitive laws to protect the trees."
   },
   {
     "quote": "Mtoka kivulini huwekwa juani.",
-    "person": "FSM. However it could be used equally well for people who leave the cozy isolation of their homes and go public",
-    "tail": "FSM 135. One who comes out of the shade is put in the sun. When people do not want to be helped they should not feel sorry if they are denied help they ask for later - FSM. However it could be used equally well for people who leave the cozy isolation of their homes and go public: they will feel the hot sun of public criticisms."
+    "person": "",
+    "tail": "FSM. However it could be used equally well for people who leave the cozy isolation of their homes and go public FSM 135. One who comes out of the shade is put in the sun. When people do not want to be helped they should not feel sorry if they are denied help they ask for later - FSM. However it could be used equally well for people who leave the cozy isolation of their homes and go public: they will feel the hot sun of public criticisms."
   },
   {
     "quote": "Mtoto mwenye bidii hakosi wa kumtunza.",
@@ -446,18 +446,18 @@
   },
   {
     "quote": "Mtu mcheza na nyimbo haibudi kumuimba.",
-    "person": "JK.",
-    "tail": "JK 145. A person dancing with songs, inevitably [someone] will compose a song on that person. - JK. \"In the Swahili towns, kumuimba mtu, (to sing a song on somebody) is a common pastime. Insiders will know who the composer is, and who the target of the satire must be."
+    "person": "",
+    "tail": "JK. JK 145. A person dancing with songs, inevitably [someone] will compose a song on that person. - JK. \"In the Swahili towns, kumuimba mtu, (to sing a song on somebody) is a common pastime. Insiders will know who the composer is, and who the target of the satire must be."
   },
   {
-    "quote": "996a. Muhadazi kihadawa hivi huona uchungu.",
+    "quote": "Muhadazi kihadawa hivi huona uchungu.",
     "person": "",
     "tail": "SPK. When the deceiver is deceived then he/she feels bitter about it"
   },
   {
     "quote": "Mwana mkaidi hafaidi mpaka siku ya idi.",
-    "person": "F. This is also used when somebody refuses to work. That person will be hungry while the others enjoy the fruit of their labor. Hafaidi  is used to go with mkaidi. Siku ya Idi",
-    "tail": "F 33.140. A stubborn child does not even get gain on the day of the Id festival. \"On this day that child will suffer, when it finds that it has neither new clothes to wear nor decent food to eat while others are enjoying themselves\" - F. This is also used when somebody refuses to work. That person will be hungry while the others enjoy the fruit of their labor. Hafaidi (does not gain) is used to go with mkaidi(stubborn). Siku ya Idi, a Muslim festival at the end of Ramadhan."
+    "person": "",
+    "tail": "F. This is also used when somebody refuses to work. That person will be hungry while the others enjoy the fruit of their labor. Hafaidi is used to go with mkaidi. Siku ya Idi F 33.140. A stubborn child does not even get gain on the day of the Id festival. \"On this day that child will suffer, when it finds that it has neither new clothes to wear nor decent food to eat while others are enjoying themselves\" - F. This is also used when somebody refuses to work. That person will be hungry while the others enjoy the fruit of their labor. Hafaidi (does not gain) is used to go with mkaidi(stubborn). Siku ya Idi, a Muslim festival at the end of Ramadhan."
   },
   {
     "quote": "Mwenda omo na tezi, marejeo ni ngamani.",
@@ -476,11 +476,11 @@
   },
   {
     "quote": "Mwenye kuchinja hachelei kuchuna.",
-    "person": "F. Do not expect mercy from someone who has brought you down. People in power often abuse their power - AL.",
-    "tail": "F 35.160; KA; AL 1607. One who slaughters a beast does not hesitate about skinning it - F. Do not expect mercy from someone who has brought you down. People in power often abuse their power - AL."
+    "person": "",
+    "tail": "F. Do not expect mercy from someone who has brought you down. People in power often abuse their power - AL. F 35.160; KA; AL 1607. One who slaughters a beast does not hesitate about skinning it - F. Do not expect mercy from someone who has brought you down. People in power often abuse their power - AL."
   },
   {
-    "quote": "1001a. Mwenye kulinda halindi jicho lisiponudhuri.",
+    "quote": "Mwenye kulinda halindi jicho lisiponudhuri.",
     "person": "",
     "tail": "SPK. The watcher does not keep watch if the eye does not see. A blind person cannot keep watch - SPK."
   },
@@ -506,8 +506,8 @@
   },
   {
     "quote": "Penye moto hapakosi moshi.",
-    "person": "AL.",
-    "tail": "AL ota; 1662. Where there is fire there is also smoke. Nothing is perfect - AL."
+    "person": "",
+    "tail": "AL. AL ota; 1662. Where there is fire there is also smoke. Nothing is perfect - AL."
   },
   {
     "quote": "Penye mzoga hapakosi inzi.",
@@ -535,14 +535,14 @@
     "tail": "EM p22; KS pilipili. Why should you be irritated by pepper in the field? Something unrelated should not bother you. Cf. 1008."
   },
   {
-    "quote": "Ndiwe ulotia moto sasa moshi umo machoni  mwako.",
-    "person": "JK.",
-    "tail": "JK 145. You were the one who started the fire, now the smoke is in your eyes. \"As you have made your bed, so you will have to lie in it\" - JK."
+    "quote": "Ndiwe ulotia moto sasa moshi umo machoni mwako.",
+    "person": "",
+    "tail": "JK. JK 145. You were the one who started the fire, now the smoke is in your eyes. \"As you have made your bed, so you will have to lie in it\" - JK."
   },
   {
     "quote": "Ndovu huangushwa na nyasi.",
-    "person": "EM.",
-    "tail": "EM n8. Grass may cause an elephant to fall down. To an elephant grass is small stuff but if it is tied in a knot, it can trap the elephant - EM. Cf. 934."
+    "person": "",
+    "tail": "EM. EM n8. Grass may cause an elephant to fall down. To an elephant grass is small stuff but if it is tied in a knot, it can trap the elephant - EM. Cf. 934."
   },
   {
     "quote": "Pavumapo palilie.",
@@ -570,9 +570,9 @@
     "tail": "AL rahisi. Cheapness brings trouble. Buying cheap does not satisfy."
   },
   {
-    "quote": "1015a. Rumani bovu ondoa huyaharibu mazima.",
-    "person": "SPK.",
-    "tail": "SPK. Remove the rotten pomegranate; it spoils the whole ones. Dismiss a lazy, cantankerous wife or farmhand - SPK."
+    "quote": "Rumani bovu ondoa huyaharibu mazima.",
+    "person": "",
+    "tail": "SPK. SPK. Remove the rotten pomegranate; it spoils the whole ones. Dismiss a lazy, cantankerous wife or farmhand - SPK."
   },
   {
     "quote": "Rungu la uso halimwui nyani.",
@@ -581,8 +581,8 @@
   },
   {
     "quote": "Rungu si mkuki.",
-    "person": "EM.",
-    "tail": "EM r13. A club is not a spear. The words of some people crush and those of others pierce like a spear - EM."
+    "person": "",
+    "tail": "EM. EM r13. A club is not a spear. The words of some people crush and those of others pierce like a spear - EM."
   },
   {
     "quote": "Shingo ya kuitikiza si uchungu.",
@@ -595,12 +595,12 @@
     "tail": "NGU. Days are not equal."
   },
   {
-    "quote": "1019a. Ukicheza ujanani utalipa uzeeni.",
+    "quote": "Ukicheza ujanani utalipa uzeeni.",
     "person": "",
     "tail": "SPK. If you play while young, you will pay when old."
   },
   {
-    "quote": "Ukiingilia lisilokuhusu, utapata  lisilokuridhi.",
+    "quote": "Ukiingilia lisilokuhusu, utapata lisilokuridhi.",
     "person": "",
     "tail": "KA. If you interfere with things that don't concern you, you'll get what does not please you. cf. 1008, 4389."
   },
@@ -620,19 +620,19 @@
     "tail": "NGU. If you know how to plait [the hair], you should also know how to shave."
   },
   {
-    "quote": "Ukijua sana na  jua litakuchoma sana.",
+    "quote": "Ukijua sana na jua litakuchoma sana.",
     "person": "",
     "tail": "NGU. If you know much, the sun [that knowledge] also will burn you much. The meaning is that if you think that you are good at something, that knowledge could also backfire. This seems to be a poor play on the word jua. As a verb it means to know, but as a noun it has the meaning of sun."
   },
   {
     "quote": "Ukila cha mbwa, usishindwe mbio.",
-    "person": "AL.",
-    "tail": "AL 798. If you eat what belongs to a dog, you must be an expert runner. If you lower yourself, you must expect being treated as such - AL."
+    "person": "",
+    "tail": "AL. AL 798. If you eat what belongs to a dog, you must be an expert runner. If you lower yourself, you must expect being treated as such - AL."
   },
   {
     "quote": "Ukila cha radi, macho juu.",
-    "person": "AL. One who profits of the goods of a superior exposes him",
-    "tail": "AL 1574. If you eat what belongs to lightning, look up [skywards] - AL. One who profits of the goods of a superior exposes him/herself to punishment - AL. Cf.1027."
+    "person": "",
+    "tail": "AL. One who profits of the goods of a superior exposes him AL 1574. If you eat what belongs to lightning, look up [skywards] - AL. One who profits of the goods of a superior exposes him/herself to punishment - AL. Cf.1027."
   },
   {
     "quote": "Ukila chakula cha wizi, uangalie juu.",
@@ -685,7 +685,7 @@
     "tail": "NGU. Where you lie down there you will get up."
   },
   {
-    "quote": "1035a. Ulipopika samaki huachi kunuka vumba.",
+    "quote": "Ulipopika samaki huachi kunuka vumba.",
     "person": "",
     "tail": "SPK. When you have cooked a fish you will smell fishy."
   },
@@ -696,8 +696,8 @@
   },
   {
     "quote": "Wakaao na waridi hunuka waridi.",
-    "person": "EM.",
-    "tail": "EM w5. Those who stay with roses also smell like roses. \"This means that one who lives and works with a big man also acquires some prestige which derives from the master\" - EM."
+    "person": "",
+    "tail": "EM. EM w5. Those who stay with roses also smell like roses. \"This means that one who lives and works with a big man also acquires some prestige which derives from the master\" - EM."
   },
   {
     "quote": "Watu huota jua lililochomoza.",
@@ -710,7 +710,7 @@
     "tail": "NGU. People gather where there is laughter."
   },
   {
-    "quote": "Wema wa mtu humfaa mwenyewe, na ubaya wake  humdhuru.",
+    "quote": "Wema wa mtu humfaa mwenyewe, na ubaya wake humdhuru.",
     "person": "",
     "tail": "JKP. A person's good character is beneficial and that person's wickedness will do harm."
   },
@@ -725,7 +725,7 @@
     "tail": "NGU. If things get extreme, even a dumb person will speak."
   },
   {
-    "quote": "1042a.  Yambo kuingia sahali, kutoka ni  uthakili.",
+    "quote": "Yambo kuingia sahali, kutoka ni uthakili.",
     "person": "",
     "tail": "SPK. It is easy to get involved in a matter, but it is hard to get out of it."
   }
