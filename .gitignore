@@ -6,3 +6,7 @@ data/quotes.json.bak*
 scraper/*.html
 scraper/*.gpg*
 __pycache__/
+*.pyc
+dist/
+build/
+*.egg-info/
