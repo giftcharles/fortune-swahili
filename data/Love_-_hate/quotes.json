@@ -65,14 +65,14 @@
     "tail": "KA. The one who denies me something reduces my pain. Simanzi (huzuni): pain, sorrow. Don't be sorry for lack of friendship that might bring chagrin. Cf. #1270 and #1272; # 1032."
   },
   {
-    "quote": "Anipendaye nami nampenda: anikataaye,  napunguwa simanzi.",
+    "quote": "Anipendaye nami nampenda: anikataaye, napunguwa simanzi.",
     "person": "",
     "tail": "T.30; MS.11. The one who loves me, I also love; one who rejects me diminishes my grief. There are several similar proverbs, e.g., #1271, denoting a breaking off of a relationship. In this case, a relationship of love. Love and vulnerability go together. If someone does not love me, that person spares me grief."
   },
   {
     "quote": "Anipendaye, nami nampenda: anikataye, nami namkataa.",
-    "person": "I deny that person too.",
-    "tail": "V.35. The person who loves me, I love too; the one who denies me, I deny that person too."
+    "person": "",
+    "tail": "I deny that person too. V.35. The person who loves me, I love too; the one who denies me, I deny that person too."
   },
   {
     "quote": "Nampenda mtu pindi anipendapo.",
@@ -87,7 +87,7 @@
   {
     "quote": "Apendwaye akajua haachi kujishaua",
     "person": "",
-    "tail": ". KA. People who are loved know it and do not stop showing it in their way of walking. People don't like to see that kind of behavior. So, don't show it. Kujishaua or kuringa: walk with a swagger, put on airs."
+    "tail": "KA. People who are loved know it and do not stop showing it in their way of walking. People don't like to see that kind of behavior. So, don't show it. Kujishaua or kuringa: walk with a swagger, put on airs."
   },
   {
     "quote": "Asili ya huba, mwanzowe ni jicho.",
@@ -205,7 +205,7 @@
     "tail": "SAM.J.3. Enmity is like flames of fire. Enmity and rivalry bring troubles and fights. MM."
   },
   {
-    "quote": "Hasikii la mwadhini wala la mtia maji  msikitini.",
+    "quote": "Hasikii la mwadhini wala la mtia maji msikitini.",
     "person": "",
     "tail": "KS, mwadhini; JKP. So and So does not listen to the muezzin nor to the one who puts water [for the ritual ablutions] in the mosque. JKP has mteka maji (fetcher of water), instead of Mtia maji. (The person who puts water in the mosque.). A person totally absorbed in love, even neglecting religious duties. JKP. Mwadhini: muezzin, the person who calls to prayer."
   },
@@ -245,7 +245,7 @@
     "tail": "EM I9. When it rains, the one inside does not worry. A person who has a strong relationship or has a stable position will not worry about those who want to harm."
   },
   {
-    "quote": "Ikiwa unawapenda watoto wa wengine, utawapenda  wako zaidi.",
+    "quote": "Ikiwa unawapenda watoto wa wengine, utawapenda wako zaidi.",
     "person": "",
     "tail": "EM I10. If you love other people's children, you will love your own even more. Increased love for others will increase love for your own. EM."
   },
@@ -275,7 +275,7 @@
     "tail": "MA.172. Love young people when they are asleep; if they gets out bite your finger for them. A child should never be shown excessive love. MA. This could have a different meaning because \"to bite something for another\" is often done to take away from the other any evil, magic, curse."
   },
   {
-    "quote": "Kinacholeta ugomvi duniani ni kugawanya fedha [nyama].",
+    "quote": "Kinacholeta ugomvi duniani ni kugawanya fedha nyama.",
     "person": "",
     "tail": "EM k14. The cause of dispute in the world is the distribution of money [meat]. People need money, but they are never satisfied with it. Money is the root of all evil. For meat eaters the root of dispute is meat. EM."
   },
@@ -287,7 +287,7 @@
   {
     "quote": "Penzi la moyo ni dawa",
     "person": "",
-    "tail": ". T.461; MS.67."
+    "tail": "T.461; MS.67."
   },
   {
     "quote": "Kipenda cha moyo ni dawa.",
@@ -307,12 +307,12 @@
   {
     "quote": "Kipendacho ngoma roho",
     "person": "",
-    "tail": ". NGU. What is loved is music for the heart. Ngoma: drum, dance, music. Cf. #1290."
+    "tail": "NGU. What is loved is music for the heart. Ngoma: drum, dance, music. Cf. #1290."
   },
   {
     "quote": "Kipendacho roho nyama mbichi",
     "person": "",
-    "tail": ". AL 668. What the heart likes is like fresh meat. A man prefers a young woman. AL."
+    "tail": "AL 668. What the heart likes is like fresh meat. A man prefers a young woman. AL."
   },
   {
     "quote": "Kula nyama mbichi ni moyo kupenda.",
@@ -325,7 +325,7 @@
     "tail": "NGU. A slap of love does not hurt."
   },
   {
-    "quote": "Kofi la mapenzi [mpenzi] haliumi.",
+    "quote": "Kofi la mapenzi mpenzi haliumi.",
     "person": "",
     "tail": "NGU Same translation. Mpenzi: lover."
   },
@@ -350,14 +350,14 @@
     "tail": "REK. Loving each other is not the same as being similar in spirit. Lovers keep their own characteristics and should develop their own attributes."
   },
   {
-    "quote": "Kupenda sana  ni ugonjwa usiotibika",
+    "quote": "Kupenda sana ni ugonjwa usiotibika",
     "person": "",
-    "tail": ". REK. Being deeply in love is a sickness that cannot be cured."
+    "tail": "REK. Being deeply in love is a sickness that cannot be cured."
   },
   {
     "quote": "Kushinda kupendwa, kupenda kushindwa",
     "person": "",
-    "tail": ". RSP.148. Victory makes a man popular, and to fall in love means to be conquered. RSP."
+    "tail": "RSP.148. Victory makes a man popular, and to fall in love means to be conquered. RSP."
   },
   {
     "quote": "Kuwapo moyoni, halipo machoni.",
@@ -365,12 +365,12 @@
     "tail": "KA. Something can be in the heart without being seen. What you do not see, you can remember in your heart."
   },
   {
-    "quote": "Kwamba mimi ng'ombe ni bora, ningaligandamwa  na kupe.",
+    "quote": "Kwamba mimi ng'ombe ni bora, ningaligandamwa na kupe.",
     "person": "",
     "tail": "JKP. \"If to me a cow is good, do you think the ticks would bother me?\" JKP. The Swahili is a little stronger on account of ningaligandamwa na kupe: although the ticks are sticking to me. Most cows have ticks on them, sucking their blood."
   },
   {
-    "quote": "Kweli iwe katika upendo, na upendo katika  kweli.",
+    "quote": "Kweli iwe katika upendo, na upendo katika kweli.",
     "person": "",
     "tail": "EM k38. Truth should be in love and love in truth. Proper love is that which does not hide the truth from the loved one, and proper truth is that which is expressed in love without hatred or bitterness. EM."
   },
@@ -402,7 +402,7 @@
   {
     "quote": "Mapendo yanapovusha",
     "person": "",
-    "tail": ". KB.158. Love blinds."
+    "tail": "KB.158. Love blinds."
   },
   {
     "quote": "Mapenzi hayana macho, wala hayana maarifa.",
@@ -412,7 +412,7 @@
   {
     "quote": "Mapenzi ni hakika, hupanda na kushuka",
     "person": "",
-    "tail": ". JKP. Love is real, it goes up and down."
+    "tail": "JKP. Love is real, it goes up and down."
   },
   {
     "quote": "Mapenzi ni kikohozi, hayawezi kufichika.",
@@ -452,7 +452,7 @@
   {
     "quote": "Ikiwa humwezi, muunge mkono",
     "person": "",
-    "tail": ". EM i2. If you cannot fight someone, join that person. It would be safer to be on that person's side. Work with the competition. KA. cf. #1321."
+    "tail": "EM i2. If you cannot fight someone, join that person. It would be safer to be on that person's side. Work with the competition. KA. cf. #1321."
   },
   {
     "quote": "Mkono wako ukichafuka, huukati.",
@@ -472,17 +472,17 @@
   {
     "quote": "Moyo hujua uchungu wa nafsi yake",
     "person": "",
-    "tail": ". NGU. The heart knows its own pain. Nobody else does."
+    "tail": "NGU. The heart knows its own pain. Nobody else does."
   },
   {
     "quote": "Moyo huona mbali kuliko kichwa",
     "person": "",
-    "tail": ". NGU. The heart sees further than the head."
+    "tail": "NGU. The heart sees further than the head."
   },
   {
     "quote": "Moyo ni chuo",
     "person": "",
-    "tail": ". JKP. The heart is like a book. The human heart knows things that it never learned. Even the 'second sight' or the sixth sense (hisu ya sita) is believed to slumber in the heart.\" JKP."
+    "tail": "JKP. The heart is like a book. The human heart knows things that it never learned. Even the 'second sight' or the sixth sense (hisu ya sita) is believed to slumber in the heart.\" JKP."
   },
   {
     "quote": "Moyo ni kilindi.",
@@ -495,7 +495,7 @@
     "tail": "V., moyo; AL 793 The heart is like bile, if it changes still more it becomes clay. Either the heart is full of sad thoughts or it is like molding clay. AL. The heart changes all the time."
   },
   {
-    "quote": "Moyo safi  silaha ya kutosha.",
+    "quote": "Moyo safi silaha ya kutosha.",
     "person": "",
     "tail": "NGU. A pure heart is weapon enough"
   },
@@ -505,7 +505,7 @@
     "tail": "NGU. If the heart desires it will entice."
   },
   {
-    "quote": "Moyo wa kupenda hauna mithali  [mithili].",
+    "quote": "Moyo wa kupenda hauna mithali.",
     "person": "",
     "tail": "NGU. A loving heart has no equal."
   },
@@ -517,12 +517,12 @@
   {
     "quote": "Moyo wa kupenda na kuwiza huwa",
     "person": "",
-    "tail": ". SAM.16.18. A loving heart can also reject. Can change to hatred."
+    "tail": "SAM.16.18. A loving heart can also reject. Can change to hatred."
   },
   {
     "quote": "Moyo wa kupendana kwanza huwiza",
     "person": "",
-    "tail": ". KA. The heart of love can also begin to hate. Impossible to commit to eternal love."
+    "tail": "KA. The heart of love can also begin to hate. Impossible to commit to eternal love."
   },
   {
     "quote": "Moyo wa mwenzako ni tunda la chupa.",
@@ -557,7 +557,7 @@
   {
     "quote": "Mtu akipendwa hupenda",
     "person": "",
-    "tail": ". MA.386; CB 66. A person if loved, should love. When someone is loved that person should love in response."
+    "tail": "MA.386; CB 66. A person if loved, should love. When someone is loved that person should love in response."
   },
   {
     "quote": "Mwana akinyea kiweo hakikatwi.",
@@ -572,22 +572,22 @@
   {
     "quote": "Mtoto akinyea kiwiko hakitupwi",
     "person": "",
-    "tail": ". ZO 354. When a child dirties your arm you don't throw it away. Kiwiko: wrist."
+    "tail": "ZO 354. When a child dirties your arm you don't throw it away. Kiwiko: wrist."
   },
   {
     "quote": "Mwekaji kisasi haambiwi mwerevu",
     "person": "",
-    "tail": ". F.34.153; AL 1409. A person who nurses vengeance is not called wise."
+    "tail": "F.34.153; AL 1409. A person who nurses vengeance is not called wise."
   },
   {
     "quote": "Mwenye ishiki kalewa",
     "person": "",
-    "tail": ". JK.132. Someone in love is drunk. Ishiki=ashiki: strong desire, affection, usually of sexual desire. J."
+    "tail": "JK.132. Someone in love is drunk. Ishiki=ashiki: strong desire, affection, usually of sexual desire. J."
   },
   {
     "quote": "Mwenye kuja na baridi usimpe moto",
     "person": "",
-    "tail": ". AL 1441. To one who comes to you cold-heartedly, don't give warmth. Don't show that person kindness. That kind of attitude inspires defiance."
+    "tail": "AL 1441. To one who comes to you cold-heartedly, don't give warmth. Don't show that person kindness. That kind of attitude inspires defiance."
   },
   {
     "quote": "Mwenye kupenda ni jura, wala hana maarifa.",
@@ -595,7 +595,7 @@
     "tail": "T.386; V.44; MS.55; SACL 195; JK.132 has first half. One who loves is a fool and has no understanding. Love makes fools, and takes away all wisdom. SACL. Jura: a large frog; a simpleton, idiot. The expression Mtu huyu ana chura: that person has a frog, i.e. is crazy. V. Cf. #1296."
   },
   {
-    "quote": "Ndugu akipenda kuwa sumu hajali mali  wala uhai.",
+    "quote": "Ndugu akipenda kuwa sumu hajali mali wala uhai.",
     "person": "",
     "tail": "NGU. If a relative becomes poisonous, that person does not care about wealth or life."
   },
@@ -612,12 +612,12 @@
   {
     "quote": "Pato la mahaba, ni haba ni haba",
     "person": "",
-    "tail": ". RSP.71. The gain of love is little, is little. Give and take. MM."
+    "tail": "RSP.71. The gain of love is little, is little. Give and take. MM."
   },
   {
     "quote": "Pendo lisilo na kitu, katu halibainiki",
     "person": "",
-    "tail": ". JK.123; AL 1025. Love without a thing [i.e., gifts and presents] does not become evident at all. JK. Verse of a song. Gifts keep friendship going. Cf. #1596."
+    "tail": "JK.123; AL 1025. Love without a thing [i.e., gifts and presents] does not become evident at all. JK. Verse of a song. Gifts keep friendship going. Cf. #1596."
   },
   {
     "quote": "Penye udhia weka rupia.",
@@ -627,10 +627,10 @@
   {
     "quote": "Penzi la kujitolea ndilo penzi la daima",
     "person": "",
-    "tail": ". NGU. Love of self-renouncing is an eternal love."
+    "tail": "NGU. Love of self-renouncing is an eternal love."
   },
   {
-    "quote": "Penzi ni maua  maji hutilia.",
+    "quote": "Penzi ni maua maji hutilia.",
     "person": "",
     "tail": "(EM p19) Love is like a flower, it must be watered. Take care of it."
   },
@@ -642,7 +642,7 @@
   {
     "quote": "Radhi hafifu ni bora kuliko kutokuomba radhi kabisa",
     "person": "",
-    "tail": ". EM. A weak excuse is better than no excuse at all."
+    "tail": "EM. A weak excuse is better than no excuse at all."
   },
   {
     "quote": "Radhi ni ushindi.",
@@ -657,7 +657,7 @@
   {
     "quote": "Sandamane na ambao hakupendi",
     "person": "",
-    "tail": ". JKP. Do not follow someone who does not love you. Sandamane = usi-andamane: do not join Ambao = ambaye: who."
+    "tail": "JKP. Do not follow someone who does not love you. Sandamane = usi-andamane: do not join Ambao = ambaye: who."
   },
   {
     "quote": "Shadaha mara tatu.",
@@ -692,15 +692,15 @@
   {
     "quote": "Tukipendana sana, twataabishana sana",
     "person": "",
-    "tail": ". REK. If we love each other very much, we cause each other much distress."
+    "tail": "REK. If we love each other very much, we cause each other much distress."
   },
   {
-    "quote": "Tumekwisha kunywa kahawa, machicha ya mwenye  ndoa.",
+    "quote": "Tumekwisha kunywa kahawa, machicha ya mwenye ndoa.",
     "person": "",
     "tail": "MP.83.11. We have drunk the coffee; the grounds are for the husband. This is said by paramours upon the return of the woman to her husband."
   },
   {
-    "quote": "Ubaya ukiingia mlangoni, wema hutoroka  dirishani.",
+    "quote": "Ubaya ukiingia mlangoni, wema hutoroka dirishani.",
     "person": "",
     "tail": "EM u2. When evil enters the door, goodness escapes through the window. When evil enters a loving family, that lovely relationship disappears."
   },
@@ -717,12 +717,12 @@
   {
     "quote": "Ukimtaka baniani umtake na ubinda wake",
     "person": "",
-    "tail": ". RECH. 550 If you like a Baniani, you must like his loincloth too. The meaning is that if you like somebody you must take that person as is. Baniani or Banyani: Hindu; Indian tradesman or craftsman. Ubinda: a type of loincloth worn by some Indians in East Africa. Cf. #322."
+    "tail": "RECH. 550 If you like a Baniani, you must like his loincloth too. The meaning is that if you like somebody you must take that person as is. Baniani or Banyani: Hindu; Indian tradesman or craftsman. Ubinda: a type of loincloth worn by some Indians in East Africa. Cf. #322."
   },
   {
     "quote": "Ukipenda damu upende na usaha",
     "person": "",
-    "tail": ". FSM.189. If you love blood, love pus too. If you love people in health or wealth, love them also in sickness and poverty. Cf. #1317."
+    "tail": "FSM.189. If you love blood, love pus too. If you love people in health or wealth, love them also in sickness and poverty. Cf. #1317."
   },
   {
     "quote": "Ukipenda, penda chako.",
@@ -735,9 +735,9 @@
     "tail": "NGU. If you cannot cut the stone lift it. Give it a place of prominence. Cf. #1300; #1321."
   },
   {
-    "quote": "Ukiumia kwa kisu chako wewe mwenyewe, huwezi  kukitupa",
+    "quote": "Ukiumia kwa kisu chako wewe mwenyewe, huwezi kukitupa",
     "person": "",
-    "tail": ". KB.309. If you hurt yourself with your own knife, you can't throw it away. Blame yourself, not the knife. One is more tolerant towards one's own."
+    "tail": "KB.309. If you hurt yourself with your own knife, you can't throw it away. Blame yourself, not the knife. One is more tolerant towards one's own."
   },
   {
     "quote": "Undugu wapita urafiki.",
@@ -747,7 +747,7 @@
   {
     "quote": "Upendapo, uendapo",
     "person": "",
-    "tail": ". RSP.23. Where you like it, is where you must go. RSP."
+    "tail": "RSP.23. Where you like it, is where you must go. RSP."
   },
   {
     "quote": "Usipo na msu, adui mbusu.",
@@ -760,9 +760,9 @@
     "tail": "MARA 2; KA. Two things cannot be loved at the same time. The heart loves only one thing at a given time."
   },
   {
-    "quote": "Wa mtu mtima, u kama  kisima",
+    "quote": "Wa mtu mtima, u kama kisima",
     "person": "",
-    "tail": ". RSP.32. The heart of a human being is [as deep] as a well."
+    "tail": "RSP.32. The heart of a human being is [as deep] as a well."
   },
   {
     "quote": "Wajua tamu yaua sumu umenipiani?",
@@ -772,7 +772,7 @@
   {
     "quote": "Wajua tamu ya ua sumu umenipiani",
     "person": "",
-    "tail": ". SACL.720; AL 1429. You know the sweetness of a flower, why then give me poison? SACL. About those who do you favors, but in the mean time hurt you on purpose."
+    "tail": "SACL.720; AL 1429. You know the sweetness of a flower, why then give me poison? SACL. About those who do you favors, but in the mean time hurt you on purpose."
   },
   {
     "quote": "Wema hauwezi kuepuka meno ya kusudi.",

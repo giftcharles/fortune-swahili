@@ -1,8 +1,8 @@
 [
   {
-    "quote": "Afadhali kuwa na jirani mchawi kuliko  mwongo.",
-    "person": "God.",
-    "tail": "WIKON 208. It is better to have a wizard as a neighbor than a liar. A liar cannot be trusted; a wizard, though dangerous, can be trusted. 3132. Asemaye kweli mpenzi wa mungu. NGU. One who speaks the truth is loved by God."
+    "quote": "Afadhali kuwa na jirani mchawi kuliko mwongo.",
+    "person": "",
+    "tail": "God. WIKON 208. It is better to have a wizard as a neighbor than a liar. A liar cannot be trusted; a wizard, though dangerous, can be trusted. 3132. Asemaye kweli mpenzi wa mungu. NGU. One who speaks the truth is loved by God."
   },
   {
     "quote": "Asemaye uwongo husema mwenziwe.",
@@ -15,7 +15,7 @@
     "tail": "MEM.98. One who is absent will not be a liar. One not associating with liars is not counted as one."
   },
   {
-    "quote": "Binadamu ni waongo, hata mwizi hawezi kukubali  ni mwizi.",
+    "quote": "Binadamu ni waongo, hata mwizi hawezi kukubali ni mwizi.",
     "person": "",
     "tail": "REK. Human beings are liars, even a thief denies being a thief."
   },
@@ -32,7 +32,7 @@
   {
     "quote": "Hakuna akweaye mbuyu na viatu miguuni",
     "person": "",
-    "tail": ". MEM.227. Nobody can climb a baobab tree with shoes on his feet. Truth and falsehood do not go together. The liar will fall down. MEM."
+    "tail": "MEM.227. Nobody can climb a baobab tree with shoes on his feet. Truth and falsehood do not go together. The liar will fall down. MEM."
   },
   {
     "quote": "Hekima haishindi ukweli.",
@@ -45,9 +45,9 @@
     "tail": "KB.82. Free translation: It is better to see than to hear. It is better to be an eye-witness then a [hearsay] witness. KB."
   },
   {
-    "quote": "Kinywa cha mzee kina harufu, lakini hakisemi  uwongo",
+    "quote": "Kinywa cha mzee kina harufu, lakini hakisemi uwongo",
     "person": "",
-    "tail": ". KB.llO; AL 1315."
+    "tail": "KB.llO; AL 1315."
   },
   {
     "quote": "Katika kinywa cha mkubwa muna haruu, hakuna uwongo.",
@@ -75,7 +75,7 @@
     "tail": "T.194a; SACL .905. Speaking the truth is no disgrace."
   },
   {
-    "quote": "Kusema kweli [ni] thawabu.",
+    "quote": "Kusema kweli ni thawabu.",
     "person": "",
     "tail": "NGU. Telling the truth is a [God-given] gift."
   },
@@ -92,7 +92,7 @@
   {
     "quote": "Kusikia si kufikia",
     "person": "",
-    "tail": ". RSP.54 Hearsay is not arrival. RSP. Hearsay is not the same as being there on the spot."
+    "tail": "RSP.54 Hearsay is not arrival. RSP. Hearsay is not the same as being there on the spot."
   },
   {
     "quote": "Kweli chungu.",
@@ -107,7 +107,7 @@
   {
     "quote": "Kweli inunue, lakini usiiuze",
     "person": "",
-    "tail": ". NGU. Buy the truth, but don't sell it."
+    "tail": "NGU. Buy the truth, but don't sell it."
   },
   {
     "quote": "Kweli iseme inapofaa.",
@@ -182,12 +182,12 @@
   {
     "quote": "Mla sumu hakufa, afile alopika",
     "person": "",
-    "tail": ". JK.131; AL 1738. The one who ate the poison did not die, the one who died was the one who prepared it. Slander often backfires. JK. Alopika for aliyopika. Afile for amekufa. Kiamu dialects."
+    "tail": "JK.131; AL 1738. The one who ate the poison did not die, the one who died was the one who prepared it. Slander often backfires. JK. Alopika for aliyopika. Afile for amekufa. Kiamu dialects."
   },
   {
     "quote": "Mpanda hila huvuna ufukara",
     "person": "",
-    "tail": ". KA; SM. A person who plants deceit harvests poverty. Hila or hadaa: cheat, deceive, outwit; tricks, deceit."
+    "tail": "KA; SM. A person who plants deceit harvests poverty. Hila or hadaa: cheat, deceive, outwit; tricks, deceit."
   },
   {
     "quote": "Msema kweli hakosi.",
@@ -217,12 +217,12 @@
   {
     "quote": "Msema pweke hatolewi makosa",
     "person": "",
-    "tail": ". HM. One who speaks in private [when alone] will not get rid of mistakes."
+    "tail": "HM. One who speaks in private [when alone] will not get rid of mistakes."
   },
   {
     "quote": "Msoma pekee hatolewi makosa",
     "person": "",
-    "tail": ". ZO. One who reads alone does not get rid of his mistakes."
+    "tail": "ZO. One who reads alone does not get rid of his mistakes."
   },
   {
     "quote": "Azungumzaye peke yake hakosei.",
@@ -237,7 +237,7 @@
   {
     "quote": "Muamini hana deni",
     "person": "",
-    "tail": ". RSP.75. An honest man has no debt."
+    "tail": "RSP.75. An honest man has no debt."
   },
   {
     "quote": "Mvua ni ikupigayo.",
@@ -252,7 +252,7 @@
   {
     "quote": "Mwongo haaminiwi",
     "person": "",
-    "tail": ". AL 1330. A liar does not inspire trust."
+    "tail": "AL 1330. A liar does not inspire trust."
   },
   {
     "quote": "Mzingeni si mfungeni.",
@@ -272,22 +272,22 @@
   {
     "quote": "Ngano ina ncha saba",
     "person": "",
-    "tail": ". SACL 678; T.418. A tale has seven endings [variations]. Cf. #1327."
+    "tail": "SACL 678; T.418. A tale has seven endings [variations]. Cf. #1327."
   },
   {
-    "quote": "Njia ya mwongo [ni] fupi.",
+    "quote": "Njia ya mwongo ni fupi.",
     "person": "",
     "tail": "B.2.16; SACL. .674; SWA.24; L.82; F.39.17; T.rlO; A.94; H.91: J., wongo; MARA.63; V.9; KB.249; KS, mwongo; AL 1326. The liar's road is a short one. Lies do not go far. J. After a short time a liar forgets and will be caught. MM."
   },
   {
-    "quote": "Pori moja fundi akienda kuua mbogo, lazima  alete mkia wake.",
+    "quote": "Pori moja fundi akienda kuua mbogo, lazima alete mkia wake.",
     "person": "",
     "tail": "Maniema dialect. KB.268: AL 474."
   },
   {
     "quote": "Mwindaji akiua mbogo porini, lazima alete mkia wake.",
-    "person": "AL. If a hunter kills a buffalo in the bush",
-    "tail": "Standard Swahili translation by AL. If a hunter kills a buffalo in the bush, he must bring back a tail. Truth must have its evidence."
+    "person": "",
+    "tail": "AL. If a hunter kills a buffalo in the bush Standard Swahili translation by AL. If a hunter kills a buffalo in the bush, he must bring back a tail. Truth must have its evidence."
   },
   {
     "quote": "Sema kweli, ishi kweli, peponi utawasili.",
@@ -322,7 +322,7 @@
   {
     "quote": "Ukali wa moto ni kuuchochea",
     "person": "",
-    "tail": ". JK.131. The fierceness of the fire is [caused by the fact that someone] stoked it up. JK. Moto: fire and sumu: poison, are often associated with slander. JK. Kuchochea: continue to feed a fire with firewood."
+    "tail": "JK.131. The fierceness of the fire is [caused by the fact that someone] stoked it up. JK. Moto: fire and sumu: poison, are often associated with slander. JK. Kuchochea: continue to feed a fire with firewood."
   },
   {
     "quote": "Ukweli hauna mwanandani.",
@@ -342,17 +342,17 @@
   {
     "quote": "Ukweli ni kisu chenye ukali pande mbili",
     "person": "",
-    "tail": ". AL 1317. Truth is like a two-edged knife. Truth can be hard for both parties."
+    "tail": "AL 1317. Truth is like a two-edged knife. Truth can be hard for both parties."
   },
   {
     "quote": "Ukweli uchungu, lakini wa mungu",
     "person": "",
-    "tail": ". RSP.6. Truth [causes] bitterness, but it [comes] from God."
+    "tail": "RSP.6. Truth [causes] bitterness, but it [comes] from God."
   },
   {
-    "quote": "Ulimi mtoa uwongo hauvumilii: una machukizo  kwa mungu.",
-    "person": "God. AL.",
-    "tail": "KB.317; AL 1314. A lying tongue has no patience; it bears God a grudge. One accuses God of the harm caused by one's own lies. A lying tongue is unbearable; is hated by God. AL."
+    "quote": "Ulimi mtoa uwongo hauvumilii: una machukizo kwa mungu.",
+    "person": "",
+    "tail": "God. AL. KB.317; AL 1314. A lying tongue has no patience; it bears God a grudge. One accuses God of the harm caused by one's own lies. A lying tongue is unbearable; is hated by God. AL."
   },
   {
     "quote": "Una uwongo una njia.",
@@ -360,7 +360,7 @@
     "tail": "KB.318. You have a lie, you have a road. A lie to save one's face."
   },
   {
-    "quote": "Usiseme kuna mamba mtoni kama  hujavuka.",
+    "quote": "Usiseme kuna mamba mtoni kama hujavuka.",
     "person": "",
     "tail": "NGU. Don't say there is a crocodile in the river if you have not yet crossed that river. Don't affirm what you do not know for sure."
   },
@@ -380,12 +380,12 @@
     "tail": "NGU. Cheating does not work."
   },
   {
-    "quote": "Uwongo wa mganga ni nafuu ya mwele, ni mwele  kupona.",
+    "quote": "Uwongo wa mganga ni nafuu ya mwele, ni mwele kupona.",
     "person": "",
     "tail": "F.50.48. The lie of a witch doctor is a relief to the sick person. It cures the sick. Even the lies of a witchdoctor are relief to the sick one. F."
   },
   {
-    "quote": "Uongo wa mganga, [ndiyo pona ya mgonjwa].",
+    "quote": "Uongo wa mganga, ndiyo pona ya mgonjwa.",
     "person": "",
     "tail": "NGU. The lie of the doctor [cures the sick]."
   },
@@ -395,7 +395,7 @@
     "tail": "EM u37. The lie of an overseer is stronger than the truth of the day laborer. An overseer is trusted more than a laborer, even when telling a lie."
   },
   {
-    "quote": "Uwongo wa mwenye nyumba si ukweli wa mpita  njia.",
+    "quote": "Uwongo wa mwenye nyumba si ukweli wa mpita njia.",
     "person": "",
     "tail": "F.50.49. The lie of the householder has more value than the truth of a passerby. F.; AL, uwongo; AL 1325. If a householder tells a lie, it is easier believed than a passerby who tells the truth. MM. One puts more value to the advice of a stranger than in that of neighbors and family. AL. Mwenye nyumba: a settled person, someone with a house. Mpita njia: a passerby who has no permanent address, is difficult to trace him back."
   },
@@ -407,7 +407,7 @@
   {
     "quote": "Waweza kuwadanganya wakubwa siyo wadogo zako",
     "person": "",
-    "tail": ". NGU. You can deceive adults, but not your little ones."
+    "tail": "NGU. You can deceive adults, but not your little ones."
   },
   {
     "quote": "Woga ukiingia, ukweli hutoroka.",

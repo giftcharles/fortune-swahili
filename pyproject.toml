@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fortune-swahili"
+version = "0.3.1"
+description = "Swahili proverbs fortune CLI — prints a random Swahili proverb"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+authors = [{ name = "Gift", email = "giftnakembetwa@gmail.com" }]
+keywords = ["swahili", "proverbs", "fortune", "cli", "africa"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Environment :: Console",
+    "Topic :: Games/Entertainment",
+    "Natural Language :: Swahili",
+]
+
+[project.urls]
+Homepage = "https://github.com/giftcharles/fortune-swahili"
+Repository = "https://github.com/giftcharles/fortune-swahili"
+"Bug Tracker" = "https://github.com/giftcharles/fortune-swahili/issues"
+
+[project.scripts]
+fortune-swahili = "fortune_swahili.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["fortune_swahili*"]
+
+[tool.setuptools.package-data]
+fortune_swahili = ["data/quotes.json", "nsfw.txt"]
