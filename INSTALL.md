@@ -59,7 +59,7 @@ sudo apt update && sudo apt install fortune-swahili
 
 ### Verify the GPG signature
 
-The GPG signing step above keeps your system secure — you can double-check the signature yourself if you want to be sure the packages haven't been tampered with:
+Adding the GPG signing key keeps your system secure — you can double-check the signature yourself if you want to be sure the packages haven't been tampered with:
 
 ```bash
 # Download the Release file and signature
