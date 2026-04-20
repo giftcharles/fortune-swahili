@@ -1,34 +1,30 @@
 # fortune-swahili
 
-5,698 Swahili proverbs in a cross-platform command-line tool.
-Runs on **Linux**, **macOS**, and **Windows**.
+A command-line tool that serves up 5,698 Swahili proverbs — one at a time or in batches — on Linux, macOS, and Windows. Think of it as `fortune`, but with wisdom from East Africa.
 
 ## Quick Install
 
-### pip — any platform (Linux, macOS, Windows)
+The easiest path on any platform is pip:
 
 ```bash
 pip install fortune-swahili
 ```
 
-### apt — Debian / Ubuntu / Linux Mint
+If you're on Debian, Ubuntu, or Linux Mint and prefer a native package, you can add the apt repository:
 
 ```bash
-# Add GPG signing key
 curl -fsSL https://giftcharles.github.io/fortune-swahili/public.key.asc | \
   gpg --dearmor | \
   sudo tee /etc/apt/trusted.gpg.d/fortune-swahili.gpg > /dev/null
 
-# Add repository
 echo "deb [signed-by=/etc/apt/trusted.gpg.d/fortune-swahili.gpg] https://giftcharles.github.io/fortune-swahili stable main" | \
   sudo tee /etc/apt/sources.list.d/fortune-swahili.list
 
-# Update and install
 sudo apt update
 sudo apt install fortune-swahili
 ```
 
-See [INSTALL.md](INSTALL.md) for macOS, Windows, Fedora/Arch, and other options.
+Want to install from source, or on macOS, Windows, Fedora, or Arch? See [INSTALL.md](INSTALL.md) — there's a method for every setup.
 
 ## Usage
 
@@ -41,9 +37,9 @@ fortune-swahili -h            # full help
 
 ## Features
 
-- 🌍 **5,698 Swahili proverbs** from 59 categories
-- 🖥️ **Cross-platform** — pip install works on Linux, macOS, Windows
-- 🔐 **GPG-signed apt repository** for Debian/Ubuntu users
+- 🌍 **5,698 proverbs** spanning 59 categories — there's always something new
+- 🖥️ **Truly cross-platform** — the same pip install works on Linux, macOS, and Windows
+- 🔐 **GPG-signed apt repository** so Debian/Ubuntu users get verified packages
 
 ## Data Source
 
@@ -55,21 +51,11 @@ Includes proverbs about: Abuse, Alertness, Ambition, Anger, Appearance, Associat
 
 ## Repository Details
 
-- **URL**: https://giftcharles.github.io/fortune-swahili
-- **GPG Key ID**: 6C365AAADEC5D261
-- **Fingerprint**: A8CE 059B 44D0 BAEF BB63 072A 6C36 5AAA DEC5 D261
-- **Package**: fortune-swahili_0.1_all.deb (364KB)
-
-## Verification
-
-Verify the repository signature:
-```bash
-curl -s https://giftcharles.github.io/fortune-swahili/dists/stable/Release | gpg --verify
-```
+The apt repository is hosted on GitHub Pages and GPG-signed on every release. Full key details, fingerprints, and verification steps are in [INSTALL.md](INSTALL.md).
 
 ## Documentation
 
-- [INSTALL.md](INSTALL.md) - Detailed installation instructions
+- [INSTALL.md](INSTALL.md) - All installation methods (pip, apt, macOS, Windows, Fedora/Arch, source)
 - [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md) - Complete project overview
 
 ## License
@@ -78,7 +64,7 @@ See [LICENSE](LICENSE) file.
 
 ## Maintenance
 
-This repository is automatically built and published via GitHub Actions on every push to `main`. All releases are GPG-signed for security.
+CI builds and publishes every push to `main` automatically. All releases are GPG-signed.
 
 ---
 
@@ -86,16 +72,16 @@ This repository is automatically built and published via GitHub Actions on every
 
 ## Development
 
-Quick developer tasks and how to run things locally:
+Here's what you need to get up and running locally as a contributor.
 
-- Install the package in editable mode (recommended):
+Start by installing the package in editable mode so changes to the source take effect immediately:
 
 ```bash
 pip install -e .
 fortune-swahili
 ```
 
-- Or create a virtualenv and install scraper deps:
+If you need to run the scraper or other data-processing scripts, set up a virtualenv with the extra dependencies:
 
 ```bash
 python3 -m venv .venv
@@ -104,7 +90,7 @@ pip install --upgrade pip
 pip install -r scraper/requirements.txt
 ```
 
-- Build the Python wheel and sdist:
+To build a distributable wheel and sdist:
 
 ```bash
 pip install build
@@ -112,14 +98,14 @@ python -m build
 # outputs: dist/fortune_swahili-0.3.1-py3-none-any.whl
 ```
 
-- Rebuild the .deb (uses `data/` by default):
+To rebuild the `.deb` package:
 
 ```bash
 cd scraper
 ./build_deb.sh ../data
 ```
 
-- Use pre-parsed JSON files
+The curated and parsed JSON files live under `scraper/`. Use them directly rather than re-running the raw HTML parsing scripts:
 
 ```bash
 # curated/parsing outputs are stored under scraper/ as JSON files.
@@ -127,21 +113,21 @@ cd scraper
 ls scraper/*.json
 ```
 
-- Merge curated JSON extracts into the main dataset (creates a backup):
+To merge any curated JSON extracts back into the main dataset (a backup is kept automatically):
 
 ```bash
 # merge any curated JSON files (keeps a backup of data/quotes.json)
 python3 scraper/normalize_mwambao.py
 ```
 
-- Run the full apt-repo publish flow locally (produces `scraper/apt-repo`):
+To run the full apt-repo publish flow locally:
 
 ```bash
 cd scraper
 ./make_apt_repo.sh ./fortune-swahili_0.2_all.deb ./apt-repo
 ```
 
-- Test the CLI locally:
+To test the CLI locally:
 
 ```bash
 # Using pip editable install (recommended):
@@ -154,9 +140,6 @@ python3 -m fortune_swahili.cli --count 3
 python3 scraper/bin/fortune-swahili --data data/quotes.json --count 3
 ```
 
-If you plan to publish to GitHub Pages via the workflow, ensure the repository
-secrets `GPG_PRIVATE_KEY` and `GPG_PASSPHRASE` are set in the repo settings
-so the Release can be signed by CI.
+If you plan to publish to GitHub Pages via the workflow, make sure `GPG_PRIVATE_KEY` and `GPG_PASSPHRASE` are set as repository secrets so CI can sign the release.
 
-To publish to PyPI, set the `PYPI_TOKEN` secret; the workflow will call
-`twine upload` automatically on every push to `main`.
+To publish to PyPI, set the `PYPI_TOKEN` secret; the workflow will call `twine upload` automatically on every push to `main`.
