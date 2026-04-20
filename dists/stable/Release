@@ -1,24 +1,24 @@
 Architectures: all
 Codename: stable
 Components: main
-Date: Wed, 15 Oct 2025 10:21:38 +0000
+Date: Mon, 20 Apr 2026 12:41:55 +0000
 Description: Swahili proverbs fortune package repository
 Label: fortune-swahili
 Origin: fortune-swahili
 Suite: stable
 MD5Sum:
- 9290ea5a0608cf01eea9895d729c9cc5              209 Release
+ 67ea57a9a3f463093a8ebb3bcd2aa769              209 Release
  c1e572b7dd8bfcde16493754c01a4b41              492 main/binary-all/Packages
- 29868252db86eb559a091d7c7e0be8c4              353 main/binary-all/Packages.gz
+ fa3a6cca669369fe3f19ed67ff48c256              353 main/binary-all/Packages.gz
 SHA1:
- e0ffacb7e1908c72493a283e91190edd609be498              209 Release
+ 22af3e801b84de9fddef0255a0e95b15a10f8cb7              209 Release
  87582808759fdb347e858dc3fb5139182f5ec7f0              492 main/binary-all/Packages
- c4e92614771f86722f980222ba4c7ae55db9e675              353 main/binary-all/Packages.gz
+ e165665bbdb37ed1fabd132c50f60bf4d3f89b82              353 main/binary-all/Packages.gz
 SHA256:
- fb4fb3b4d0586c67cdd3f2c524e147c5c3c237f27db4ebd613acb9c98ad9949f              209 Release
+ 4816e4775674dceb0e12d8cfce8a40b795a90459c3d6c72c58bcf49eeecce2c6              209 Release
  30abe8eab28df5a411464cb0340205985577a91a2003b3e5d2c93d0fb2e49223              492 main/binary-all/Packages
- c843f0158278896af15763037735e2693ba7f6b4322fda76cddcf7d7ce6714b1              353 main/binary-all/Packages.gz
+ 630eb36d319fd3d3cee89ccb0ea1ff300e046ca2931aeb1b2df8158bcae83352              353 main/binary-all/Packages.gz
 SHA512:
- 5bdc65ed0660e2a993d37fc2dbf444be54528c8f2b9e61e87e41f8754039f565ebf2df2873610d85dd4a2ace9bdcb3e7728970e4c604f265246192aa46ab2463              209 Release
+ b6d122aaf131d353f80f3681bc762ceb2cb47d5b18cd743b0a0c70eaaf00d9e3cbf83d867dc5323d2bb914b8bd86661af3dd69ada2d393aa1aba1eeb43b17b7c              209 Release
  9f98e89802a5394449a348ab199a6ac2bf9aa4c1ce309c5e3cf48a58b6cd17b4423c8a6ebb150efcf78d21efb70ffef9c9a3b68040213d1e65b65f84c1b457ef              492 main/binary-all/Packages
- 9813908d83c17f5801eae5fd2ba38422b2ffe1d6d28f44373ca0bb0b384ab8428e4a177206d977bc388828a5ab856f8bb94bb2ad2307fdc0de99027f96ffd577              353 main/binary-all/Packages.gz
+ b3f42b299b9cb1ec4caabaa78edd77b8cc39d979216d4831362471c8118005309efbe01b7f46fc05a6212bd73b75d6e39c77c86a2a6ef5389bf173b2b5a8e8ae              353 main/binary-all/Packages.gz
